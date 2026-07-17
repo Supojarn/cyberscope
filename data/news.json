@@ -1,6 +1,142 @@
 {
-  "generatedAt": "2026-07-17T02:36:17.729Z",
+  "generatedAt": "2026-07-17T15:31:40.109Z",
   "items": [
+    {
+      "title": "Ernst & Young discloses data breach after support system hack",
+      "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+      "publishedAt": "2026-07-17T14:55:28.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
+      "summary": "Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach. The post In Other News: Iran Tracks US Military…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
+      "publishedAt": "2026-07-17T14:27:54.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "publishedAt": "2026-07-17T13:48:56.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
+      "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
+      "publishedAt": "2026-07-17T13:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive",
+      "summary": "(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up? The post Podcast: Broken Governance, Agentic AI, and the MindStone…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/",
+      "publishedAt": "2026-07-17T12:11:22.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Google Bets 'Agentic Defense' Strategy Can Outpace Attackers",
+      "summary": "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
+      "publishedAt": "2026-07-17T11:50:25.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
+      "summary": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+      "publishedAt": "2026-07-17T11:05:30.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "publishedAt": "2026-07-17T10:53:31.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "publishedAt": "2026-07-17T08:56:39.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "publishedAt": "2026-07-17T08:46:45.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft ออกแพตช์กรกฎาคม 2026 แก้ไข 622 ช่องโหว่ และ 2 Zero-Day ที่ถูกใช้โจมตีจริง",
+      "summary": "393/69 (IT) ประจำวันศุกร์ที่ 16 กรกฎาคม 2569 Microsoft […] The post Microsoft ออกแพตช์กรกฎาคม 2026 แก้ไข 622 ช่องโหว่ และ 2 Zero-Day ที่ถูกใช้โจมตีจริง first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/07/17/microsoft-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b8%81%e0%b8%a3%e0%b8%81%e0%b8%8e%e0%b8%b2%e0%b8%84%e0%b8%a1-2026-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82-622/",
+      "publishedAt": "2026-07-17T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "F5 ออกแพตช์แก้ช่องโหว่หลายรายการใน NGINX และ BIG-IP เสี่ยง DoS และรันโค้ดบนระบบ",
+      "summary": "392/69 (IT) ประจำวันศุกร์ที่ 16 กรกฎาคม 2569 F5 ออกประก […] The post F5 ออกแพตช์แก้ช่องโหว่หลายรายการใน NGINX และ BIG-IP เสี่ยง DoS และรันโค้ดบนระบบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/07/17/f5-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%ab%e0%b8%a5/",
+      "publishedAt": "2026-07-17T08:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Zoom แจ้งเตือนช่องโหว่ เสี่ยงถูกยึดบัญชีผู้ใช้งานบนระบบปฏิบัติการ Windows",
+      "summary": "391/69 (IT) ประจำวันศุกร์ที่ 16 กรกฎาคม 2569 บริษัท Zoo […] The post Zoom แจ้งเตือนช่องโหว่ เสี่ยงถูกยึดบัญชีผู้ใช้งานบนระบบปฏิบัติการ Windows first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/07/17/zoom-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88/",
+      "publishedAt": "2026-07-17T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Fresh SharePoint Vulnerability Exploited Soon After Disclosure",
+      "summary": "The critical-severity security defect allows remote, authenticated attackers to execute arbitrary code on the server. The post Fresh SharePoint Vulnerability Exploited Soon After Disclosure appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
+      "publishedAt": "2026-07-17T07:15:59.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
+      "summary": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+      "publishedAt": "2026-07-17T07:03:33.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+      "publishedAt": "2026-07-17T06:42:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack",
+      "summary": "The company has yet to determine the full scope, nature, and impact of the incident. The post Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/",
+      "publishedAt": "2026-07-17T06:23:08.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "ด่วน! แจ้งเตือนช่องโหว่หลายรายการใน Microsoft SharePoint Server เร่งอัปเดตระบบทันที",
       "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post ด่วน! แจ้งเตือนช่องโหว่หลายรายการใน Microsoft SharePoint Server เร่งอัปเดตระบบทันที first appeared on Thailand Computer Emergency Response Team…",
@@ -26,8 +162,8 @@
       "category": "kill-chain"
     },
     {
-      "title": "Agentic AI Is Untamable: Ask the Right Security Questions",
-      "summary": "Forget about attackers. Agentic artificial intelligence is creating enough risks for organizations and demands a security reframe.",
+      "title": "Agentic AI: Taming the Unpredictable",
+      "summary": "Agentic artificial intelligence is creating enough risks for organizations to demand a security reframe.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
       "publishedAt": "2026-07-16T20:57:47.000Z",
@@ -90,14 +226,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing",
-      "summary": "The new macOS malware has targeted at least 100 users to steal their passwords and cryptocurrency. The post ‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/",
-      "publishedAt": "2026-07-16T12:43:59.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
       "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind…",
       "source": "The Hacker News",
@@ -122,14 +250,6 @@
       "category": "ai-security"
     },
     {
-      "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
-      "summary": "The startup has built an AI-powered Identity Operating System that governs all identities across an organization’s environment. The post Oak Emerges From Stealth Mode With $60 Million in Funding appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
-      "publishedAt": "2026-07-16T11:23:56.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
       "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin…",
       "source": "The Hacker News",
@@ -146,14 +266,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Splunk, Zoom Patch Critical Vulnerabilities",
-      "summary": "The flaws could allow attackers to access credentials and data, take over accounts, and escalate their privileges. The post Splunk, Zoom Patch Critical Vulnerabilities appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/",
-      "publishedAt": "2026-07-16T10:54:34.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "พบช่องโหว่ความรุนแรงสูงในอุปกรณ์ SonicWall SMA1000 Series เร่งอัปเดตและตรวจสอบระบบทันที",
       "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post พบช่องโหว่ความรุนแรงสูงในอุปกรณ์ SonicWall SMA1000 Series เร่งอัปเดตและตรวจสอบระบบทันที first appeared on Thailand Computer Emergency Response Team…",
       "source": "ThaiCERT/ETDA",
@@ -162,36 +274,12 @@
       "category": "thailand"
     },
     {
-      "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
-      "summary": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
-      "publishedAt": "2026-07-16T10:19:34.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
       "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
       "publishedAt": "2026-07-16T10:10:00.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
-      "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
-      "publishedAt": "2026-07-16T10:00:00.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "F5 Patches Multiple NGINX, BIG-IP Vulnerabilities",
-      "summary": "Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code. The post F5 Patches Multiple NGINX, BIG-IP Vulnerabilities appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/",
-      "publishedAt": "2026-07-16T09:20:10.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
@@ -231,94 +319,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
       "publishedAt": "2026-07-16T07:22:44.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
-      "summary": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability. The post Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
-      "publishedAt": "2026-07-16T06:48:40.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "OpenAI เผยรายละเอียด GPT-Red ระบบ AI โจมตีตัวเอง",
-      "summary": "OpenAI เผยรายละเอียดเกี่ยวกับ GPT-Red ซึ่งเป็นระบบปัญญาประดิษฐ์ภายในที่สร้างขึ้นเพื่อโจมตีโมเดลของตนเองและค้นหาช่องโหว่ประเภทการแทรกคำสั่ง (Prompt Injection) ก่อนที่ช่องโหว่เหล่านั้นจะไปถึงมือผู้ใช้งาน Red Teaming…",
-      "source": "TechTalkThai",
-      "url": "https://www.techtalkthai.com/openai-details-gpt-red-an-ai-that-attacks-its-own-models/",
-      "publishedAt": "2026-07-16T03:28:55.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
-      "summary": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
-      "publishedAt": "2026-07-15T20:16:13.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "publishedAt": "2026-07-15T20:16:02.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-      "publishedAt": "2026-07-15T18:43:08.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "publishedAt": "2026-07-15T18:33:48.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AsyncAPI npm packages infected with credential-stealing malware",
-      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
-      "publishedAt": "2026-07-15T15:37:27.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
-      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
-      "publishedAt": "2026-07-15T15:30:30.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Claude Flaw Automatically Sends Malicious Prompts to AI Agents",
-      "summary": "When combined with another exploit, the \"PromptFiction\" vulnerability, which has been fixed, could have enabled an end-to-end attack on a targeted system.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents",
-      "publishedAt": "2026-07-15T15:27:35.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-      "publishedAt": "2026-07-15T13:18:53.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "2-Click Cursor Exploit Enables Dev Environment Takeover",
-      "summary": "Simple age-old bugs give bad actors access to developers' secrets and source code-rich environments.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover",
-      "publishedAt": "2026-07-15T13:00:00.000Z",
       "category": "kill-chain"
     }
   ]
