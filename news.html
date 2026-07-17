@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ข่าวไซเบอร์ซีเคียวริตี้ล่าสุดจากทั่วโลกและประเทศไทย อัปเดตอัตโนมัติทุกวัน — คัดกรองเฉพาะเรื่อง Cyber Kill Chain, AI Security และ Post-Quantum Cryptography">
+  <title>ข่าวไซเบอร์ซีเคียวริตี้ล่าสุด — อัปเดตทุกวัน | CyberScope</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">Cyber</span>Scope</a>
+      <button class="nav-toggle" aria-label="เปิด/ปิดเมนู" aria-expanded="false">☰</button>
+      <nav class="main-nav" aria-label="เมนูหลัก">
+        <ul>
+          <li><a href="index.html">หน้าแรก</a></li>
+          <li><a href="kill-chain.html">Cyber Kill Chain</a></li>
+          <li><a href="ai-security.html">AI &amp; Security</a></li>
+          <li><a href="pqc.html">Post-Quantum</a></li>
+          <li><a href="news.html" class="active">ข่าวล่าสุด</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container breadcrumb">
+      <a href="index.html">หน้าแรก</a><span class="sep">/</span><span class="current">ข่าวล่าสุด</span>
+    </div>
+
+    <section class="hero hero-small">
+      <div class="container">
+        <h1>ข่าวไซเบอร์ซีเคียวริตี้ล่าสุด</h1>
+        <p class="lead">
+          รวบรวมอัตโนมัติทุกวันจากแหล่งข่าวชั้นนำทั่วโลกและของไทย
+          คัดกรองเฉพาะข่าวที่เกี่ยวกับ Cyber Kill Chain, AI Security และ Post-Quantum Cryptography
+          <br><span id="news-updated">กำลังโหลด…</span>
+        </p>
+      </div>
+    </section>
+
+    <section class="content-section">
+      <div class="container">
+        <div class="filter-bar" id="filter-bar" role="group" aria-label="กรองข่าวตามหมวด">
+          <button class="filter-chip active" data-filter="all">ทั้งหมด</button>
+          <button class="filter-chip" data-filter="kill-chain">Cyber Kill Chain</button>
+          <button class="filter-chip" data-filter="ai-security">AI &amp; Security</button>
+          <button class="filter-chip" data-filter="pqc">PQC</button>
+          <button class="filter-chip" data-filter="thailand">ข่าวไทย</button>
+        </div>
+
+        <div class="news-grid" id="news-grid">
+          <div class="news-empty" id="news-loading">กำลังโหลดข่าวล่าสุด…</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <nav class="footer-nav" aria-label="เมนูท้ายเว็บ">
+        <a href="index.html">หน้าแรก</a>
+        <a href="kill-chain.html">Cyber Kill Chain</a>
+        <a href="ai-security.html">AI &amp; Security</a>
+        <a href="pqc.html">Post-Quantum</a>
+        <a href="news.html">ข่าวล่าสุด</a>
+      </nav>
+      <div class="footer-sources">
+        <strong>แหล่งข่าว:</strong> The Hacker News, BleepingComputer, Krebs on Security, Dark Reading,
+        SecurityWeek, NIST CSRC, ThaiCERT/ETDA, NCSA, TechTalkThai
+        — ลิขสิทธิ์ข่าวเป็นของแหล่งข่าวต้นทาง เว็บไซต์นี้แสดงเพียงหัวข้อ/สรุปย่อพร้อมลิงก์กลับไปยังต้นฉบับ
+      </div>
+      <p class="footer-copy">CyberScope — เว็บไซต์ให้ความรู้ด้านความมั่นคงปลอดภัยไซเบอร์ เพื่อการศึกษาเท่านั้น</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+  <script src="js/news.js"></script>
+</body>
+</html>

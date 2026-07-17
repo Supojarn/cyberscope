@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Post-Quantum Cryptography (PQC) — ทำไมคอมพิวเตอร์ควอนตัมเป็นภัยต่อ RSA/ECC, มาตรฐาน NIST FIPS 203/204/205 และ timeline การเปลี่ยนผ่านสู่ยุคหลังควอนตัม">
+  <title>Post-Quantum Cryptography — เตรียมรับมือยุคควอนตัม | CyberScope</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">Cyber</span>Scope</a>
+      <button class="nav-toggle" aria-label="เปิด/ปิดเมนู" aria-expanded="false">☰</button>
+      <nav class="main-nav" aria-label="เมนูหลัก">
+        <ul>
+          <li><a href="index.html">หน้าแรก</a></li>
+          <li><a href="kill-chain.html">Cyber Kill Chain</a></li>
+          <li><a href="ai-security.html">AI &amp; Security</a></li>
+          <li><a href="pqc.html" class="active">Post-Quantum</a></li>
+          <li><a href="news.html">ข่าวล่าสุด</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container breadcrumb">
+      <a href="index.html">หน้าแรก</a><span class="sep">/</span><span class="current">Post-Quantum Cryptography</span>
+    </div>
+
+    <section class="hero hero-small">
+      <div class="container">
+        <h1>Post-Quantum Cryptography: เตรียมการเข้ารหัสให้รอดยุคควอนตัม</h1>
+        <p class="lead">
+          คอมพิวเตอร์ควอนตัมที่ทรงพลังพอจะถอดรหัส RSA และ ECC อาจมาถึงภายในทศวรรษนี้
+          แต่ข้อมูลที่ถูก &ldquo;เก็บเกี่ยว&rdquo; ไว้วันนี้กำลังรอถูกถอดในวันนั้นอยู่แล้ว —
+          นี่คือเหตุผลที่การเปลี่ยนผ่านสู่ PQC ต้องเริ่มตั้งแต่ตอนนี้
+        </p>
+      </div>
+    </section>
+
+    <section class="content-section">
+      <div class="container">
+
+        <h2>ทำไมควอนตัมถึงเป็นภัยต่อการเข้ารหัสปัจจุบัน?</h2>
+        <p>
+          การเข้ารหัสกุญแจสาธารณะ (public-key cryptography) ที่โลกใช้อยู่ทุกวันนี้ —
+          <strong>RSA</strong> และ <strong>ECC (Elliptic Curve Cryptography)</strong> —
+          ปลอดภัยเพราะอาศัยโจทย์คณิตศาสตร์ที่คอมพิวเตอร์ปกติใช้เวลาแก้นานเกินกว่าจะคุ้ม
+          เช่น การแยกตัวประกอบจำนวนเฉพาะขนาดมหึมา หรือปัญหา discrete logarithm บนเส้นโค้งวงรี
+          ทุกครั้งที่คุณเห็นรูปกุญแจ HTTPS บนเบราว์เซอร์ โอนเงินผ่านแอปธนาคาร
+          หรือเซ็นเอกสารดิจิทัล คณิตศาสตร์เหล่านี้คือสิ่งที่ปกป้องคุณอยู่
+        </p>
+        <p>
+          แต่ในปี 1994 นักคณิตศาสตร์ Peter Shor พิสูจน์ว่า <strong>คอมพิวเตอร์ควอนตัม
+          ที่ใหญ่พอสามารถแก้โจทย์ทั้งสองแบบได้ในเวลาอันสั้น</strong> (Shor's algorithm)
+          — วันที่เครื่องระดับนั้นถูกสร้างสำเร็จ (บางครั้งเรียกว่า &ldquo;Q-Day&rdquo;)
+          การเข้ารหัสกุญแจสาธารณะที่ใช้อยู่แทบทั้งหมดจะถูกถอดได้ทันที
+          ผู้เชี่ยวชาญหลายสำนักประเมินว่าอาจเกิดขึ้นภายในช่วงต้นทศวรรษ 2030
+          ส่วนการเข้ารหัสแบบสมมาตรอย่าง AES ได้รับผลกระทบน้อยกว่า
+          (แค่ต้องเพิ่มขนาดกุญแจ เช่น ใช้ AES-256)
+        </p>
+
+        <div class="callout">
+          <h3>&ldquo;Harvest Now, Decrypt Later&rdquo; — ภัยที่เกิดขึ้นแล้ววันนี้</h3>
+          <p>
+            หลายคนคิดว่า &ldquo;รอให้ควอนตัมมาก่อนค่อยกังวล&rdquo; แต่ความจริงคือผู้โจมตี
+            (โดยเฉพาะระดับรัฐ) กำลัง <strong>ดักเก็บข้อมูลเข้ารหัสจำนวนมหาศาลไว้ตั้งแต่วันนี้</strong>
+            เพื่อรอถอดรหัสเมื่อคอมพิวเตอร์ควอนตัมพร้อม — ข้อมูลที่ต้องเป็นความลับยาวนาน 10-25 ปี
+            เช่น ความลับทางการทูต ประวัติสุขภาพ ข้อมูลการเงิน หรือทรัพย์สินทางปัญญา
+            จึง &ldquo;แพ้แล้ว&rdquo; ตั้งแต่ตอนถูกดักเก็บ ถ้ายังส่งผ่านการเข้ารหัสแบบเดิม
+            นี่คือเหตุผลที่การย้ายสู่ PQC เร่งด่วนกว่าที่หลายคนคิด
+          </p>
+        </div>
+
+        <h2>มาตรฐาน PQC ของ NIST — ประกาศใช้จริงแล้ว</h2>
+        <p>
+          หลังกระบวนการคัดเลือกและทดสอบอัลกอริทึมจากทั่วโลกนานถึง <strong>8 ปี</strong>
+          NIST (สถาบันมาตรฐานและเทคโนโลยีแห่งชาติสหรัฐฯ) ประกาศมาตรฐาน PQC ชุดแรก
+          อย่างเป็นทางการเมื่อ <strong>13 สิงหาคม 2024</strong> ทั้ง 3 มาตรฐานอิงโจทย์คณิตศาสตร์
+          ที่เชื่อว่าแม้แต่คอมพิวเตอร์ควอนตัมก็แก้ไม่ได้ในเวลาอันสมเหตุสมผล:
+        </p>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>มาตรฐาน</th>
+                <th>ชื่อเต็ม</th>
+                <th>ใช้ทำอะไร</th>
+                <th>อิงจากอัลกอริทึมใด</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><span class="std-code">FIPS 203</span></td>
+                <td>ML-KEM (Module-Lattice-Based Key-Encapsulation Mechanism)</td>
+                <td>แลกเปลี่ยนกุญแจ (แทน RSA/ECDH) — มาตรฐานหลักสำหรับการเข้ารหัสทั่วไป</td>
+                <td>CRYSTALS-Kyber</td>
+              </tr>
+              <tr>
+                <td><span class="std-code">FIPS 204</span></td>
+                <td>ML-DSA (Module-Lattice-Based Digital Signature Algorithm)</td>
+                <td>ลายเซ็นดิจิทัล — มาตรฐานหลัก เร็วและลายเซ็นมีขนาดเล็ก</td>
+                <td>CRYSTALS-Dilithium</td>
+              </tr>
+              <tr>
+                <td><span class="std-code">FIPS 205</span></td>
+                <td>SLH-DSA (Stateless Hash-Based Digital Signature Algorithm)</td>
+                <td>ลายเซ็นดิจิทัล (ตัวสำรอง) — อิง hash function ล้วน ใช้คณิตศาสตร์คนละแบบเผื่อ lattice ถูกเจาะ</td>
+                <td>SPHINCS+</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h2>Timeline การเปลี่ยนผ่าน</h2>
+        <p>
+          สหรัฐฯ เดินหน้าเรื่องนี้จริงจัง — <strong>คำสั่งบริหาร (Executive Order) เดือนมิถุนายน 2026</strong>
+          กำหนดเส้นตายให้ระบบสำคัญของรัฐบาลกลางย้ายสู่ PQC ภายใน:
+        </p>
+        <ul>
+          <li><strong>ปี 2030</strong> — การแลกเปลี่ยนกุญแจ (key establishment) ต้องใช้อัลกอริทึมทนควอนตัม</li>
+          <li><strong>ปี 2031</strong> — ลายเซ็นดิจิทัล (digital signatures) ต้องใช้อัลกอริทึมทนควอนตัม</li>
+        </ul>
+        <p>
+          ฝั่งความมั่นคง <strong>NSA ออกชุดมาตรฐาน CNSA 2.0 (Commercial National Security
+          Algorithm Suite)</strong> สำหรับระบบความมั่นคงแห่งชาติ โดยบังคับใช้
+          <strong>ML-KEM + ML-DSA เป็นอัลกอริทึมหลัก</strong> และ <strong>SLH-DSA
+          เป็นทางเลือกสำรอง</strong> (สำหรับบางกรณีเช่นการเซ็นเฟิร์มแวร์/ซอฟต์แวร์)
+          ทำงานร่วมกับ <strong>SHA-384/512</strong> สำหรับ hashing และ
+          <strong>AES-256</strong> สำหรับการเข้ารหัสแบบสมมาตร
+          ผู้ผลิตอุปกรณ์และซอฟต์แวร์ที่ขายให้ภาครัฐสหรัฐฯ ต้องทยอยรองรับตามกรอบเวลานี้
+          — ซึ่งจะกลายเป็นแรงผลักให้ทั้งอุตสาหกรรมทั่วโลกขยับตาม
+        </p>
+
+        <div class="callout">
+          <h3>องค์กรควรเริ่มอย่างไร: Crypto Inventory + Hybrid Deployment</h3>
+          <p>
+            <strong>ขั้นแรก — ทำ crypto inventory:</strong> สำรวจว่าองค์กรใช้การเข้ารหัสที่ไหนบ้าง
+            (TLS, VPN, ลายเซ็นดิจิทัล, ฐานข้อมูล, ฮาร์ดแวร์ HSM, ใบรับรอง, IoT)
+            ใช้อัลกอริทึมอะไร กุญแจอายุเท่าไร และข้อมูลไหนต้องลับยาวนานที่สุด —
+            รู้ก่อนว่ามีอะไร จึงจะวางแผนย้ายได้ (หลักการเดียวกับที่เรียกกันว่า
+            crypto-agility: ออกแบบระบบให้สลับอัลกอริทึมได้โดยไม่ต้องรื้อใหม่)
+          </p>
+          <p>
+            <strong>ขั้นถัดมา — hybrid deployment:</strong> ระหว่างเปลี่ยนผ่าน
+            ให้รันอัลกอริทึมเดิมคู่ขนานกับ PQC (เช่น ECDH + ML-KEM ใน TLS handshake เดียวกัน)
+            ข้อมูลจะปลอดภัยตราบใดที่อย่างน้อยหนึ่งในสองอัลกอริทึมยังไม่ถูกเจาะ —
+            เบราว์เซอร์และบริการใหญ่ (Chrome, Cloudflare, Apple iMessage, Signal)
+            เริ่มใช้แนวทางนี้ในระบบจริงแล้ว จัดลำดับความสำคัญจากข้อมูลที่ต้องลับนานที่สุดก่อน
+          </p>
+        </div>
+
+        <div class="callout-thailand">
+          <h3>🇹🇭 ผลกระทบต่อประเทศไทย</h3>
+          <p>
+            ภาคการเงินไทยเริ่มขยับแล้ว — <strong>สมาคมธนาคารไทย (TBA) ร่วมกับธนาคารแห่งประเทศไทย</strong>
+            เริ่มประเมินความเสี่ยงจาก quantum computing ต่อระบบการเงิน โดย
+            <strong>TB-CERT (Thailand Banking Sector CERT)</strong> ติดตามมาตรฐานสากล
+            ด้าน PQC มาแล้วราว <strong>2 ปี</strong> และคาดว่าธนาคารไทยจะต้องเริ่มเตรียมการจริงจัง
+            ภายใน <strong>2-3 ปีข้างหน้า</strong> อย่างไรก็ตาม ระดับความพร้อมยังแตกต่างกันมาก
+            ในแต่ละสถาบัน — ธนาคารใหญ่บางแห่งเริ่มศึกษา crypto inventory แล้ว
+            ขณะที่หลายแห่งยังไม่เริ่มนับหนึ่ง
+          </p>
+          <p>
+            จุดที่น่ากังวลคือ <strong>ไทยยังไม่มีนโยบายหรือ roadmap ระดับชาติด้าน PQC ที่ชัดเจน</strong>
+            จากหน่วยงานกำกับดูแลอย่าง กสทช. (NBTC) หรือ ETDA ต่างจากสหรัฐฯ สหภาพยุโรป
+            หรือสิงคโปร์ที่ประกาศกรอบเวลาแล้ว ช่องว่างนี้ทำให้ภาระตกอยู่กับแต่ละองค์กร
+            ที่ต้องตัดสินใจเอง
+          </p>
+          <p>
+            คำแนะนำ: ภาคเอกชนและหน่วยงานที่ถือ<strong>ข้อมูลอ่อนไหวระยะยาว</strong> —
+            สถาบันการเงิน, หน่วยงานราชการ, สาธารณสุข (เวชระเบียนต้องลับตลอดชีวิตผู้ป่วย) —
+            ไม่ควรรอ roadmap ระดับชาติ แต่ควรเริ่มศึกษาความเสี่ยงแบบ
+            <strong>&ldquo;harvest now, decrypt later&rdquo;</strong> ด้วยตนเองตั้งแต่วันนี้:
+            ทำ crypto inventory, ถามผู้ขายระบบ (vendor) ถึงแผนรองรับ PQC
+            และวางงบสำหรับการเปลี่ยนผ่านในแผนไอที 3-5 ปีข้างหน้า
+          </p>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <nav class="footer-nav" aria-label="เมนูท้ายเว็บ">
+        <a href="index.html">หน้าแรก</a>
+        <a href="kill-chain.html">Cyber Kill Chain</a>
+        <a href="ai-security.html">AI &amp; Security</a>
+        <a href="pqc.html">Post-Quantum</a>
+        <a href="news.html">ข่าวล่าสุด</a>
+      </nav>
+      <div class="footer-sources">
+        <strong>อ้างอิง:</strong> NIST CSRC (FIPS 203/204/205, สิงหาคม 2024), NSA (CNSA 2.0 Suite),
+        ทำเนียบขาวสหรัฐฯ (Executive Order มิ.ย. 2026), Fortinet, Kiteworks,
+        Bangkok Post (ธนาคารไทยกับ quantum computing), สมาคมธนาคารไทย / TB-CERT
+      </div>
+      <p class="footer-copy">CyberScope — เว็บไซต์ให้ความรู้ด้านความมั่นคงปลอดภัยไซเบอร์ เพื่อการศึกษาเท่านั้น</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

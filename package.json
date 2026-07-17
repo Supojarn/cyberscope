@@ -1,0 +1,12 @@
+{
+  "name": "cyberscope",
+  "version": "1.0.0",
+  "description": "CyberScope — เว็บไซต์ให้ความรู้ด้าน Cyber Security พร้อมระบบข่าวอัปเดตรายวัน",
+  "private": true,
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

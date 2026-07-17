@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Cyber Kill Chain — กายวิภาคของการโจมตีไซเบอร์ 7 ขั้นตอนตามโมเดลของ Lockheed Martin พร้อมแนวทางรับมือในแต่ละขั้น">
+  <title>Cyber Kill Chain — 7 ขั้นตอนของการโจมตีไซเบอร์ | CyberScope</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">Cyber</span>Scope</a>
+      <button class="nav-toggle" aria-label="เปิด/ปิดเมนู" aria-expanded="false">☰</button>
+      <nav class="main-nav" aria-label="เมนูหลัก">
+        <ul>
+          <li><a href="index.html">หน้าแรก</a></li>
+          <li><a href="kill-chain.html" class="active">Cyber Kill Chain</a></li>
+          <li><a href="ai-security.html">AI &amp; Security</a></li>
+          <li><a href="pqc.html">Post-Quantum</a></li>
+          <li><a href="news.html">ข่าวล่าสุด</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container breadcrumb">
+      <a href="index.html">หน้าแรก</a><span class="sep">/</span><span class="current">Cyber Kill Chain</span>
+    </div>
+
+    <section class="hero hero-small">
+      <div class="container">
+        <h1>Cyber Kill Chain: กายวิภาคของการโจมตีไซเบอร์ 7 ขั้นตอน</h1>
+        <p class="lead">
+          โมเดลจาก Lockheed Martin ที่ช่วยให้ฝ่ายป้องกันมองเห็นการโจมตีเป็น &ldquo;ห่วงโซ่&rdquo;
+          — ผู้โจมตีต้องทำสำเร็จครบทุกขั้น แต่ฝ่ายป้องกันหยุดได้เพียงขั้นเดียวก็เอาชนะได้
+        </p>
+      </div>
+    </section>
+
+    <section class="content-section">
+      <div class="container">
+        <h2>โมเดลนี้คืออะไร?</h2>
+        <p>
+          Cyber Kill Chain&reg; เป็นเฟรมเวิร์กที่ Lockheed Martin พัฒนาขึ้นในปี 2011
+          ภายใต้แนวคิด <strong>Intelligence Driven Defense</strong> โดยดัดแปลงมาจากแนวคิด
+          &ldquo;kill chain&rdquo; ทางการทหาร มันแบ่งการโจมตีไซเบอร์แบบเจาะจงเป้าหมาย
+          (เช่น การโจมตีแบบ APT — Advanced Persistent Threat) ออกเป็น 7 ขั้นตอนที่ต้องเกิดขึ้นตามลำดับ
+        </p>
+        <p>
+          หลักการสำคัญที่ทำให้โมเดลนี้ทรงพลังคือความไม่สมมาตรที่เข้าข้างฝ่ายป้องกัน:
+          <strong>ผู้โจมตีต้องทำทุกขั้นตอนให้สำเร็จ แต่ฝ่ายป้องกันแค่ตัดห่วงโซ่ได้ที่ขั้นใดขั้นหนึ่ง
+          การโจมตีทั้งหมดก็ล้มเหลว</strong> ยิ่งหยุดได้เร็ว (ขั้นต้นๆ ของโซ่) ความเสียหายและต้นทุน
+          ในการรับมือก็ยิ่งต่ำ
+        </p>
+
+        <h2>7 ขั้นตอนของ Kill Chain</h2>
+        <div class="timeline">
+
+          <div class="timeline-step" data-step="1">
+            <h3>สอดแนม</h3>
+            <span class="step-en">Reconnaissance</span>
+            <p>
+              ผู้โจมตีเก็บข้อมูลเป้าหมายให้มากที่สุดก่อนลงมือ ทั้งจากแหล่งเปิด (OSINT)
+              เช่น เว็บไซต์องค์กร โซเชียลมีเดียของพนักงาน ประกาศรับสมัครงาน
+              และจากการสแกนเชิงเทคนิค เช่น ค้นหาโดเมน, IP, พอร์ตที่เปิด,
+              เวอร์ชันซอฟต์แวร์ที่มีช่องโหว่ รวมถึงอีเมลพนักงานสำหรับใช้ทำฟิชชิงในขั้นถัดไป
+            </p>
+            <div class="defense-box">
+              <strong>แนวทางรับมือ:</strong> จำกัดข้อมูลองค์กรที่เปิดเผยสาธารณะ,
+              อบรมพนักงานเรื่องการแชร์ข้อมูลบนโซเชียล, เฝ้าระวัง log การสแกนพอร์ตผิดปกติ
+              และใช้ threat intelligence ติดตามว่าใครกำลังสนใจองค์กรของเรา
+            </div>
+          </div>
+
+          <div class="timeline-step" data-step="2">
+            <h3>สร้างอาวุธไซเบอร์</h3>
+            <span class="step-en">Weaponization</span>
+            <p>
+              ผู้โจมตีนำข้อมูลที่ได้มาประกอบ &ldquo;อาวุธ&rdquo; — จับคู่ exploit
+              (โค้ดเจาะช่องโหว่) เข้ากับ payload (มัลแวร์) แล้วฝังลงในพาหะที่ดูไม่มีพิษภัย
+              เช่น ไฟล์ PDF, เอกสาร Office ที่มีมาโคร หรือไฟล์แนบปลอมอื่นๆ
+              ขั้นนี้เกิดขึ้นฝั่งผู้โจมตีทั้งหมด ฝ่ายป้องกันจึงมองไม่เห็นโดยตรง
+            </p>
+            <div class="defense-box">
+              <strong>แนวทางรับมือ:</strong> แม้ตรวจจับตรงๆ ไม่ได้ แต่ลดพื้นที่โจมตีได้ด้วยการ
+              patch ซอฟต์แวร์สม่ำเสมอ, ปิดมาโครในเอกสารจากภายนอกโดยค่าเริ่มต้น
+              และวิเคราะห์ artifact ของมัลแวร์เก่าเพื่อรู้จักเครื่องมือของผู้โจมตี (threat intel)
+            </div>
+          </div>
+
+          <div class="timeline-step" data-step="3">
+            <h3>ส่งมอบ</h3>
+            <span class="step-en">Delivery</span>
+            <p>
+              การนำอาวุธไปถึงเป้าหมาย — ช่องทางยอดนิยมคืออีเมลฟิชชิงพร้อมไฟล์แนบหรือลิงก์,
+              เว็บไซต์ปลอม/เว็บที่ถูกฝังโค้ด (watering hole), แฟลชไดรฟ์ USB ที่ทิ้งไว้ให้เก็บ
+              ไปจนถึงการเจาะผ่านซัพพลายเชน (ฝังมัลแวร์ในซอฟต์แวร์หรือผู้ให้บริการที่เป้าหมายใช้อยู่)
+              ขั้นนี้เป็นจุดแรกที่ฝ่ายป้องกันมีโอกาสสกัดโดยตรง
+            </p>
+            <div class="defense-box">
+              <strong>แนวทางรับมือ:</strong> ระบบกรองอีเมลและ sandbox ตรวจไฟล์แนบ,
+              อบรม phishing awareness ให้พนักงานอย่างต่อเนื่อง, บล็อกเว็บอันตราย (web filtering),
+              ควบคุมการใช้ USB และตรวจสอบความปลอดภัยของซัพพลายเออร์
+            </div>
+          </div>
+
+          <div class="timeline-step" data-step="4">
+            <h3>ใช้ประโยชน์จากช่องโหว่</h3>
+            <span class="step-en">Exploitation</span>
+            <p>
+              เมื่ออาวุธถึงมือเหยื่อ โค้ดอันตรายจะถูกกระตุ้นให้ทำงาน —
+              อาจอาศัยช่องโหว่ของซอฟต์แวร์/ระบบปฏิบัติการ (รวมถึง zero-day ที่ยังไม่มี patch)
+              หรืออาศัย &ldquo;ช่องโหว่มนุษย์&rdquo; คือหลอกให้ผู้ใช้คลิกเปิดไฟล์
+              เปิดใช้งานมาโคร หรือกรอกรหัสผ่านในหน้าเว็บปลอมด้วยตัวเอง
+            </p>
+            <div class="defense-box">
+              <strong>แนวทางรับมือ:</strong> อัปเดต patch ทันทีที่ออก (vulnerability management),
+              ใช้ EDR (Endpoint Detection &amp; Response) ตรวจพฤติกรรมผิดปกติ,
+              hardening ระบบตามหลัก least privilege และเปิด exploit mitigation ของ OS
+            </div>
+          </div>
+
+          <div class="timeline-step" data-step="5">
+            <h3>ติดตั้งมัลแวร์</h3>
+            <span class="step-en">Installation</span>
+            <p>
+              ผู้โจมตีฝังตัวในระบบให้อยู่ได้ยาว (persistence) — ติดตั้งแบ็คดอร์,
+              remote access trojan (RAT) หรือ webshell แล้วซ่อนตัวด้วยการแก้ registry,
+              สร้าง scheduled task, ปลอมเป็น service ปกติ เพื่อให้กลับเข้ามาได้อีก
+              แม้เครื่องจะถูกรีสตาร์ตหรือรหัสผ่านถูกเปลี่ยน
+            </p>
+            <div class="defense-box">
+              <strong>แนวทางรับมือ:</strong> ใช้ EDR/HIPS ตรวจจับการสร้าง persistence,
+              จำกัดสิทธิ์การติดตั้งซอฟต์แวร์, ทำ application allowlisting
+              และเฝ้าระวังการเปลี่ยนแปลงไฟล์ระบบและ registry ที่ผิดปกติ
+            </div>
+          </div>
+
+          <div class="timeline-step" data-step="6">
+            <h3>สั่งการและควบคุม</h3>
+            <span class="step-en">Command &amp; Control (C2)</span>
+            <p>
+              มัลแวร์เชื่อมต่อกลับไปยังเซิร์ฟเวอร์ของผู้โจมตี (C2 server)
+              เพื่อเปิดช่องทางสั่งการจากระยะไกล — มักพรางตัวในทราฟฟิกปกติ เช่น HTTPS,
+              DNS tunneling หรือใช้บริการ cloud ที่ถูกกฎหมายเป็นตัวกลาง
+              จุดนี้ผู้โจมตีได้ &ldquo;มือที่อยู่บนคีย์บอร์ด&rdquo; ภายในเครือข่ายเหยื่อแล้ว
+            </p>
+            <div class="defense-box">
+              <strong>แนวทางรับมือ:</strong> เฝ้าระวังทราฟฟิกขาออกผิดปกติ (egress filtering),
+              ใช้ DNS filtering บล็อกโดเมน C2 ที่รู้จัก, ทำ network segmentation
+              จำกัดการเคลื่อนที่ในเครือข่าย และวิเคราะห์ beaconing pattern ด้วย NDR/SIEM
+            </div>
+          </div>
+
+          <div class="timeline-step" data-step="7">
+            <h3>บรรลุเป้าหมาย</h3>
+            <span class="step-en">Actions on Objectives</span>
+            <p>
+              ขั้นสุดท้าย — ผู้โจมตีลงมือทำสิ่งที่ตั้งใจมาตั้งแต่ต้น ไม่ว่าจะเป็นขโมยข้อมูล
+              (data exfiltration), เข้ารหัสไฟล์เรียกค่าไถ่ (ransomware), ทำลายระบบ,
+              แอบดักฟังระยะยาว หรือใช้เครือข่ายที่ยึดได้เป็นฐานโจมตีองค์กรอื่นต่อ
+              ยิ่งตรวจพบช้า ความเสียหายยิ่งทวีคูณ
+            </p>
+            <div class="defense-box">
+              <strong>แนวทางรับมือ:</strong> ตรวจจับการเคลื่อนย้ายข้อมูลปริมาณมากผิดปกติ (DLP),
+              สำรองข้อมูลแบบ offline/immutable สม่ำเสมอ, ซ้อมแผนรับมือเหตุการณ์ (incident response)
+              และเตรียมทีม forensics เพื่อจำกัดวงความเสียหายให้เร็วที่สุด
+            </div>
+          </div>
+
+        </div>
+
+        <div class="callout">
+          <h3>เทียบกับ MITRE ATT&amp;CK และข้อจำกัดในยุค AI</h3>
+          <p>
+            Cyber Kill Chain เป็นภาพรวมเชิงเส้น 7 ขั้นที่เข้าใจง่าย เหมาะกับการสื่อสารและวางกลยุทธ์
+            ขณะที่ <strong>MITRE ATT&amp;CK</strong> เป็นฐานความรู้เชิงลึกกว่า — แจกแจง tactics 14 กลุ่ม
+            และ techniques หลายร้อยรายการจากพฤติกรรมผู้โจมตีจริง จึงเหมาะกับงาน threat hunting
+            และการทำ detection engineering ทั้งสองโมเดลใช้เสริมกันได้ ไม่ต้องเลือกอย่างใดอย่างหนึ่ง
+          </p>
+          <p>
+            ข้อจำกัดที่ต้องรู้: โมเดลนี้ออกแบบจากการโจมตีแบบมัลแวร์เจาะจากภายนอกเป็นเส้นตรง
+            จึงจับภัยบางแบบได้ไม่ดี เช่น ภัยจากคนใน (insider threat), การโจมตีด้วยบัญชีที่ถูกขโมย
+            โดยไม่ใช้มัลแวร์เลย และยิ่งในยุค AI ที่ผู้โจมตีใช้ระบบอัตโนมัติวนซ้ำหลายขั้นพร้อมกัน
+            ปรับเปลี่ยนพฤติกรรมแบบเรียลไทม์ ลำดับขั้นที่ตายตัวของ kill chain อาจไม่สะท้อนความจริงเสมอไป
+            — แต่หลักคิด &ldquo;ตัดโซ่ให้เร็วที่สุด&rdquo; ยังคงใช้ได้ดีเสมอ
+          </p>
+        </div>
+
+        <div class="callout-thailand">
+          <h3>🇹🇭 ผลกระทบต่อประเทศไทย</h3>
+          <p>
+            กรณีที่สะเทือนวงการล่าสุดคือเหตุ <strong>ข้อมูลคนไทยกว่า 67 ล้านรายรั่วไหลจากหน่วยงานรัฐ
+            (มิ.ย. 2026)</strong> ซึ่งต้นตอเชื่อว่ามาจากมัลแวร์ขโมยรหัสผ่าน (infostealer)
+            ที่ติดในเครื่องเจ้าหน้าที่รัฐ — เส้นทางการโจมตีนี้สอดคล้องกับขั้น
+            <strong>Delivery → Exploitation → Installation</strong> ของ Kill Chain แบบตำราเป๊ะ:
+            มัลแวร์ถูกส่งถึงเหยื่อ ถูกเปิดใช้งาน แล้วฝังตัวเก็บ credential ส่งกลับให้ผู้โจมตี
+          </p>
+          <p>
+            สถานการณ์ภาพรวมก็น่ากังวลไม่แพ้กัน: สถิติจาก Synology ปี 2026 ระบุว่าไทยเผชิญ
+            <strong>การโจมตีแรนซัมแวร์กว่า 109,000 ครั้ง สูงสุดในอาเซียน เฉลี่ยราว 3,200 ครั้ง/สัปดาห์</strong>
+            และหน่วยงานไทยเผชิญเหตุการณ์ไซเบอร์รวมกว่า <strong>1,000 กรณีในช่วง 5 เดือนแรก</strong>
+            ของปีที่ผ่านมา
+          </p>
+          <p>
+            บทเรียนสำหรับองค์กรไทยคือ <strong>การหักโซ่ตั้งแต่ขั้นต้นๆ คุ้มค่าที่สุด</strong> —
+            กรองอีเมลฟิชชิงให้เข้มขึ้น อุดช่องโหว่ด้าน credential (เปิด MFA, ตรวจจับ infostealer)
+            ก่อนที่ผู้โจมตีจะไปถึงขั้น Installation ทั้งนี้ <strong>ThaiCERT</strong> และ
+            <strong>NCSA (สำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ)</strong>
+            เป็นหน่วยงานหลักที่ติดตามและแจ้งเตือนภัยเหล่านี้ — องค์กรควรสมัครรับข่าวแจ้งเตือน
+            และรายงานเหตุการณ์ผ่านช่องทางของทั้งสองหน่วยงาน
+          </p>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <nav class="footer-nav" aria-label="เมนูท้ายเว็บ">
+        <a href="index.html">หน้าแรก</a>
+        <a href="kill-chain.html">Cyber Kill Chain</a>
+        <a href="ai-security.html">AI &amp; Security</a>
+        <a href="pqc.html">Post-Quantum</a>
+        <a href="news.html">ข่าวล่าสุด</a>
+      </nav>
+      <div class="footer-sources">
+        <strong>อ้างอิง:</strong> Lockheed Martin (Cyber Kill Chain&reg; / Intelligence Driven Defense),
+        MITRE ATT&amp;CK, Fortinet, Kiteworks, ThaiCERT/ETDA, NCSA,
+        Synology (สถิติแรนซัมแวร์ในไทย ปี 2026)
+      </div>
+      <p class="footer-copy">CyberScope — เว็บไซต์ให้ความรู้ด้านความมั่นคงปลอดภัยไซเบอร์ เพื่อการศึกษาเท่านั้น</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

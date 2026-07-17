@@ -1,0 +1,49 @@
+{
+  "feeds": [
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "group": "global"
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "group": "global"
+    },
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "group": "global"
+    },
+    {
+      "name": "Dark Reading",
+      "url": "https://www.darkreading.com/rss.xml",
+      "group": "global"
+    },
+    {
+      "name": "SecurityWeek",
+      "url": "https://www.securityweek.com/feed/",
+      "group": "global"
+    },
+    {
+      "name": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/rss.xml",
+      "group": "global"
+    },
+    {
+      "name": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/feed/",
+      "group": "thai"
+    },
+    {
+      "name": "NCSA Thailand",
+      "url": "https://www.ncsa.or.th/feed/",
+      "group": "thai"
+    },
+    {
+      "name": "TechTalkThai",
+      "url": "https://www.techtalkthai.com/category/it-knowledge/security/feed/",
+      "group": "thai"
+    }
+  ]
+}

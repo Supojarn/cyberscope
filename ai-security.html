@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="AI in Cybersecurity — สงคราม AI ระหว่างฝ่ายโจมตีกับฝ่ายป้องกัน: AI phishing, deepfake fraud, มัลแวร์ปรับตัวเอง ปะทะ AI-powered SOC และ zero trust">
+  <title>AI in Cybersecurity — เมื่อ AI เป็นอาวุธของทั้งสองฝ่าย | CyberScope</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">Cyber</span>Scope</a>
+      <button class="nav-toggle" aria-label="เปิด/ปิดเมนู" aria-expanded="false">☰</button>
+      <nav class="main-nav" aria-label="เมนูหลัก">
+        <ul>
+          <li><a href="index.html">หน้าแรก</a></li>
+          <li><a href="kill-chain.html">Cyber Kill Chain</a></li>
+          <li><a href="ai-security.html" class="active">AI &amp; Security</a></li>
+          <li><a href="pqc.html">Post-Quantum</a></li>
+          <li><a href="news.html">ข่าวล่าสุด</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container breadcrumb">
+      <a href="index.html">หน้าแรก</a><span class="sep">/</span><span class="current">AI in Cybersecurity</span>
+    </div>
+
+    <section class="hero hero-small">
+      <div class="container">
+        <h1>AI in Cybersecurity: เมื่อปัญญาประดิษฐ์เป็นอาวุธของทั้งสองฝ่าย</h1>
+        <p class="lead">
+          AI ยกระดับทั้งการโจมตีและการป้องกันพร้อมกัน — ฟิชชิงที่เนียนระดับรายบุคคล
+          และ deepfake หลอกโอนเงิน ปะทะกับ SOC อัตโนมัติที่ตรวจจับและตอบสนองได้ในไม่กี่วินาที
+          คำถามคือฝ่ายไหนจะใช้ AI ได้เก่งกว่ากัน
+        </p>
+      </div>
+    </section>
+
+    <section class="content-section">
+      <div class="container">
+
+        <h2>สมรภูมิสองฝั่ง</h2>
+        <p>
+          เทคโนโลยี AI เดียวกันที่ช่วยให้นักวิเคราะห์ความปลอดภัยทำงานเร็วขึ้นหลายเท่า
+          ก็ตกอยู่ในมือของอาชญากรไซเบอร์เช่นกัน ลองเทียบกันชัดๆ ว่าแต่ละฝ่ายใช้ AI ทำอะไรบ้าง
+        </p>
+
+        <div class="versus-grid">
+
+          <div class="versus-col attack">
+            <h3>⚔️ AI ฝั่งโจมตี</h3>
+
+            <div class="versus-item">
+              <h4>AI-Generated Phishing แบบ Hyper-Personalized</h4>
+              <p>
+                LLM ช่วยเขียนอีเมลฟิชชิงที่ไร้ที่ติทางภาษา ปรับแต่งเนื้อหารายบุคคลจากข้อมูล
+                โซเชียลมีเดียของเหยื่อ อ้างอิงโปรเจกต์ เพื่อนร่วมงาน หรือเหตุการณ์จริงในชีวิตเหยื่อ
+                — จุดสังเกตแบบเดิมอย่าง &ldquo;ภาษาแปลกๆ สะกดผิด&rdquo; ใช้ไม่ได้อีกต่อไป
+                และผลิตได้เป็นแสนฉบับในไม่กี่นาที
+              </p>
+            </div>
+
+            <div class="versus-item">
+              <h4>Deepfake Fraud</h4>
+              <p>
+                ปลอมเสียงและวิดีโอบุคคลจริงแบบเรียลไทม์ ใช้หลอกให้โอนเงิน
+                (เคสดังระดับโลก: พนักงานการเงินในฮ่องกงถูก deepfake ประชุมวิดีโอทั้งห้อง
+                หลอกโอนราว 25 ล้านดอลลาร์) ปลอมตัวผู้บริหารสั่งงานด่วน
+                ไปจนถึงหลอกระบบยืนยันตัวตนด้วยใบหน้า (biometric bypass)
+              </p>
+            </div>
+
+            <div class="versus-item">
+              <h4>มัลแวร์ปรับพฤติกรรมตัวเอง (Autonomous / Self-Modifying Malware)</h4>
+              <p>
+                มัลแวร์ยุคใหม่ใช้ AI ปรับโค้ดและพฤติกรรมระหว่างทำงาน —
+                เปลี่ยน signature หนีระบบตรวจจับ เลือกเทคนิคเจาะตามสภาพแวดล้อมที่เจอ
+                และตัดสินใจเคลื่อนที่ในเครือข่าย (lateral movement) ได้เองโดยไม่ต้องรอคำสั่งจาก C2
+              </p>
+            </div>
+
+            <div class="versus-item">
+              <h4>Automated Vulnerability Discovery</h4>
+              <p>
+                AI สแกนหาช่องโหว่ในซอฟต์แวร์และเว็บแอปได้อัตโนมัติในสเกลใหญ่
+                วิเคราะห์โค้ดหา logic bug และประกอบ exploit ได้เร็วกว่ามนุษย์หลายเท่า
+                ทำให้ &ldquo;หน้าต่างเวลา&rdquo; ระหว่างช่องโหว่ถูกเปิดเผยจนถูกโจมตีจริงหดสั้นลงเรื่อยๆ
+              </p>
+            </div>
+          </div>
+
+          <div class="versus-col defense">
+            <h3>🛡️ AI ฝั่งป้องกัน</h3>
+
+            <div class="versus-item">
+              <h4>AI-Powered SOC &amp; Automation ลด Dwell Time</h4>
+              <p>
+                AI ช่วยศูนย์เฝ้าระวัง (SOC) คัดกรอง alert นับล้านรายการต่อวัน
+                แยกสัญญาณจริงออกจาก noise สรุปบริบทเหตุการณ์ให้นักวิเคราะห์
+                และลด dwell time (เวลาที่ผู้โจมตีแฝงตัวโดยไม่ถูกตรวจพบ)
+                จากหลักสัปดาห์เหลือหลักชั่วโมงหรือนาที
+              </p>
+            </div>
+
+            <div class="versus-item">
+              <h4>Autonomous Detection &amp; Response</h4>
+              <p>
+                ระบบตรวจจับเชิงพฤติกรรม (UEBA/EDR/NDR) เรียนรู้ baseline ของเครือข่าย
+                แล้วตอบสนองอัตโนมัติเมื่อพบสิ่งผิดปกติ — กักกันเครื่องที่ติดมัลแวร์
+                ตัด session ต้องสงสัย บล็อกทราฟฟิก C2 ได้เองภายในไม่กี่วินาที
+                เร็วกว่ารอมนุษย์กดปุ่มหลายเท่า
+              </p>
+            </div>
+
+            <div class="versus-item">
+              <h4>Zero Trust ที่ขยายไปถึง Device / API / AI System</h4>
+              <p>
+                หลัก &ldquo;ไม่เชื่อใครโดยปริยาย ตรวจสอบทุกครั้ง&rdquo; ที่เคยใช้กับผู้ใช้
+                ถูกขยายครอบคลุมอุปกรณ์, API, workload และตัวระบบ AI เอง —
+                ทุก agent และทุกการเรียกใช้โมเดลต้องถูกยืนยันตัวตนและจำกัดสิทธิ์
+                เพราะ AI system ก็เป็นพื้นผิวการโจมตีใหม่เช่นกัน
+              </p>
+            </div>
+
+            <div class="versus-item">
+              <h4>อุดช่องว่างทักษะบุคลากรด้าน AI Security</h4>
+              <p>
+                โลกขาดแคลนคนทำงานไซเบอร์หลายล้านตำแหน่ง AI ช่วยเป็น copilot
+                ให้นักวิเคราะห์ระดับต้นทำงานได้เหมือนมีผู้เชี่ยวชาญประกบ
+                ขณะเดียวกันองค์กรต้องเร่ง upskill บุคลากรให้เข้าใจทั้งการใช้ AI
+                และการรักษาความปลอดภัยของ AI เอง
+              </p>
+            </div>
+          </div>
+
+        </div>
+
+        <h2>ตัวเลขที่ต้องรู้ (ปี 2026)</h2>
+        <div class="stats-grid">
+          <div class="stat">
+            <span class="stat-number">$240B</span>
+            <span class="stat-label">งบความมั่นคงปลอดภัยไซเบอร์ทั่วโลก (+12.5% จากปี 2025)</span>
+          </div>
+          <div class="stat">
+            <span class="stat-number">73%</span>
+            <span class="stat-label">ขององค์กรได้รับผลกระทบจากภัยคุกคามที่ขับเคลื่อนด้วย AI</span>
+          </div>
+          <div class="stat">
+            <span class="stat-number">50%</span>
+            <span class="stat-label">ของผู้เชี่ยวชาญมองว่า AI-driven phishing คือภัยอันดับ 1</span>
+          </div>
+          <div class="stat">
+            <span class="stat-number">24/7</span>
+            <span class="stat-label">AI ฝั่งป้องกันทำงานตรวจจับ-ตอบสนองไม่มีวันหยุด</span>
+          </div>
+        </div>
+
+        <div class="callout">
+          <h3>ทำไม &ldquo;Human-in-the-Loop&rdquo; ยังจำเป็น</h3>
+          <p>
+            ยิ่ง AI ตัดสินใจแทนเรามากเท่าไร ความเสี่ยงจากการตัดสินใจผิดก็ยิ่งขยายตาม —
+            ระบบตอบสนองอัตโนมัติที่เข้าใจผิดอาจกักกันเซิร์ฟเวอร์สำคัญจนธุรกิจหยุดชะงัก
+            หรือมองข้ามการโจมตีจริงเพราะผู้โจมตีเรียนรู้วิธีหลอกโมเดล (adversarial attack)
+          </p>
+          <p>
+            แนวปฏิบัติที่ดีคือให้ AI ทำงานที่ต้องเร็วและซ้ำซาก แต่คงมนุษย์ไว้ในวงจรการตัดสินใจ
+            (human-in-the-loop) สำหรับการกระทำที่ผลกระทบสูงหรือย้อนกลับยาก เช่น
+            การปิดระบบ production, การบล็อกบัญชีผู้บริหาร หรือการยืนยันว่าเหตุการณ์หนึ่ง
+            เป็น incident จริง — AI เสนอ มนุษย์อนุมัติ พร้อมตรวจสอบย้อนหลัง (audit)
+            การทำงานของ AI อย่างสม่ำเสมอ
+          </p>
+        </div>
+
+        <div class="callout-thailand">
+          <h3>🇹🇭 ผลกระทบต่อประเทศไทย</h3>
+          <p>
+            ภัย AI ที่คนไทยเจอใกล้ตัวที่สุดคือ <strong>แก๊งคอลเซ็นเตอร์ที่ใช้ deepfake
+            ปลอมใบหน้าและเสียงเจ้าหน้าที่ตำรวจหรือหน่วยงานราชการ</strong> วิดีโอคอลมาหลอกให้โอนเงิน
+            — เคสที่ <strong>ธนาคารกสิกรไทย (KBank) ออกประกาศเตือน</strong> มีเหยื่อสูญเงินไปกว่า
+            <strong>600,000 บาท</strong> จากการถูกวิดีโอคอลปลอมเป็นเจ้าหน้าที่
+          </p>
+          <p>
+            <strong>ศูนย์ปฏิบัติการแก้ไขปัญหาอาชญากรรมออนไลน์ (AOC 1441)</strong> เตือนว่าในปี 2026
+            กลุ่มวัยทำงานกลายเป็นเป้าหมายหลักของมิจฉาชีพที่ผสาน AI เข้ากับกลโกงแบบเดิม
+            (หลอกลงทุน, ปลอมเป็นหน่วยงานรัฐ, หลอกกู้เงิน) ทำให้กลโกงเก่าดูน่าเชื่อถือขึ้นมาก
+            นอกจากนี้ยังมี <strong>การจับกุมแก๊งที่ใช้ AI หลอกระบบยืนยันตัวตนด้วยใบหน้า
+            (biometric verification) ของธนาคาร</strong> เพื่อเปิดบัญชีม้า
+            ส่งผลให้ธนาคารไทยต้องเสริมระบบ <strong>Liveness Detection</strong>
+            ตรวจว่าใบหน้าที่เห็นเป็นคนจริง ไม่ใช่ภาพหรือวิดีโอสังเคราะห์
+          </p>
+          <p>
+            ฝั่งรับมือก็เริ่มขยับแล้ว — <strong>ตำรวจไซเบอร์ไทยเริ่มใช้ AI ต่อสู้กับ AI deepfake</strong>
+            ทั้งเครื่องมือตรวจจับสื่อสังเคราะห์และระบบวิเคราะห์เส้นทางการเงินของแก๊งมิจฉาชีพ
+            สำหรับประชาชนทั่วไป: อย่าเชื่อวิดีโอคอลจาก &ldquo;เจ้าหน้าที่&rdquo; ที่ขอให้โอนเงินเด็ดขาด
+            (หน่วยงานจริงไม่ทำแบบนั้น) วางสายแล้วโทรกลับเบอร์ทางการ หรือปรึกษา AOC 1441 ได้ตลอด 24 ชั่วโมง
+          </p>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <nav class="footer-nav" aria-label="เมนูท้ายเว็บ">
+        <a href="index.html">หน้าแรก</a>
+        <a href="kill-chain.html">Cyber Kill Chain</a>
+        <a href="ai-security.html">AI &amp; Security</a>
+        <a href="pqc.html">Post-Quantum</a>
+        <a href="news.html">ข่าวล่าสุด</a>
+      </nav>
+      <div class="footer-sources">
+        <strong>อ้างอิง:</strong> Fortinet (AI Threat Landscape), Kiteworks, Gartner (คาดการณ์งบไซเบอร์ 2026),
+        World Economic Forum, KBank (ประกาศเตือน deepfake scam), AOC 1441, ThaiCERT/ETDA, NCSA
+      </div>
+      <p class="footer-copy">CyberScope — เว็บไซต์ให้ความรู้ด้านความมั่นคงปลอดภัยไซเบอร์ เพื่อการศึกษาเท่านั้น</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
