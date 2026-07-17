@@ -1,6 +1,70 @@
 {
-  "generatedAt": "2026-07-17T15:31:40.109Z",
+  "generatedAt": "2026-07-17T23:56:37.029Z",
   "items": [
+    {
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "publishedAt": "2026-07-17T21:20:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "publishedAt": "2026-07-17T20:20:53.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
+      "summary": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
+      "publishedAt": "2026-07-17T20:01:13.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "publishedAt": "2026-07-17T18:54:51.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "publishedAt": "2026-07-17T17:56:21.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "publishedAt": "2026-07-17T17:12:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "The Real AI Threat Is Blind Trust",
+      "summary": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
+      "publishedAt": "2026-07-17T16:43:13.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "publishedAt": "2026-07-17T16:39:16.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Ernst & Young discloses data breach after support system hack",
       "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
@@ -26,7 +90,7 @@
       "category": "kill-chain"
     },
     {
-      "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
+      "title": "Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear",
       "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
@@ -255,70 +319,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
       "publishedAt": "2026-07-16T11:17:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-      "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-      "publishedAt": "2026-07-16T10:56:03.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "พบช่องโหว่ความรุนแรงสูงในอุปกรณ์ SonicWall SMA1000 Series เร่งอัปเดตและตรวจสอบระบบทันที",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post พบช่องโหว่ความรุนแรงสูงในอุปกรณ์ SonicWall SMA1000 Series เร่งอัปเดตและตรวจสอบระบบทันที first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/16/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b8%e0%b8%99%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b8%aa%e0%b8%b9/",
-      "publishedAt": "2026-07-16T10:22:24.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-      "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-      "publishedAt": "2026-07-16T10:10:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-      "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-      "publishedAt": "2026-07-16T08:42:31.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Progress ยืนยันช่องโหว่ Zero-Day ใน ShareFile พร้อมออกแพตช์แก้ไข",
-      "summary": "390/69 (IT) ประจำวันพฤหัสบดีที่ 16 กรกฎาคม 2569 Progres […] The post Progress ยืนยันช่องโหว่ Zero-Day ใน ShareFile พร้อมออกแพตช์แก้ไข first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/16/progress-%e0%b8%a2%e0%b8%b7%e0%b8%99%e0%b8%a2%e0%b8%b1%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83%e0%b8%99-sharefile-%e0%b8%9e%e0%b8%a3/",
-      "publishedAt": "2026-07-16T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "CISA เตือนผู้ดูแลระบบเร่งแพตช์ช่องโหว่ SharePoint Server ที่ถูกใช้โจมตี",
-      "summary": "389/69 (IT) ประจำวันพฤหัสบดีที่ 16 กรกฎาคม 2569 สำนักงา […] The post CISA เตือนผู้ดูแลระบบเร่งแพตช์ช่องโหว่ SharePoint Server ที่ถูกใช้โจมตี first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/16/cisa-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%94%e0%b8%b9%e0%b9%81%e0%b8%a5%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b9%81/",
-      "publishedAt": "2026-07-16T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "SonicWall แจ้งเตือนช่องโหว่ Zero-Day บนอุปกรณ์ SMA1000 แนะผู้ดูแลระบบเร่งอัปเดตแพตช์เพื่อความปลอดภัย",
-      "summary": "388/69 (IT) ประจำวันพฤหัสบดีที่ 16 กรกฎาคม 2569 SonicWa […] The post SonicWall แจ้งเตือนช่องโหว่ Zero-Day บนอุปกรณ์ SMA1000 แนะผู้ดูแลระบบเร่งอัปเดตแพตช์เพื่อความปลอดภัย first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/16/sonicwall-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b8%9a%e0%b8%99%e0%b8%ad/",
-      "publishedAt": "2026-07-16T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
-      "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-      "publishedAt": "2026-07-16T07:22:44.000Z",
       "category": "kill-chain"
     }
   ]
