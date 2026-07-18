@@ -1,12 +1,28 @@
 {
-  "generatedAt": "2026-07-18T03:34:48.506Z",
+  "generatedAt": "2026-07-18T23:58:34.003Z",
   "items": [
     {
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-      "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "publishedAt": "2026-07-17T21:20:10.000Z",
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "publishedAt": "2026-07-18T19:32:02.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
+      "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+      "publishedAt": "2026-07-18T17:22:47.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
+      "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+      "publishedAt": "2026-07-18T14:17:19.000Z",
       "category": "kill-chain"
     },
     {
@@ -242,14 +258,6 @@
       "category": "ai-security"
     },
     {
-      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-      "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-      "publishedAt": "2026-07-16T19:09:35.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
       "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage…",
       "source": "The Hacker News",
@@ -263,22 +271,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
       "publishedAt": "2026-07-16T15:15:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-      "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-      "publishedAt": "2026-07-16T14:00:10.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "publishedAt": "2026-07-16T13:47:23.000Z",
       "category": "kill-chain"
     },
     {
@@ -320,6 +312,14 @@
       "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
       "publishedAt": "2026-07-16T11:17:23.000Z",
       "category": "kill-chain"
+    },
+    {
+      "title": "พบช่องโหว่ความรุนแรงสูงในอุปกรณ์ SonicWall SMA1000 Series เร่งอัปเดตและตรวจสอบระบบทันที",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post พบช่องโหว่ความรุนแรงสูงในอุปกรณ์ SonicWall SMA1000 Series เร่งอัปเดตและตรวจสอบระบบทันที first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/07/16/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b8%e0%b8%99%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b8%aa%e0%b8%b9/",
+      "publishedAt": "2026-07-16T10:22:24.000Z",
+      "category": "thailand"
     }
   ]
 }
