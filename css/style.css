@@ -712,7 +712,56 @@ td .std-code {
 
 .news-empty a { font-weight: 600; }
 
-#news-updated { color: var(--accent); font-weight: 600; }
+#news-updated, #cve-updated { color: var(--accent); font-weight: 600; }
+
+/* ============ CVE page ============ */
+
+.cve-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.cve-card .news-tag { margin-bottom: 0.4rem; }
+
+.news-tag.sev-kev { background: rgba(255, 77, 109, 0.22); color: #ff8ba0; border: 1px solid var(--accent3); }
+.news-tag.sev-critical { background: rgba(255, 77, 109, 0.13); color: var(--accent3); border: 1px solid rgba(255, 77, 109, 0.45); }
+.news-tag.sev-high { background: rgba(255, 180, 84, 0.13); color: var(--warn); border: 1px solid rgba(255, 180, 84, 0.45); }
+.news-tag.sev-medium { background: rgba(255, 224, 130, 0.12); color: #ffe082; border: 1px solid rgba(255, 224, 130, 0.4); }
+.news-tag.sev-low { background: rgba(0, 229, 199, 0.12); color: var(--accent); border: 1px solid rgba(0, 229, 199, 0.4); }
+
+.cvss-score {
+  font-size: 0.82rem;
+  font-weight: 800;
+  color: var(--warn);
+  background: rgba(255, 180, 84, 0.08);
+  border: 1px solid rgba(255, 180, 84, 0.3);
+  border-radius: 6px;
+  padding: 0.1rem 0.55rem;
+  margin-bottom: 0.4rem;
+  white-space: nowrap;
+}
+
+.cve-card .cve-id {
+  font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace;
+  letter-spacing: 0.3px;
+  color: var(--accent);
+}
+
+.cve-vendor {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 0.45rem;
+}
+
+/* คำอธิบายระดับความรุนแรงใน callout แนะนำการอ่านค่า */
+.sev-word { font-weight: 700; white-space: nowrap; }
+.sev-word.sev-critical { color: var(--accent3); }
+.sev-word.sev-high { color: var(--warn); }
+.sev-word.sev-kev { color: #ff8ba0; }
 
 /* ============ Footer ============ */
 

@@ -4,7 +4,9 @@
   "description": "CyberScope — เว็บไซต์ให้ความรู้ด้าน Cyber Security พร้อมระบบข่าวอัปเดตรายวัน",
   "private": true,
   "scripts": {
-    "fetch-news": "node scripts/fetch-news.js"
+    "fetch-news": "node scripts/fetch-news.js",
+    "fetch-cve": "node scripts/fetch-cve.js",
+    "fetch-all": "node scripts/fetch-news.js && node scripts/fetch-cve.js"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ช่องโหว่ CVE ล่าสุด — รวม CVE ความรุนแรงสูงจาก NVD (NIST) และช่องโหว่ที่ถูกใช้โจมตีจริงจาก CISA KEV อัปเดตอัตโนมัติทุกวัน">
+  <title>ช่องโหว่ CVE ล่าสุด — อัปเดตทุกวัน | CyberScope</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">Cyber</span>Scope</a>
+      <button class="nav-toggle" aria-label="เปิด/ปิดเมนู" aria-expanded="false">☰</button>
+      <nav class="main-nav" aria-label="เมนูหลัก">
+        <ul>
+          <li><a href="index.html">หน้าแรก</a></li>
+          <li><a href="kill-chain.html">Cyber Kill Chain</a></li>
+          <li><a href="ai-security.html">AI &amp; Security</a></li>
+          <li><a href="pqc.html">Post-Quantum</a></li>
+          <li><a href="cve.html" class="active">ช่องโหว่ CVE</a></li>
+          <li><a href="news.html">ข่าวล่าสุด</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container breadcrumb">
+      <a href="index.html">หน้าแรก</a><span class="sep">/</span><span class="current">ช่องโหว่ CVE</span>
+    </div>
+
+    <section class="hero hero-small">
+      <div class="container">
+        <h1>ช่องโหว่ CVE ล่าสุด</h1>
+        <p class="lead">
+          รวมช่องโหว่ความรุนแรงสูง (CVSS 7.0 ขึ้นไป) ที่เพิ่งเผยแพร่จากฐานข้อมูล NVD ของ NIST
+          และช่องโหว่ที่ <strong>ยืนยันแล้วว่าถูกใช้โจมตีจริง</strong> จากแคตตาล็อก CISA KEV
+          อัปเดตอัตโนมัติทุกวัน
+          <br><span id="cve-updated">กำลังโหลด…</span>
+        </p>
+      </div>
+    </section>
+
+    <section class="content-section">
+      <div class="container">
+
+        <div class="callout cve-intro">
+          <h3>อ่านค่าอย่างไร?</h3>
+          <p>
+            <strong>CVE (Common Vulnerabilities and Exposures)</strong> คือรหัสสากลประจำช่องโหว่แต่ละรายการ
+            เช่น CVE-2026-12345 ส่วน <strong>CVSS</strong> คือคะแนนความรุนแรง 0-10
+            (<span class="sev-word sev-critical">9.0+ = Critical</span>,
+            <span class="sev-word sev-high">7.0-8.9 = High</span>)
+            และป้าย <strong class="sev-word sev-kev">ถูกโจมตีจริง (KEV)</strong> หมายถึง CISA
+            ยืนยันแล้วว่ามีการใช้ช่องโหว่นั้นโจมตีในโลกจริง — ถ้าระบบของคุณใช้ซอฟต์แวร์ที่ตรงกับรายการ KEV
+            ควร patch ทันทีเป็นลำดับแรกสุด
+          </p>
+        </div>
+
+        <div class="filter-bar" id="filter-bar" role="group" aria-label="กรองช่องโหว่">
+          <button class="filter-chip active" data-filter="all">ทั้งหมด</button>
+          <button class="filter-chip" data-filter="kev">🔥 ถูกโจมตีจริง (KEV)</button>
+          <button class="filter-chip" data-filter="critical">Critical (9.0+)</button>
+          <button class="filter-chip" data-filter="high">High (7.0-8.9)</button>
+        </div>
+
+        <div class="news-grid" id="cve-grid">
+          <div class="news-empty" id="cve-loading">กำลังโหลดข้อมูลช่องโหว่ล่าสุด…</div>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <nav class="footer-nav" aria-label="เมนูท้ายเว็บ">
+        <a href="index.html">หน้าแรก</a>
+        <a href="kill-chain.html">Cyber Kill Chain</a>
+        <a href="ai-security.html">AI &amp; Security</a>
+        <a href="pqc.html">Post-Quantum</a>
+        <a href="cve.html">ช่องโหว่ CVE</a>
+        <a href="news.html">ข่าวล่าสุด</a>
+      </nav>
+      <div class="footer-sources">
+        <strong>แหล่งข้อมูล:</strong> NVD — National Vulnerability Database (NIST),
+        CISA Known Exploited Vulnerabilities (KEV) Catalog
+        — ข้อมูลช่องโหว่เป็นข้อมูลสาธารณะจากหน่วยงานรัฐบาลสหรัฐฯ ลิงก์ทุกรายการชี้กลับไปยังหน้า NVD ต้นทาง
+      </div>
+      <p class="footer-copy">CyberScope — เว็บไซต์ให้ความรู้ด้านความมั่นคงปลอดภัยไซเบอร์ เพื่อการศึกษาเท่านั้น</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+  <script src="js/cve.js"></script>
+</body>
+</html>
