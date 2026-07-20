@@ -1,9 +1,41 @@
 {
-  "generatedAt": "2026-07-18T23:58:34.003Z",
+  "generatedAt": "2026-07-20T00:01:37.706Z",
   "items": [
     {
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "publishedAt": "2026-07-19T20:42:49.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "publishedAt": "2026-07-19T14:23:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "publishedAt": "2026-07-19T13:30:55.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "publishedAt": "2026-07-19T13:18:56.000Z",
+      "category": "kill-chain"
+    },
+    {
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-      "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
       "publishedAt": "2026-07-18T19:32:02.000Z",
@@ -288,38 +320,6 @@
       "url": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
       "publishedAt": "2026-07-16T12:33:42.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "20+ Hijacked Government Websites Became an Attack Channel",
-      "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-      "publishedAt": "2026-07-16T11:58:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "publishedAt": "2026-07-16T11:32:28.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-      "publishedAt": "2026-07-16T11:17:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "พบช่องโหว่ความรุนแรงสูงในอุปกรณ์ SonicWall SMA1000 Series เร่งอัปเดตและตรวจสอบระบบทันที",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post พบช่องโหว่ความรุนแรงสูงในอุปกรณ์ SonicWall SMA1000 Series เร่งอัปเดตและตรวจสอบระบบทันที first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/16/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b8%e0%b8%99%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b8%aa%e0%b8%b9/",
-      "publishedAt": "2026-07-16T10:22:24.000Z",
-      "category": "thailand"
     }
   ]
 }
