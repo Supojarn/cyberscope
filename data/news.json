@@ -1,6 +1,206 @@
 {
-  "generatedAt": "2026-07-21T23:58:45.809Z",
+  "generatedAt": "2026-07-23T00:04:37.756Z",
   "items": [
+    {
+      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+      "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+      "publishedAt": "2026-07-22T21:43:39.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Are Learning to Live Off the AI Toolchain",
+      "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
+      "publishedAt": "2026-07-22T21:29:01.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "South Korea discloses data breach impacting diplomats worldwide",
+      "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+      "publishedAt": "2026-07-22T20:06:54.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
+      "summary": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
+      "publishedAt": "2026-07-22T19:42:42.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "publishedAt": "2026-07-22T18:07:16.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
+      "summary": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
+      "publishedAt": "2026-07-22T16:59:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
+      "summary": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
+      "publishedAt": "2026-07-22T15:53:47.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
+      "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+      "publishedAt": "2026-07-22T15:30:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts",
+      "summary": "Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms. The post Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/",
+      "publishedAt": "2026-07-22T15:02:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "publishedAt": "2026-07-22T15:01:21.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
+      "summary": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
+      "publishedAt": "2026-07-22T13:22:20.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Vibe-Coded Apps Riddled With Exploitable Security Flaws",
+      "summary": "Analysis found 434 exploitable flaws in AI-generated apps, with denial-of-service, authorization and secrets exposure risks among the most common issues. The post Vibe-Coded Apps Riddled With Exploitable Security Flaws…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+      "publishedAt": "2026-07-22T12:36:36.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents.…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
+      "publishedAt": "2026-07-22T11:43:28.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "publishedAt": "2026-07-22T11:30:02.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks",
+      "summary": "CVE-2026-50522 is being exploited by threat actors to steal machine keys and retain long-term access. The post Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/",
+      "publishedAt": "2026-07-22T11:29:16.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Why Modern SOCs Need Multi-Layered Detections",
+      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
+      "publishedAt": "2026-07-22T11:25:35.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
+      "summary": "Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement. The post Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
+      "publishedAt": "2026-07-22T10:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife",
+      "summary": "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary. The post Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
+      "publishedAt": "2026-07-22T08:32:02.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Estée Lauder แจ้งเหตุข้อมูลรั่วไหล หลังระบบ Oracle E-Business Suite ถูกใช้โจมตี",
+      "summary": "401/69 (IT) ประจำวันพุธที่ 22 กรกฎาคม 2569 Estée Lauder […] The post Estée Lauder แจ้งเหตุข้อมูลรั่วไหล หลังระบบ Oracle E-Business Suite ถูกใช้โจมตี first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/07/22/estee-lauder-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab/",
+      "publishedAt": "2026-07-22T08:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "เตือนภัยมัลแวร์ HollowGraph ใช้ปฏิทินบน Microsoft 365 เป็นช่องทางลับสั่งการและขโมยข้อมูล",
+      "summary": "400/69 (IT) ประจำวันพุธที่ 22 กรกฎาคม 2569 บริษัทความมั […] The post เตือนภัยมัลแวร์ HollowGraph ใช้ปฏิทินบน Microsoft 365 เป็นช่องทางลับสั่งการและขโมยข้อมูล first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/07/22/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-hollowgraph-%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%9b%e0%b8%8f/",
+      "publishedAt": "2026-07-22T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "publishedAt": "2026-07-22T06:40:29.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "publishedAt": "2026-07-22T06:38:45.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "publishedAt": "2026-07-22T06:00:06.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "publishedAt": "2026-07-22T05:19:20.000Z",
+      "category": "ai-security"
+    },
     {
       "title": "Police dismantle Kratos phishing platform, arrest developer",
       "summary": "Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]",
@@ -18,7 +218,7 @@
       "category": "kill-chain"
     },
     {
-      "title": "Ransomware Is Accelerating, But It's Not Because of AI",
+      "title": "Ransomware Is Accelerating, but It's Not Because of AI",
       "summary": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
@@ -47,14 +247,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
       "publishedAt": "2026-07-21T18:50:54.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-      "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-      "publishedAt": "2026-07-21T16:41:50.000Z",
       "category": "kill-chain"
     },
     {
@@ -90,28 +282,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
-      "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
-      "publishedAt": "2026-07-21T14:00:10.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
       "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
       "publishedAt": "2026-07-21T11:58:00.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
-      "summary": "Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop. The post New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
-      "publishedAt": "2026-07-21T11:55:28.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
@@ -122,51 +298,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG",
-      "summary": "Gaetje’s story shows that you don’t need to be a ‘deep bit-crawler’ to become a Chief Information Security Officer. The post CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/",
-      "publishedAt": "2026-07-21T11:30:00.000Z",
-      "category": "pqc"
-    },
-    {
       "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
       "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt,…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
       "publishedAt": "2026-07-21T11:24:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack",
-      "summary": "Hackers exfiltrated personal, financial, and health information from the company’s Oracle EBS instance in August 2025. The post Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/",
-      "publishedAt": "2026-07-21T11:12:33.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
-      "summary": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure. The post Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
-      "publishedAt": "2026-07-21T10:19:21.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "publishedAt": "2026-07-21T10:12:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Clover Health Investments Discloses Data Breach",
-      "summary": "Using social engineering, hackers compromised employee accounts with access to personal and health information. The post Clover Health Investments Discloses Data Breach appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
-      "publishedAt": "2026-07-21T09:36:51.000Z",
       "category": "kill-chain"
     },
     {
@@ -178,147 +314,11 @@
       "category": "thailand"
     },
     {
-      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-      "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-      "publishedAt": "2026-07-21T09:05:50.000Z",
-      "category": "pqc"
-    },
-    {
       "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
       "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
       "publishedAt": "2026-07-21T08:59:30.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
-      "summary": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution. The post Exploitation of ServiceNow Vulnerability Seen Days After Disclosure appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
-      "publishedAt": "2026-07-21T08:41:53.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-      "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-      "publishedAt": "2026-07-21T08:06:26.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Chrome ออกแพตช์แก้ช่องโหว่ Memory Safety ระดับ Critical หลายรายการ",
-      "summary": "399/69 (IT) ประจำวันอังคารที่ 21 กรกฎาคม 2569 Google ออ […] The post Chrome ออกแพตช์แก้ช่องโหว่ Memory Safety ระดับ Critical หลายรายการ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/21/google-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95-chrome-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab/",
-      "publishedAt": "2026-07-21T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ServiceNow เตือนช่องโหว่ RCE ร้ายแรงใน AI Platform เริ่มถูกใช้โจมตีจริง",
-      "summary": "398/69 (IT) ประจำวันอังคารที่ 21 กรกฎาคม 2569 มีรายงานว […] The post ServiceNow เตือนช่องโหว่ RCE ร้ายแรงใน AI Platform เริ่มถูกใช้โจมตีจริง first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/21/servicenow-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-rce-%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%a3%e0%b8%87/",
-      "publishedAt": "2026-07-21T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Hugging Face แพลตฟอร์ม AI โอเพนซอร์สรายใหญ่ ถูกแฮกโดย AI Agent อัตโนมัติ",
-      "summary": "397/69 (IT) ประจำวันอังคารที่ 21 กรกฎาคม 2569 Hugging F […] The post Hugging Face แพลตฟอร์ม AI โอเพนซอร์สรายใหญ่ ถูกแฮกโดย AI Agent อัตโนมัติ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/21/hugging-face-%e0%b9%81%e0%b8%9e%e0%b8%a5%e0%b8%95%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a1-ai-%e0%b9%82%e0%b8%ad%e0%b9%80%e0%b8%9e%e0%b8%99%e0%b8%8b%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa%e0%b8%a3/",
-      "publishedAt": "2026-07-21T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "publishedAt": "2026-07-21T07:34:32.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "publishedAt": "2026-07-21T06:29:26.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือนช่องโหว่ใน Zoom Workplace บนระบบ Windows ผู้ใช้งานควรเร่งอัปเดตซอฟต์แวร์",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ใน Zoom Workplace บนระบบ Windows ผู้ใช้งานควรเร่งอัปเดตซอฟต์แวร์ first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/21/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-zoom-workplace-%e0%b8%9a/",
-      "publishedAt": "2026-07-21T01:54:09.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
-      "summary": "Cosmetics giant Estée Lauder is notifying employees of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-      "publishedAt": "2026-07-20T22:39:30.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
-      "summary": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
-      "publishedAt": "2026-07-20T22:23:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
-      "summary": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
-      "publishedAt": "2026-07-20T21:38:18.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "publishedAt": "2026-07-20T21:14:42.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "publishedAt": "2026-07-20T21:08:02.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
-      "summary": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
-      "publishedAt": "2026-07-20T20:26:56.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
-      "summary": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
-      "publishedAt": "2026-07-20T19:32:04.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
-      "summary": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
-      "publishedAt": "2026-07-20T18:30:22.000Z",
       "category": "kill-chain"
     }
   ]
