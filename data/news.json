@@ -1,6 +1,86 @@
 {
-  "generatedAt": "2026-07-25T00:09:05.296Z",
+  "generatedAt": "2026-07-26T00:04:10.937Z",
   "items": [
+    {
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "publishedAt": "2026-07-25T18:48:44.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Malicious sites use JavaScript to build malware in browser memory",
+      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "publishedAt": "2026-07-25T15:21:09.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "publishedAt": "2026-07-25T14:16:26.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "publishedAt": "2026-07-25T12:52:43.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "publishedAt": "2026-07-25T10:14:26.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+      "publishedAt": "2026-07-25T10:14:21.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "publishedAt": "2026-07-25T10:14:03.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+      "publishedAt": "2026-07-25T09:53:41.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI confirms ChatGPT is down worldwide",
+      "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+      "publishedAt": "2026-07-25T09:31:09.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
+      "summary": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
+      "publishedAt": "2026-07-25T08:30:00.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "OnTrac notifies customers of data breach after network hack",
       "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
@@ -226,14 +306,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
-      "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
-      "publishedAt": "2026-07-23T19:48:30.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
       "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email…",
       "source": "The Hacker News",
@@ -242,83 +314,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "publishedAt": "2026-07-23T16:49:27.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "publishedAt": "2026-07-23T16:32:35.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
       "summary": "AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization. The post OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider…",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
       "publishedAt": "2026-07-23T15:09:59.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "publishedAt": "2026-07-23T15:02:07.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
-      "summary": "You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win. The post Is Patching Dead? Vulnerability Management in the…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
-      "publishedAt": "2026-07-23T15:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
-      "summary": "Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts. The post Chick-fil-A Accounts Get Fried in Credential Stuffing Attack appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
-      "publishedAt": "2026-07-23T14:55:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "publishedAt": "2026-07-23T13:27:59.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-      "publishedAt": "2026-07-23T13:11:09.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
-      "summary": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
-      "publishedAt": "2026-07-23T12:42:12.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Agentic AI Challenges Progress in Confidential Computing",
-      "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
-      "publishedAt": "2026-07-23T11:17:51.000Z",
       "category": "ai-security"
     }
   ]
