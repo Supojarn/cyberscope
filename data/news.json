@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-26T00:04:10.937Z",
+  "generatedAt": "2026-07-27T00:04:39.571Z",
   "items": [
+    {
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
+      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "publishedAt": "2026-07-26T14:13:39.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
       "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed…",
@@ -296,14 +304,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
       "publishedAt": "2026-07-23T21:20:34.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "Australian energy provider Origin says data breach exposes client data",
-      "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "publishedAt": "2026-07-23T20:14:35.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
