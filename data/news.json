@@ -1,6 +1,206 @@
 {
-  "generatedAt": "2026-07-28T00:05:55.449Z",
+  "generatedAt": "2026-07-29T00:01:46.368Z",
   "items": [
+    {
+      "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
+      "summary": "Security researcher Aleksandr Krasnov reveals dormant non-human identities can create security blind spots and releases NHI Hound, an open source tool to sniff out trust paths.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
+      "publishedAt": "2026-07-28T21:33:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Thousands of Data Center Controllers Open to Takeover",
+      "summary": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
+      "publishedAt": "2026-07-28T21:07:55.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face.…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "publishedAt": "2026-07-28T20:37:06.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+      "summary": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+      "publishedAt": "2026-07-28T20:27:36.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+      "summary": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+      "publishedAt": "2026-07-28T20:05:32.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "publishedAt": "2026-07-28T18:59:07.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "publishedAt": "2026-07-28T18:08:50.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
+      "summary": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
+      "publishedAt": "2026-07-28T16:38:48.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "publishedAt": "2026-07-28T15:01:33.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
+      "summary": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform. The post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
+      "publishedAt": "2026-07-28T14:55:30.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "publishedAt": "2026-07-28T14:00:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager.…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "publishedAt": "2026-07-28T13:33:47.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "publishedAt": "2026-07-28T12:56:14.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "publishedAt": "2026-07-28T12:10:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker",
+      "summary": "Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks. The post Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
+      "publishedAt": "2026-07-28T11:00:00.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Hush Security Raises $30 Million for AI Agent Governance",
+      "summary": "The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships. The post Hush Security Raises $30 Million for AI Agent Governance appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
+      "publishedAt": "2026-07-28T10:17:27.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "publishedAt": "2026-07-28T09:10:03.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Google Adopts New Threat Actor Naming System",
+      "summary": "The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word. The post Google Adopts New Threat Actor Naming System appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
+      "publishedAt": "2026-07-28T08:42:52.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+      "publishedAt": "2026-07-28T08:11:22.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "publishedAt": "2026-07-28T08:04:44.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
+      "summary": "The critical remote code execution bug can be exploited without authentication, under the library’s stock default configurations. The post Unpatched Fastjson Vulnerability Exploited in Attacks appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
+      "publishedAt": "2026-07-28T07:27:55.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day",
+      "summary": "Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality. The post Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/",
+      "publishedAt": "2026-07-28T06:40:36.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
+      "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+      "publishedAt": "2026-07-28T06:07:22.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+      "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+      "publishedAt": "2026-07-28T04:43:53.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
+      "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
+      "publishedAt": "2026-07-28T01:00:00.000Z",
+      "category": "pqc"
+    },
     {
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
       "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
@@ -16,6 +216,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "publishedAt": "2026-07-27T22:49:44.000Z",
       "category": "kill-chain"
+    },
+    {
+      "title": "Agentic Browsers Rewind Web Security by 20 Years",
+      "summary": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
+      "publishedAt": "2026-07-27T21:39:09.000Z",
+      "category": "ai-security"
     },
     {
       "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
@@ -111,214 +319,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
       "publishedAt": "2026-07-27T14:01:11.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
-      "summary": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
-      "publishedAt": "2026-07-27T13:19:30.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
-      "summary": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems. The post MedusaHVNC Malware Uses Hidden…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
-      "publishedAt": "2026-07-27T13:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
-      "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-      "publishedAt": "2026-07-27T12:37:49.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Nvidia and Tech Giants Launch AI Security Alliance",
-      "summary": "The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents. The post Nvidia and Tech Giants Launch AI Security Alliance appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
-      "publishedAt": "2026-07-27T12:25:43.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
-      "summary": "The Anubis cybercrime group has taken credit for the attack and is threatening to leak data. The post Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
-      "publishedAt": "2026-07-27T11:29:03.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-      "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-      "publishedAt": "2026-07-27T10:51:45.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
-      "summary": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees. The post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials appeared first…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
-      "publishedAt": "2026-07-27T10:50:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
-      "summary": "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5. The post Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
-      "publishedAt": "2026-07-27T10:02:41.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
-      "summary": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network. The post DentaQuest Data Breach Potentially Impacts Over 23 Million People appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
-      "publishedAt": "2026-07-27T09:34:12.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "publishedAt": "2026-07-27T08:48:47.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ข้อมูลรั่วไหลจาก ShinyHunters ถูกนำไปใช้ส่ง Email หลอกลวงแบบ Sextortion เรียก Bitcoin มูลค่า 2,000 ดอลลาร์สหรัฐ",
-      "summary": "410/69 (IT) ประจำวันจันทร์ที่ 27 กรกฎาคม 2569 มีรายงานว […] The post ข้อมูลรั่วไหลจาก ShinyHunters ถูกนำไปใช้ส่ง Email หลอกลวงแบบ Sextortion เรียก Bitcoin มูลค่า 2,000 ดอลลาร์สหรัฐ first appeared on Thailand Computer…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/27/%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab%e0%b8%a5%e0%b8%88%e0%b8%b2%e0%b8%81-shinyhunters-%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b8%99/",
-      "publishedAt": "2026-07-27T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แคมเปญ SourTrade อาศัยโฆษณาแฝงมัลแวร์ หลอกให้เบราว์เซอร์ประกอบไฟล์อันตราย",
-      "summary": "409/69 (IT) ประจำวันจันทร์ที่ 27 กรกฎาคม 2569 นักวิจัยด […] The post แคมเปญ SourTrade อาศัยโฆษณาแฝงมัลแวร์ หลอกให้เบราว์เซอร์ประกอบไฟล์อันตราย first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/27/%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d-sourtrade-%e0%b8%ad%e0%b8%b2%e0%b8%a8%e0%b8%b1%e0%b8%a2%e0%b9%82%e0%b8%86%e0%b8%a9%e0%b8%93%e0%b8%b2%e0%b9%81%e0%b8%9d%e0%b8%87%e0%b8%a1%e0%b8%b1/",
-      "publishedAt": "2026-07-27T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือนช่องโหว่ใน Langflow ที่ถูกนำไปใช้โจมตีจริงแล้ว ผู้ดูแลระบบเร่งอัปเดตและจำกัดการเข้าถึงทันที",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ใน Langflow ที่ถูกนำไปใช้โจมตีจริงแล้ว ผู้ดูแลระบบเร่งอัปเดตและจำกัดการเข้าถึงทันที first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-langflow-%e0%b8%97%e0%b8%b5/",
-      "publishedAt": "2026-07-27T07:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือนช่องโหว่ RefluXFS ใน Linux Kernel เสี่ยงยกระดับสิทธิ์เป็น root บนระบบไฟล์ XFS",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ RefluXFS ใน Linux Kernel เสี่ยงยกระดับสิทธิ์เป็น root บนระบบไฟล์ XFS first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-refluxfs-%e0%b9%83%e0%b8%99-linux-kernel/",
-      "publishedAt": "2026-07-27T06:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ช่องโหว่ระดับวิกฤตใน SolarWinds Serv-U เสี่ยงถูกสั่งรันโค้ดด้วยสิทธิ์สูงสุด เร่งอัปเดตระบบทันที",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post ช่องโหว่ระดับวิกฤตใน SolarWinds Serv-U เสี่ยงถูกสั่งรันโค้ดด้วยสิทธิ์สูงสุด เร่งอัปเดตระบบทันที first appeared on Thailand Computer Emergency Response…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/27/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b8%a7%e0%b8%b4%e0%b8%81%e0%b8%a4%e0%b8%95%e0%b9%83%e0%b8%99-solarwinds-serv-u/",
-      "publishedAt": "2026-07-27T04:11:25.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ด่วน! ช่องโหว่ระดับวิกฤตใน Check Point SmartConsole เร่งติดตั้ง Jumbo Hotfix และตรวจสอบระบบทันที",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post ด่วน! ช่องโหว่ระดับวิกฤตใน Check Point SmartConsole เร่งติดตั้ง Jumbo Hotfix และตรวจสอบระบบทันที first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/27/%e0%b8%94%e0%b9%88%e0%b8%a7%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b8%a7%e0%b8%b4%e0%b8%81%e0%b8%a4%e0%b8%95/",
-      "publishedAt": "2026-07-27T01:47:27.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "publishedAt": "2026-07-26T14:13:39.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "publishedAt": "2026-07-25T18:48:44.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "publishedAt": "2026-07-25T15:21:09.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "publishedAt": "2026-07-25T14:16:26.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "publishedAt": "2026-07-25T12:52:43.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "publishedAt": "2026-07-25T10:14:26.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-      "publishedAt": "2026-07-25T10:14:21.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "publishedAt": "2026-07-25T10:14:03.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "publishedAt": "2026-07-25T09:53:41.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down worldwide",
-      "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-      "publishedAt": "2026-07-25T09:31:09.000Z",
       "category": "ai-security"
     }
   ]
