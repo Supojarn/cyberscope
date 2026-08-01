@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-07-31T00:06:50.851Z",
+  "generatedAt": "2026-08-01T00:04:46.482Z",
   "items": [
+    {
+      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "publishedAt": "2026-07-31T22:16:42.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Arch Linux disables AUR package adoption to stop malware flood",
+      "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+      "publishedAt": "2026-07-31T21:38:08.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+      "publishedAt": "2026-07-31T18:52:04.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+      "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+      "publishedAt": "2026-07-31T17:35:35.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "publishedAt": "2026-07-31T16:39:31.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+      "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks,…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+      "publishedAt": "2026-07-31T14:01:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+      "publishedAt": "2026-07-31T11:55:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+      "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
+      "publishedAt": "2026-07-31T11:24:59.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+      "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+      "publishedAt": "2026-07-31T11:21:27.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
+      "summary": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI. The post EU to Crack Down on AI Deepfakes,…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
+      "publishedAt": "2026-07-31T10:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Critical Flaw Allowed to Azure Cosmos DB Pwnage",
+      "summary": "Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access. The post Critical Flaw Allowed to Azure Cosmos DB Pwnage appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
+      "publishedAt": "2026-07-31T09:04:02.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cisco เตือนช่องโหว่ Static Credential ใน Secure Firewall Management Center ถูกใช้โจมตีจริง",
+      "summary": "414/69 (IT) ประจำวันศุกร์ที่ 31 กรกฎาคม 2569 Cisco ออกป […] The post Cisco เตือนช่องโหว่ Static Credential ใน Secure Firewall Management Center ถูกใช้โจมตีจริง first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/07/31/cisco-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-static-credential-%e0%b9%83%e0%b8%99-secure-firewall-management-center/",
+      "publishedAt": "2026-07-31T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "OpenAI เผยข้อมูลจากเหตุการณ์โมเดล AI หลุดระบบทดสอบ พบใช้ช่องโหว่เข้าถึงบริการภายนอกเพิ่มเติม",
+      "summary": "412/69 (IT) ประจำวันศุกร์ที่ 31 กรกฎาคม 2569 OpenAI ได้ […] The post OpenAI เผยข้อมูลจากเหตุการณ์โมเดล AI หลุดระบบทดสอบ พบใช้ช่องโหว่เข้าถึงบริการภายนอกเพิ่มเติม first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/07/31/openai-%e0%b9%80%e0%b8%9c%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%88%e0%b8%b2%e0%b8%81%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%93%e0%b9%8c/",
+      "publishedAt": "2026-07-31T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "CareCloud Data Breach Impacts Over 350,000",
+      "summary": "In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment. The post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
+      "publishedAt": "2026-07-31T07:51:43.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical Code Execution Vulnerability Patched in TeamCity",
+      "summary": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol. The post Critical Code Execution Vulnerability Patched in TeamCity appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
+      "publishedAt": "2026-07-31T06:50:30.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+      "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+      "publishedAt": "2026-07-31T06:41:44.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "เตือนภัย! ช่องโหว่ใน Koollab LMS เสี่ยงถูกยึดระบบ ขโมยข้อมูล และควบคุมบัญชีผู้ดูแล",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือนภัย! ช่องโหว่ใน Koollab LMS เสี่ยงถูกยึดระบบ ขโมยข้อมูล และควบคุมบัญชีผู้ดูแล first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/07/31/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-koollab-lms-%e0%b9%80%e0%b8%aa/",
+      "publishedAt": "2026-07-31T04:36:44.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "publishedAt": "2026-07-31T00:57:25.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "South Korea fines telco giant KT $39 million for customer data breach",
       "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
@@ -82,30 +226,6 @@
       "category": "ai-security"
     },
     {
-      "title": "Analog Devices discloses data breach, says operations unaffected",
-      "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-      "publishedAt": "2026-07-30T15:12:25.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
-      "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-      "publishedAt": "2026-07-30T14:01:11.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
-      "summary": "The company will accelerate investments in R&D and product innovation to expand its agentic data control plane. The post DataBahn Raises $40 Million for Agentic Data Pipeline Management appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
-      "publishedAt": "2026-07-30T14:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
       "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz,…",
       "source": "The Hacker News",
@@ -114,44 +234,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "Cantina Emerges From Stealth With $8 Million in Funding",
-      "summary": "The startup’s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities. The post Cantina Emerges From Stealth With $8 Million in Funding appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
-      "publishedAt": "2026-07-30T13:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Discern Security Raises $13 Million in Series A Funding",
-      "summary": "The company will invest in accelerating the development and adoption of its agentic platform. The post Discern Security Raises $13 Million in Series A Funding appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
-      "publishedAt": "2026-07-30T13:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
-      "summary": "The Series B funding round brings the total raised by Onyx Security to $153 million. The post Onyx Security Raises $113 Million to Control AI Agents in the Enterprise appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
-      "publishedAt": "2026-07-30T12:29:03.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "The Network Has Become the Control Plane for AI Security",
       "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
       "publishedAt": "2026-07-30T11:32:46.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
-      "summary": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files. The post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
-      "publishedAt": "2026-07-30T11:16:23.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
@@ -183,22 +271,6 @@
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
       "publishedAt": "2026-07-30T00:30:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper.…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "publishedAt": "2026-07-29T23:44:07.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "publishedAt": "2026-07-29T21:35:40.000Z",
       "category": "kill-chain"
     },
     {
@@ -242,84 +314,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-      "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-      "publishedAt": "2026-07-29T16:04:59.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
       "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
       "publishedAt": "2026-07-29T14:40:33.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "publishedAt": "2026-07-29T12:15:00.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "publishedAt": "2026-07-29T11:57:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "publishedAt": "2026-07-29T08:58:27.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-      "publishedAt": "2026-07-29T07:51:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-      "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-      "publishedAt": "2026-07-29T07:47:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-      "publishedAt": "2026-07-29T07:07:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-      "publishedAt": "2026-07-29T04:20:57.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
-      "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust paths.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-      "publishedAt": "2026-07-28T21:33:23.000Z",
-      "category": "kill-chain"
     }
   ]
 }
