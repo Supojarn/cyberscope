@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-08-04T00:12:15.680Z",
+  "generatedAt": "2026-08-04T12:55:13.418Z",
   "items": [
+    {
+      "title": "Obsidian Security Raises $85 Million at $1.1 Billion Valuation",
+      "summary": "Obsidian Security has developed a platform for governing AI agents across third-party applications. The post Obsidian Security Raises $85 Million at $1.1 Billion Valuation appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "publishedAt": "2026-08-04T11:30:00.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "publishedAt": "2026-08-04T11:16:23.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "publishedAt": "2026-08-04T10:36:27.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
+      "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
+      "publishedAt": "2026-08-04T09:56:06.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "publishedAt": "2026-08-04T09:03:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "150,000 Impacted by Madera Community Hospital Data Breach",
+      "summary": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
+      "publishedAt": "2026-08-04T08:33:45.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CareCloud แจ้งเหตุข้อมูลรั่วไหล กระทบประชาชน 345,000 ราย หลังระบบบน AWS ถูกโจมตี",
+      "summary": "419/69 (IT) ประจำวันอังคารที่ 4 สิงหาคม 2569 CareCloud […] The post CareCloud แจ้งเหตุข้อมูลรั่วไหล กระทบประชาชน 345,000 ราย หลังระบบบน AWS ถูกโจมตี first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/04/carecloud-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab%e0%b8%a5/",
+      "publishedAt": "2026-08-04T08:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "CrowdStrike เผย AI กลายเป็นทั้ง อาวุธ และ เป้าหมาย ในการโจมตีไซเบอร์ยุคใหม่",
+      "summary": "418/69 (IT) ประจำวันอังคารที่ 4 สิงหาคม 2569 CrowdStrik […] The post CrowdStrike เผย AI กลายเป็นทั้ง อาวุธ และ เป้าหมาย ในการโจมตีไซเบอร์ยุคใหม่ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/04/crowdstrike-%e0%b9%80%e0%b8%9c%e0%b8%a2-ai-%e0%b8%81%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%97%e0%b8%b1%e0%b9%89%e0%b8%87-%e0%b8%ad%e0%b8%b2%e0%b8%a7%e0%b8%b8%e0%b8%98/",
+      "publishedAt": "2026-08-04T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+      "publishedAt": "2026-08-04T07:00:13.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles",
+      "summary": "Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+      "publishedAt": "2026-08-04T00:17:15.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
       "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and…",
@@ -90,51 +186,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
-      "summary": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
-      "publishedAt": "2026-08-03T13:02:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
-      "summary": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
-      "publishedAt": "2026-08-03T12:34:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
-      "summary": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
-      "publishedAt": "2026-08-03T11:45:14.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
       "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
       "publishedAt": "2026-08-03T10:49:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks",
-      "summary": "The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement. The post Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/",
-      "publishedAt": "2026-08-03T10:39:41.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
-      "summary": "Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations. The post Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
-      "publishedAt": "2026-08-03T09:17:37.000Z",
       "category": "kill-chain"
     },
     {
@@ -258,68 +314,12 @@
       "category": "pqc"
     },
     {
-      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-      "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-      "publishedAt": "2026-07-31T17:35:35.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
       "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
       "publishedAt": "2026-07-31T16:39:31.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
-      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
-      "publishedAt": "2026-07-31T11:55:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
-      "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
-      "publishedAt": "2026-07-31T11:24:59.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-      "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-      "publishedAt": "2026-07-31T11:21:27.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Cisco เตือนช่องโหว่ Static Credential ใน Secure Firewall Management Center ถูกใช้โจมตีจริง",
-      "summary": "414/69 (IT) ประจำวันศุกร์ที่ 31 กรกฎาคม 2569 Cisco ออกป […] The post Cisco เตือนช่องโหว่ Static Credential ใน Secure Firewall Management Center ถูกใช้โจมตีจริง first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/31/cisco-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-static-credential-%e0%b9%83%e0%b8%99-secure-firewall-management-center/",
-      "publishedAt": "2026-07-31T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "OpenAI เผยข้อมูลจากเหตุการณ์โมเดล AI หลุดระบบทดสอบ พบใช้ช่องโหว่เข้าถึงบริการภายนอกเพิ่มเติม",
-      "summary": "412/69 (IT) ประจำวันศุกร์ที่ 31 กรกฎาคม 2569 OpenAI ได้ […] The post OpenAI เผยข้อมูลจากเหตุการณ์โมเดล AI หลุดระบบทดสอบ พบใช้ช่องโหว่เข้าถึงบริการภายนอกเพิ่มเติม first appeared on Thailand Computer Emergency Response…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/07/31/openai-%e0%b9%80%e0%b8%9c%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%88%e0%b8%b2%e0%b8%81%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%93%e0%b9%8c/",
-      "publishedAt": "2026-07-31T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-      "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-      "publishedAt": "2026-07-31T06:41:44.000Z",
-      "category": "ai-security"
     }
   ]
 }
