@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="NIST Cybersecurity Framework (CSF) 2.0 — ทำความรู้จักเฟรมเวิร์กบริหารความเสี่ยงไซเบอร์ 6 ฟังก์ชันหลัก พร้อมอัปเดตล่าสุดจาก NIST อัตโนมัติทุกวัน">
+  <title>NIST CSF 2.0 และอัปเดตจาก NIST | CyberScope</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">Cyber</span>Scope</a>
+      <button class="nav-toggle" aria-label="เปิด/ปิดเมนู" aria-expanded="false">☰</button>
+      <nav class="main-nav" aria-label="เมนูหลัก">
+        <ul>
+          <li><a href="index.html">หน้าแรก</a></li>
+          <li><a href="kill-chain.html">Cyber Kill Chain</a></li>
+          <li><a href="ai-security.html">AI &amp; Security</a></li>
+          <li><a href="pqc.html">Post-Quantum</a></li>
+          <li><a href="cve.html">ช่องโหว่ CVE</a></li>
+          <li><a href="nist.html" class="active">NIST CSF</a></li>
+          <li><a href="hype-cycle.html">Hype Cycle</a></li>
+          <li><a href="news.html">ข่าวล่าสุด</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container breadcrumb">
+      <a href="index.html">หน้าแรก</a><span class="sep">/</span><span class="current">NIST CSF</span>
+    </div>
+
+    <section class="hero hero-small">
+      <div class="container">
+        <h1>NIST Cybersecurity Framework 2.0: แผนที่บริหารความเสี่ยงไซเบอร์</h1>
+        <p class="lead">
+          เฟรมเวิร์กที่องค์กรทั่วโลกใช้มากที่สุดในการวางระบบความมั่นคงปลอดภัยไซเบอร์
+          — ฉบับ 2.0 (กุมภาพันธ์ 2024) คือการปรับปรุงใหญ่ครั้งแรกในรอบทศวรรษ
+          ขยายจากโครงสร้างพื้นฐานสำคัญสู่องค์กรทุกขนาดทุกประเภท
+        </p>
+      </div>
+    </section>
+
+    <section class="content-section">
+      <div class="container">
+
+        <h2>NIST CSF คืออะไร?</h2>
+        <p>
+          <strong>NIST Cybersecurity Framework (CSF)</strong> คือกรอบแนวทางบริหารจัดการ
+          ความเสี่ยงด้านไซเบอร์ที่พัฒนาโดย NIST (สถาบันมาตรฐานและเทคโนโลยีแห่งชาติสหรัฐฯ)
+          เผยแพร่ครั้งแรกปี 2014 ตามคำสั่งบริหารของประธานาธิบดีสหรัฐฯ เพื่อปกป้อง
+          โครงสร้างพื้นฐานสำคัญ (โรงไฟฟ้า ธนาคาร โรงพยาบาล ฯลฯ) จุดเด่นคือมันไม่ใช่
+          &ldquo;เช็กลิสต์บังคับ&rdquo; แต่เป็น<strong>ภาษากลาง</strong>ที่ช่วยให้ผู้บริหาร
+          ฝ่ายไอที และหน่วยงานกำกับดูแล คุยเรื่องความเสี่ยงไซเบอร์ด้วยความเข้าใจตรงกัน
+          และเลือกปรับใช้ได้ตามบริบทของแต่ละองค์กร
+        </p>
+        <p>
+          <strong>CSF 2.0</strong> เผยแพร่เมื่อ <strong>26 กุมภาพันธ์ 2024</strong>
+          เป็นการปรับปรุงใหญ่ครั้งแรกนับตั้งแต่เวอร์ชันแรก มีการเปลี่ยนแปลงสำคัญ 2 เรื่อง:
+          (1) ขยายขอบเขตจาก &ldquo;โครงสร้างพื้นฐานสำคัญ&rdquo; ให้ครอบคลุม
+          <strong>องค์กรทุกขนาดทุกอุตสาหกรรม</strong> ตั้งแต่ SME โรงเรียน ไปจนถึงหน่วยงานรัฐ
+          และ (2) เพิ่มฟังก์ชันที่ 6 คือ <strong>Govern (กำกับดูแล)</strong>
+          ยกระดับความเสี่ยงไซเบอร์จากเรื่องของฝ่ายไอที ให้เป็นวาระของผู้บริหารและคณะกรรมการองค์กร
+        </p>
+
+        <h2>6 ฟังก์ชันหลักของ CSF 2.0</h2>
+        <div class="card-grid csf-grid">
+          <div class="card csf-card csf-govern">
+            <div class="csf-badge">GV</div>
+            <h3>Govern — กำกับดูแล</h3>
+            <p>
+              ฟังก์ชันใหม่ใน 2.0 และเป็นแกนกลางของทั้งเฟรมเวิร์ก: กำหนดกลยุทธ์
+              นโยบาย บทบาทความรับผิดชอบ และการกำกับความเสี่ยงไซเบอร์ระดับองค์กร
+              รวมถึงความเสี่ยงจากซัพพลายเชน — ผู้บริหารต้องเป็นเจ้าของเรื่องนี้ ไม่ใช่แค่ฝ่ายไอที
+            </p>
+          </div>
+          <div class="card csf-card">
+            <div class="csf-badge">ID</div>
+            <h3>Identify — ระบุ</h3>
+            <p>
+              รู้ว่าองค์กรมีอะไรต้องปกป้องบ้าง: จัดทำทะเบียนทรัพย์สิน (ฮาร์ดแวร์ ซอฟต์แวร์
+              ข้อมูล บริการ) ประเมินความเสี่ยงและช่องโหว่ เข้าใจว่าระบบไหนสำคัญต่อธุรกิจที่สุด
+              — จะป้องกันได้ต้องรู้ก่อนว่ามีอะไร
+            </p>
+          </div>
+          <div class="card csf-card">
+            <div class="csf-badge">PR</div>
+            <h3>Protect — ป้องกัน</h3>
+            <p>
+              วางมาตรการลดโอกาสถูกโจมตี: ควบคุมสิทธิ์การเข้าถึงและยืนยันตัวตน (MFA),
+              อบรมความตระหนักรู้พนักงาน, เข้ารหัสข้อมูล, จัดการ patch,
+              และสำรองข้อมูลสม่ำเสมอ — สอดคล้องกับการ &ldquo;หักโซ่&rdquo; ขั้นต้นๆ ของ Kill Chain
+            </p>
+          </div>
+          <div class="card csf-card">
+            <div class="csf-badge">DE</div>
+            <h3>Detect — ตรวจจับ</h3>
+            <p>
+              เฝ้าระวังให้เจอเหตุผิดปกติเร็วที่สุด: มอนิเตอร์เครือข่ายและอุปกรณ์ปลายทาง
+              วิเคราะห์เหตุการณ์ผิดปกติ — ยิ่งตรวจพบเร็ว dwell time ของผู้โจมตียิ่งสั้น
+              ความเสียหายยิ่งน้อย
+            </p>
+          </div>
+          <div class="card csf-card">
+            <div class="csf-badge">RS</div>
+            <h3>Respond — ตอบสนอง</h3>
+            <p>
+              เมื่อเกิดเหตุแล้วต้องจัดการอย่างเป็นระบบ: แผนรับมือเหตุการณ์ (incident response plan),
+              การจำกัดวงความเสียหาย, การสื่อสารกับผู้เกี่ยวข้องและหน่วยงานกำกับ,
+              และการวิเคราะห์สาเหตุ
+            </p>
+          </div>
+          <div class="card csf-card">
+            <div class="csf-badge">RC</div>
+            <h3>Recover — ฟื้นฟู</h3>
+            <p>
+              กู้ระบบและบริการกลับสู่ปกติให้เร็วที่สุด: แผนกู้คืนจากข้อมูลสำรอง
+              การจัดลำดับระบบที่ต้องฟื้นก่อน และการสื่อสารระหว่างฟื้นฟู
+              พร้อมบทเรียนไปปรับปรุงรอบถัดไป
+            </p>
+          </div>
+        </div>
+
+        <h2>ใช้งานจริงอย่างไร?</h2>
+        <p>
+          นอกจาก 6 ฟังก์ชันหลัก (Core) แล้ว CSF ยังมีเครื่องมือประกอบอีก 2 ชิ้น:
+          <strong>Organizational Profiles</strong> — เทียบ &ldquo;สถานะปัจจุบัน&rdquo; กับ
+          &ldquo;สถานะเป้าหมาย&rdquo; ขององค์กร เพื่อวางแผนปิดช่องว่างอย่างเป็นขั้นตอน และ
+          <strong>Tiers (ระดับ 1-4)</strong> — วัดวุฒิภาวะของกระบวนการบริหารความเสี่ยง
+          ตั้งแต่ทำแบบเฉพาะกิจ (Partial) ไปจนถึงปรับตัวได้ต่อเนื่อง (Adaptive)
+          NIST ยังมี Quick Start Guides สำหรับ SME และ Reference Tool
+          ให้ค้นหา mapping ไปยังมาตรฐานอื่น (ISO 27001, SP 800-53) ได้ฟรีทั้งหมด
+        </p>
+
+        <div class="callout">
+          <h3>เชื่อมโยงกับหัวข้ออื่นใน CyberScope</h3>
+          <p>
+            CSF คือ &ldquo;ร่ม&rdquo; ที่ครอบทุกเรื่องในเว็บนี้ —
+            การเข้าใจ <a href="kill-chain.html">Cyber Kill Chain</a> ช่วยออกแบบมาตรการใน Protect/Detect,
+            การติดตาม <a href="cve.html">ช่องโหว่ CVE</a> คืองานหลักของ Identify,
+            การรับมือ <a href="ai-security.html">ภัยคุกคามยุค AI</a> ต้องอาศัย Detect/Respond ที่ทันสมัย
+            และการวางแผนย้ายสู่ <a href="pqc.html">PQC</a> ก็คือการบริหารความเสี่ยงระยะยาวภายใต้ Govern นั่นเอง
+          </p>
+        </div>
+
+        <div class="callout-thailand">
+          <h3>🇹🇭 ผลกระทบต่อประเทศไทย</h3>
+          <p>
+            กฎเกณฑ์ไซเบอร์ของไทยอิงแนวคิด NIST CSF อย่างชัดเจน —
+            <strong>พ.ร.บ.การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562</strong> และประกาศ กมช.
+            ที่กำหนดมาตรฐานขั้นต่ำให้หน่วยงานโครงสร้างพื้นฐานสำคัญทางสารสนเทศ (CII)
+            ใช้กรอบ Identify–Protect–Detect–Respond–Recover เป็นแกน เช่นเดียวกับ
+            <strong>ธนาคารแห่งประเทศไทย</strong> ที่ใช้แนวคิดนี้ใน Cyber Resilience
+            Assessment Framework (CRAF) สำหรับสถาบันการเงิน และ <strong>กลต.</strong>
+            ที่นำไปใช้กับบริษัทหลักทรัพย์และผู้ประกอบธุรกิจสินทรัพย์ดิจิทัล
+          </p>
+          <p>
+            นั่นหมายความว่าองค์กรไทยที่เรียนรู้ CSF ไว้ จะเข้าใจ &ldquo;ภาษา&rdquo;
+            เดียวกับหน่วยงานกำกับดูแลไทยโดยอัตโนมัติ — และเมื่อ CSF 2.0 เพิ่มฟังก์ชัน
+            <strong>Govern</strong> เข้ามา คาดว่าแนวทางกำกับของไทยรอบถัดไปจะยกระดับ
+            ความรับผิดชอบของคณะกรรมการบริษัทต่อความเสี่ยงไซเบอร์ตามไปด้วย
+            องค์กรที่เริ่มปรับก่อนย่อมได้เปรียบ ทั้งด้านการปฏิบัติตามกฎเกณฑ์ (compliance)
+            และความพร้อมรับมือจริง
+          </p>
+        </div>
+
+        <h2 id="nist-updates">อัปเดตล่าสุดจาก NIST</h2>
+        <p class="dim">
+          รวบรวมอัตโนมัติทุกวันจากบล็อก Cybersecurity Insights และข่าวทางการของ NIST
+          <br><span id="nist-updated">กำลังโหลด…</span>
+        </p>
+
+        <div class="news-grid" id="nist-grid">
+          <div class="news-empty" id="nist-loading">กำลังโหลดอัปเดตล่าสุด…</div>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <nav class="footer-nav" aria-label="เมนูท้ายเว็บ">
+        <a href="index.html">หน้าแรก</a>
+        <a href="kill-chain.html">Cyber Kill Chain</a>
+        <a href="ai-security.html">AI &amp; Security</a>
+        <a href="pqc.html">Post-Quantum</a>
+        <a href="cve.html">ช่องโหว่ CVE</a>
+        <a href="nist.html">NIST CSF</a>
+        <a href="hype-cycle.html">Hype Cycle</a>
+        <a href="news.html">ข่าวล่าสุด</a>
+      </nav>
+      <div class="footer-sources">
+        <strong>อ้างอิง:</strong> NIST (Cybersecurity Framework 2.0, กุมภาพันธ์ 2024),
+        NIST Cybersecurity Insights Blog, สำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ
+        (พ.ร.บ.ไซเบอร์ 2562 / ประกาศ กมช.), ธนาคารแห่งประเทศไทย (CRAF), กลต.
+      </div>
+      <p class="footer-copy">CyberScope — เว็บไซต์ให้ความรู้ด้านความมั่นคงปลอดภัยไซเบอร์ เพื่อการศึกษาเท่านั้น</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+  <script src="js/nist.js"></script>
+</body>
+</html>

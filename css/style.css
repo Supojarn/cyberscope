@@ -109,10 +109,10 @@ a:hover {
 
 .main-nav a {
   display: block;
-  padding: 0.4rem 0.85rem;
+  padding: 0.4rem 0.65rem;
   color: var(--text-dim);
   font-weight: 600;
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   border-radius: 8px;
   position: relative;
   white-space: nowrap;
@@ -131,8 +131,8 @@ a:hover {
 .main-nav a.active::after {
   content: "";
   position: absolute;
-  left: 0.85rem;
-  right: 0.85rem;
+  left: 0.65rem;
+  right: 0.65rem;
   bottom: 0.1rem;
   height: 2px;
   background: var(--accent);
@@ -763,6 +763,67 @@ td .std-code {
 .sev-word.sev-high { color: var(--warn); }
 .sev-word.sev-kev { color: #ff8ba0; }
 
+/* ============ NIST CSF page ============ */
+
+.csf-grid { margin: 1.5rem 0 2.5rem; }
+
+.csf-card { position: relative; }
+
+.csf-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 46px;
+  height: 46px;
+  border-radius: 12px;
+  background: rgba(0, 229, 199, 0.10);
+  border: 1px solid rgba(0, 229, 199, 0.4);
+  color: var(--accent);
+  font-weight: 800;
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.8rem;
+}
+
+/* Govern — ฟังก์ชันใหม่ เน้นด้วยสีม่วงให้เด่นกว่าใบอื่น */
+.csf-card.csf-govern {
+  border-color: var(--accent2);
+  box-shadow: inset 0 0 40px rgba(106, 91, 255, 0.06);
+}
+
+.csf-card.csf-govern .csf-badge {
+  background: rgba(106, 91, 255, 0.14);
+  border-color: var(--accent2);
+  color: #a89bff;
+}
+
+.csf-card.csf-govern:hover {
+  border-color: var(--accent2);
+  box-shadow: 0 8px 30px rgba(106, 91, 255, 0.16), 0 0 0 1px rgba(106, 91, 255, 0.3);
+}
+
+/* ============ Hype Cycle page ============ */
+
+.hype-figure {
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  border-radius: var(--radius);
+  padding: 1.5rem 1.25rem 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.hype-figure svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.hype-figure figcaption {
+  text-align: center;
+  font-size: 0.82rem;
+  margin-top: 0.75rem;
+}
+
 /* ============ Footer ============ */
 
 .site-footer {
@@ -807,6 +868,38 @@ td .std-code {
 }
 
 /* ============ Responsive ============ */
+
+/* เมนู 8 ลิงก์ล้นจอขนาดกลาง — ยุบเป็น hamburger เร็วกว่าส่วนอื่นของหน้า */
+@media (max-width: 1120px) {
+  .nav-toggle { display: block; }
+
+  .main-nav {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: rgba(10, 14, 23, 0.97);
+    backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--panel-border);
+    display: none;
+  }
+
+  .main-nav.open { display: block; }
+
+  .main-nav ul {
+    flex-direction: column;
+    gap: 0;
+    padding: 0.5rem 1.25rem 1rem;
+  }
+
+  .main-nav a { padding: 0.7rem 0.5rem; font-size: 1rem; }
+
+  .main-nav a.active::after {
+    left: 0.5rem;
+    right: auto;
+    width: 42px;
+  }
+}
 
 @media (max-width: 860px) {
   .header-inner { height: 58px; }

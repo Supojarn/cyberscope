@@ -6,7 +6,8 @@
   "scripts": {
     "fetch-news": "node scripts/fetch-news.js",
     "fetch-cve": "node scripts/fetch-cve.js",
-    "fetch-all": "node scripts/fetch-news.js && node scripts/fetch-cve.js"
+    "fetch-nist": "node scripts/fetch-nist.js",
+    "fetch-all": "node scripts/fetch-news.js && node scripts/fetch-cve.js && node scripts/fetch-nist.js"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"

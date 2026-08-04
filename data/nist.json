@@ -1,0 +1,110 @@
+{
+  "generatedAt": "2026-08-04T09:42:54.058Z",
+  "items": [
+    {
+      "title": "Verifiable Digital Credential Presentment",
+      "summary": "This blog post is #4 in our series on Verifiable Digital Credentials (VDCs). Our other posts can be found via Post #1, Post #2, and Post #3. In earlier posts, we discussed how verifiable digital credentials (VDCs) are…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/verifiable-digital-credential-presentment",
+      "publishedAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "title": "NIST Launches Center to Drive the Manufacture of Quantum Technologies",
+      "summary": "NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
+      "publishedAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "title": "Advancing Product Security: New IoT Guidance and New Engagement",
+      "summary": "It may be summertime, but the NIST Cybersecurity for the Internet of Things (IoT) Program isn’t hitting the hammock! Organizations are managing growing device complexity, evolving threats, and pressure to turn guidance…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/advancing-product-security-new-iot-guidance-and-new-engagement",
+      "publishedAt": "2026-06-24T12:00:00.000Z"
+    },
+    {
+      "title": "NIST Mathematical Proof Supports Transition to a Continuous-Monitor-and-Update Security Model for AI Systems",
+      "summary": "The proof extends to AI the logic used by famed mathematician Kurt Gödel, whose incompleteness theorems have had a profound effect on math for nearly a century.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update",
+      "publishedAt": "2026-06-09T12:00:00.000Z"
+    },
+    {
+      "title": "Stronger Cybersecurity, Stronger Business: NIST Celebrates 2026 National Small Business Week",
+      "summary": "Happy National Small Business Week! For over 60 years, the U.S. Small Business Administration has led this initiative to acknowledge the critical contributions of America’s entrepreneurs and small business owners. Part…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/stronger-cybersecurity-stronger-business-nist-celebrates-2026-national",
+      "publishedAt": "2026-05-04T12:00:00.000Z"
+    },
+    {
+      "title": "From DMV to Wallet: Understanding Verifiable Digital Credential Issuance",
+      "summary": "In our last post in this series, we compared two credential formats that shape the digital identity ecosystem: ISO/IEC 18013-5 and -7 mobile documents (mdocs) and W3C Verifiable Credentials (VCs). Both formats define…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/dmv-wallet-understanding-verifiable-digital-credential-issuance",
+      "publishedAt": "2026-04-28T12:00:00.000Z"
+    },
+    {
+      "title": "Reflections from the Second NIST Cyber AI Profile Workshop",
+      "summary": "Thank you to everyone who participated in the Cybersecurity Framework Profile for Artificial Intelligence (Cyber AI Profile) Workshop in January! The input we received on the Preliminary Draft during this workshop has…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/reflections-second-nist-cyber-ai-profile-workshop",
+      "publishedAt": "2026-03-23T12:00:00.000Z"
+    },
+    {
+      "title": "All aboard: the NIST Cybersecurity for IoT Program is headed to our next stop! Share your input on where we’re headed during our Future Directions Two-Day…",
+      "summary": "Workshop Details… We’re looking forward to hearing from the community during our “Future Directions” Workshop! Date: March 31 - April 1, 2026 Where: NIST’s Gaithersburg campus! Registration and Details: HERE Can’t make…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/all-aboard-nist-cybersecurity-iot-program-headed-our-next-stop-share",
+      "publishedAt": "2026-03-20T12:00:00.000Z"
+    },
+    {
+      "title": "Celebrating Two Years of CSF 2.0!",
+      "summary": "Celebrate this milestone with us! Email us at csf [at] nist.gov (csf[at]nist[dot]gov) or tag @NISTcyber on X telling us what your favorite CSF 2.0 resource is (or how your organization has benefitted from implementing…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/celebrating-two-years-csf-20",
+      "publishedAt": "2026-02-24T12:00:00.000Z"
+    },
+    {
+      "title": "NIST Allocates Over $3 Million to Small Businesses Advancing AI, Biotechnology, Semiconductors, Quantum and More",
+      "summary": "NIST is allocating funding to eight small businesses in seven states under the Small Business Innovation Research (SBIR) program.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology",
+      "publishedAt": "2026-02-10T12:00:00.000Z"
+    },
+    {
+      "title": "Celebrating Data Privacy Week with NIST’s Privacy Engineering Program",
+      "summary": "Grab your party hats – it’s Data Privacy Week! Data Privacy Week is a global initiative led by the National Cybersecurity Alliance to spread awareness about online privacy and empower individuals and businesses to…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/celebrating-data-privacy-week-nists-privacy-engineering-program",
+      "publishedAt": "2026-01-27T12:00:00.000Z"
+    },
+    {
+      "title": "Digital Identities: Getting to Know the Verifiable Digital Credential Ecosystem",
+      "summary": "Understanding mDL credential formats Standards in the VDC Ecosystem In our first blog post in this series, we highlighted that VDCs can represent a wide range of credentials, from a driver’s license to a diploma to…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/digital-identities-getting-know-verifiable-digital-credential-0",
+      "publishedAt": "2026-01-07T12:00:00.000Z"
+    },
+    {
+      "title": "NIST Physicists Bring Unruly Molecules to the Quantum Party",
+      "summary": "Molecules can serve as versatile building blocks for quantum technologies, but they are much harder to control than atoms.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2025/12/nist-physicists-bring-unruly-molecules-quantum-party",
+      "publishedAt": "2025-12-18T12:00:00.000Z"
+    },
+    {
+      "title": "Securing Smart Speakers for Home Health Care: NIST Offers New Guidelines",
+      "summary": "Cybersecurity and privacy risks can threaten patient confidentiality.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2025/12/securing-smart-speakers-home-health-care-nist-offers-new-guidelines",
+      "publishedAt": "2025-12-17T12:00:00.000Z"
+    },
+    {
+      "title": "Draft NIST Guidelines Rethink Cybersecurity for the AI Era",
+      "summary": "New guidelines can help an organization determine ways to incorporate AI into its operations while mitigating cybersecurity risks.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2025/12/draft-nist-guidelines-rethink-cybersecurity-ai-era",
+      "publishedAt": "2025-12-16T12:00:00.000Z"
+    }
+  ]
+}

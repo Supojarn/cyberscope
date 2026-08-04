@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Gartner Hype Cycle — เข้าใจวงจรกระแสเทคโนโลยี 5 ระยะ และวิธีใช้ประเมินจังหวะลงทุนเทคโนโลยีความมั่นคงปลอดภัยไซเบอร์อย่างมีสติ">
+  <title>Hype Cycle — วงจรกระแสเทคโนโลยี 5 ระยะ | CyberScope</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">Cyber</span>Scope</a>
+      <button class="nav-toggle" aria-label="เปิด/ปิดเมนู" aria-expanded="false">☰</button>
+      <nav class="main-nav" aria-label="เมนูหลัก">
+        <ul>
+          <li><a href="index.html">หน้าแรก</a></li>
+          <li><a href="kill-chain.html">Cyber Kill Chain</a></li>
+          <li><a href="ai-security.html">AI &amp; Security</a></li>
+          <li><a href="pqc.html">Post-Quantum</a></li>
+          <li><a href="cve.html">ช่องโหว่ CVE</a></li>
+          <li><a href="nist.html">NIST CSF</a></li>
+          <li><a href="hype-cycle.html" class="active">Hype Cycle</a></li>
+          <li><a href="news.html">ข่าวล่าสุด</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container breadcrumb">
+      <a href="index.html">หน้าแรก</a><span class="sep">/</span><span class="current">Hype Cycle</span>
+    </div>
+
+    <section class="hero hero-small">
+      <div class="container">
+        <h1>Hype Cycle: อ่านวงจรกระแสเทคโนโลยีให้ออก ก่อนตัดสินใจลงทุน</h1>
+        <p class="lead">
+          ทุกเทคโนโลยีใหม่ — รวมถึงเครื่องมือ security — เดินตามเส้นโค้งเดิมเสมอ:
+          ถูกเชียร์เกินจริง แล้วถูกด่าเกินจริง ก่อนจะพิสูจน์คุณค่าที่แท้จริง
+          โมเดล Hype Cycle ของ Gartner ช่วยให้เรารู้ว่า &ldquo;ตอนนี้อยู่ตรงไหนของเส้นโค้ง&rdquo;
+          และควรทำอะไรกับมัน
+        </p>
+      </div>
+    </section>
+
+    <section class="content-section">
+      <div class="container">
+
+        <h2>Hype Cycle คืออะไร?</h2>
+        <p>
+          <strong>Hype Cycle</strong> คือโมเดลที่บริษัทวิจัย <strong>Gartner</strong>
+          ใช้มาตั้งแต่ปี 1995 เพื่ออธิบายวัฏจักรความคาดหวังของตลาดต่อเทคโนโลยีเกิดใหม่
+          แกนนอนคือ<strong>เวลา</strong> แกนตั้งคือ<strong>ความคาดหวัง/กระแส</strong>
+          — ประเด็นสำคัญที่หลายคนเข้าใจผิด: เส้นโค้งนี้ไม่ได้วัดว่าเทคโนโลยี
+          &ldquo;ดีขึ้นหรือแย่ลง&rdquo; แต่วัดว่า<strong>คนคาดหวังกับมันสมจริงแค่ไหน</strong>
+          เทคโนโลยีมักพัฒนาดีขึ้นเรื่อยๆ อย่างสม่ำเสมอ ขณะที่กระแสพุ่งขึ้นและร่วงลงรุนแรงกว่าความจริงเสมอ
+        </p>
+        <p>
+          Gartner เผยแพร่ Hype Cycle รายปีหลายสิบฉบับ แยกตามสาขา
+          (เช่น Security Operations, AI, Zero Trust) ตัวรายงานฉบับเต็มเป็นงานวิจัย
+          ที่มีลิขสิทธิ์และต้องเป็นสมาชิกจึงเข้าถึงได้ — หน้านี้จึงสรุปเฉพาะ<strong>แนวคิด</strong>
+          ของโมเดล พร้อมภาพประกอบที่ CyberScope วาดขึ้นเอง
+          และตัวอย่างที่ Gartner เปิดเผยต่อสาธารณะผ่านข่าวประชาสัมพันธ์
+        </p>
+
+        <h2>เส้นโค้ง 5 ระยะ</h2>
+
+        <figure class="hype-figure" aria-label="แผนภาพแนวคิด Hype Cycle 5 ระยะ วาดโดย CyberScope">
+          <svg viewBox="0 0 1000 430" xmlns="http://www.w3.org/2000/svg" role="img">
+            <!-- แกน -->
+            <line x1="50" y1="370" x2="970" y2="370" stroke="#22304a" stroke-width="2"/>
+            <line x1="50" y1="370" x2="50" y2="40" stroke="#22304a" stroke-width="2"/>
+            <text x="965" y="395" fill="#8ea0bf" font-size="15" text-anchor="end" font-family="Sarabun, sans-serif">เวลา →</text>
+            <text x="42" y="60" fill="#8ea0bf" font-size="15" text-anchor="start" font-family="Sarabun, sans-serif" transform="rotate(-90 42 60) translate(-310 -14)">ความคาดหวัง →</text>
+
+            <!-- เส้นโค้ง hype -->
+            <path d="M 55 362
+                     C 130 350, 180 95, 265 85
+                     C 330 78, 380 250, 465 272
+                     C 540 291, 650 235, 760 200
+                     C 850 172, 910 162, 960 158"
+                  fill="none" stroke="#00e5c7" stroke-width="4" stroke-linecap="round"/>
+
+            <!-- จุด 5 ระยะ -->
+            <g font-family="Sarabun, sans-serif" font-weight="700">
+              <circle cx="110" cy="322" r="13" fill="#0a0e17" stroke="#6a5bff" stroke-width="2.5"/>
+              <text x="110" y="327" fill="#a89bff" font-size="14" text-anchor="middle">1</text>
+              <circle cx="265" cy="85" r="13" fill="#0a0e17" stroke="#ff4d6d" stroke-width="2.5"/>
+              <text x="265" y="90" fill="#ff8ba0" font-size="14" text-anchor="middle">2</text>
+              <circle cx="465" cy="272" r="13" fill="#0a0e17" stroke="#ffb454" stroke-width="2.5"/>
+              <text x="465" y="277" fill="#ffb454" font-size="14" text-anchor="middle">3</text>
+              <circle cx="720" cy="212" r="13" fill="#0a0e17" stroke="#00e5c7" stroke-width="2.5"/>
+              <text x="720" y="217" fill="#00e5c7" font-size="14" text-anchor="middle">4</text>
+              <circle cx="930" cy="160" r="13" fill="#0a0e17" stroke="#00e5c7" stroke-width="2.5"/>
+              <text x="930" y="165" fill="#00e5c7" font-size="14" text-anchor="middle">5</text>
+            </g>
+
+            <!-- ป้ายชื่อระยะ (ย่อ) -->
+            <g fill="#8ea0bf" font-size="13.5" font-family="Sarabun, sans-serif" text-anchor="middle">
+              <text x="115" y="410">Innovation Trigger</text>
+              <text x="285" y="52">Peak of Inflated Expectations</text>
+              <text x="465" y="410">Trough of Disillusionment</text>
+              <text x="700" y="410">Slope of Enlightenment</text>
+              <text x="905" y="410">Plateau of Productivity</text>
+            </g>
+          </svg>
+          <figcaption class="dim">ภาพประกอบแนวคิด Hype Cycle — วาดโดย CyberScope (ไม่ใช่กราฟจริงของ Gartner)</figcaption>
+        </figure>
+
+        <div class="timeline hype-phases">
+          <div class="timeline-step" data-step="1">
+            <h3>จุดกำเนิดนวัตกรรม</h3>
+            <span class="step-en">Innovation Trigger</span>
+            <p>
+              เทคโนโลยีเพิ่งเกิด มีงานวิจัย ต้นแบบ หรือข่าวความสำเร็จชิ้นแรกจุดกระแส
+              สื่อเริ่มพูดถึงแต่ยังไม่มีผลิตภัณฑ์ใช้งานได้จริงในวงกว้าง
+              และยังไม่มีใครพิสูจน์ความคุ้มค่าเชิงพาณิชย์ได้
+            </p>
+            <div class="defense-box">
+              <strong>ท่าทีที่ควรมี:</strong> ติดตามศึกษา ทดลองใน lab ได้ แต่อย่าเพิ่งผูกระบบสำคัญกับมัน
+            </div>
+          </div>
+          <div class="timeline-step" data-step="2">
+            <h3>จุดสูงสุดของความคาดหวังเกินจริง</h3>
+            <span class="step-en">Peak of Inflated Expectations</span>
+            <p>
+              กระแสพุ่งสุดขีด — ทุกงานสัมมนาพูดถึง ทุก vendor แปะป้ายว่าตัวเองมี
+              success story ไม่กี่เคสถูกขยายความ ขณะที่ความล้มเหลวจำนวนมากไม่เป็นข่าว
+              ราคาสินค้าและความคาดหวังของผู้บริหารสูงเกินความสามารถจริงของเทคโนโลยี
+            </p>
+            <div class="defense-box">
+              <strong>ท่าทีที่ควรมี:</strong> ระวังการตัดสินใจซื้อเพราะกลัวตกขบวน (FOMO)
+              — ถามหาผลลัพธ์ที่วัดได้จริง ไม่ใช่เดโม
+            </div>
+          </div>
+          <div class="timeline-step" data-step="3">
+            <h3>หุบเหวแห่งความผิดหวัง</h3>
+            <span class="step-en">Trough of Disillusionment</span>
+            <p>
+              ของจริงไม่ตรงโฆษณา — โปรเจกต์นำร่องล้มเหลว งบบานปลาย สื่อเปลี่ยนไปเขียนข่าวด้านลบ
+              vendor รายเล็กล้มหายหรือถูกควบรวม หลายองค์กรถอดใจทิ้งเทคโนโลยีไปทั้งที่ปัญหาจริง
+              คือการนำไปใช้ผิดจุด
+            </p>
+            <div class="defense-box">
+              <strong>ท่าทีที่ควรมี:</strong> จังหวะทองของคนใจเย็น — ราคาลง บทเรียนคนอื่นมีให้อ่านฟรี
+              เริ่ม pilot ที่ scope ชัดได้
+            </div>
+          </div>
+          <div class="timeline-step" data-step="4">
+            <h3>ทางลาดแห่งความเข้าใจ</h3>
+            <span class="step-en">Slope of Enlightenment</span>
+            <p>
+              ตลาดเริ่มเข้าใจว่าเทคโนโลยีเหมาะกับงานอะไรจริงๆ — ผลิตภัณฑ์รุ่นที่ 2-3 แก้จุดอ่อนรุ่นแรก
+              มี best practice และเคสสำเร็จที่ทำซ้ำได้ องค์กรหัวก้าวหน้าเริ่มเห็นผลตอบแทนชัดเจน
+            </p>
+            <div class="defense-box">
+              <strong>ท่าทีที่ควรมี:</strong> จุดเริ่มลงทุนจริงจังสำหรับองค์กรส่วนใหญ่
+              — ความเสี่ยงลดลงมากแล้ว แต่ยังได้เปรียบคู่แข่งที่รอช้ากว่า
+            </div>
+          </div>
+          <div class="timeline-step" data-step="5">
+            <h3>ที่ราบแห่งผลิตภาพ</h3>
+            <span class="step-en">Plateau of Productivity</span>
+            <p>
+              เทคโนโลยีกลายเป็นกระแสหลัก — มาตรฐานชัด ตลาดมีผู้เล่นมั่นคง ประเมิน ROI ได้แม่นยำ
+              การใช้งานแพร่หลายจนไม่มีใครเรียกมันว่า &ldquo;ของใหม่&rdquo; อีกต่อไป
+              (เหมือนที่ firewall หรือ MFA เคยเป็นของล้ำยุคมาก่อน)
+            </p>
+            <div class="defense-box">
+              <strong>ท่าทีที่ควรมี:</strong> เป็นมาตรฐานขั้นต่ำที่ควรมี — ถ้ายังไม่ใช้ ณ จุดนี้
+              องค์กรคุณคือฝ่ายเสี่ยงเอง
+            </div>
+          </div>
+        </div>
+
+        <h2>แล้วเทคโนโลยี Security ตอนนี้อยู่ตรงไหน?</h2>
+        <p>
+          อิงจากข่าวประชาสัมพันธ์สาธารณะของ Gartner ช่วงปี 2025-2026 (ไม่ใช่ตัวรายงานฉบับเต็ม)
+          ภาพรวมที่เห็นตรงกันในอุตสาหกรรมคือ:
+        </p>
+        <ul>
+          <li>
+            <strong>AI Agents / Agentic Security</strong> — อยู่ช่วงต้นของเส้นโค้ง ความคาดหวังกำลังพุ่งแรงที่สุด
+            คำเตือนจากนักวิเคราะห์คือให้แยก &ldquo;agent จริง&rdquo; ออกจากการติดป้าย agentic เพื่อการตลาด
+          </li>
+          <li>
+            <strong>Generative AI ในงาน Security</strong> — ผ่านจุดพีคมาแล้ว กำลังเข้าสู่ช่วงพิสูจน์คุณค่าจริง:
+            ผู้ช่วยนักวิเคราะห์ SOC เริ่มวัดผลได้ แต่ความฝัน &ldquo;แทนที่คนทั้งทีม&rdquo; ถูกลดทอนลงมาก
+          </li>
+          <li>
+            <strong>Zero Trust</strong> — เดินทางมาไกลถึงช่วงท้ายเส้นโค้ง กลายเป็นสถาปัตยกรรมมาตรฐาน
+            ที่หน่วยงานกำกับหลายประเทศ (รวมทั้งไทย) อ้างอิงในแนวปฏิบัติ
+          </li>
+          <li>
+            <strong>Post-Quantum Cryptography</strong> — เคสพิเศษ: ถูก &ldquo;เร่ง&rdquo; ผ่านเส้นโค้งเร็วกว่าปกติ
+            เพราะมีเส้นตายจริงจากภาครัฐ (2030-31) เป็นแรงผลัก ไม่ใช่แค่กระแส — อ่านต่อได้ที่หน้า
+            <a href="pqc.html">Post-Quantum</a>
+          </li>
+        </ul>
+
+        <div class="callout">
+          <h3>ใช้ Hype Cycle คู่กับ NIST CSF อย่างไร</h3>
+          <p>
+            Hype Cycle ตอบคำถาม &ldquo;<strong>ควรลงทุนเมื่อไหร่</strong>&rdquo;
+            ส่วน <a href="nist.html">NIST CSF</a> (โดยเฉพาะฟังก์ชัน Govern) ตอบคำถาม
+            &ldquo;<strong>ลงทุนไปเพื่อปิดความเสี่ยงอะไร</strong>&rdquo; —
+            แนวปฏิบัติที่ดีคือเริ่มจากช่องว่างความเสี่ยงในองค์กร (จาก CSF Profile)
+            แล้วจึงใช้ Hype Cycle ประเมินว่าเทคโนโลยีที่จะมาปิดช่องว่างนั้นสุกงอมพอหรือยัง
+            ไม่ใช่ซื้อเทคโนโลยีตามกระแสแล้วค่อยหาเหตุผลทีหลัง
+          </p>
+        </div>
+
+        <div class="callout-thailand">
+          <h3>🇹🇭 ผลกระทบต่อประเทศไทย</h3>
+          <p>
+            บทเรียนของ Hype Cycle ตรงกับบริบทไทยเป็นพิเศษ เพราะ<strong>งบด้านไซเบอร์ขององค์กรไทย
+            ส่วนใหญ่มีจำกัด</strong> — การซื้อเครื่องมือช่วงพีคของกระแส (แพงสุด เสี่ยงสุด)
+            แล้วใช้ไม่เต็มศักยภาพ คือรูปแบบความสูญเปล่าที่พบบ่อยที่สุดรูปแบบหนึ่ง
+            หลายองค์กรมีเครื่องมือระดับโลกแต่ขาดคนและกระบวนการที่จะใช้มัน
+            ซึ่งสอดคล้องกับปัญหาการขาดแคลนบุคลากรไซเบอร์ของไทยที่ทั้ง NCSA
+            และภาคเอกชนสะท้อนตรงกันมาตลอด
+          </p>
+          <p>
+            มุมกลับก็จริงเช่นกัน: เทคโนโลยีที่ถึง Plateau แล้วอย่าง <strong>MFA</strong>
+            หรือการสำรองข้อมูลแบบ immutable ราคาถูกลงมากและพิสูจน์ตัวเองแล้ว
+            แต่องค์กรไทยจำนวนไม่น้อยยังไม่ใช้ — ทั้งที่เหตุการณ์ข้อมูลรั่วครั้งใหญ่ของไทย
+            หลายกรณีป้องกันได้ด้วยของ &ldquo;พื้นฐาน&rdquo; เหล่านี้ ไม่ต้องรอ AI ล้ำยุคเลย
+            สรุปสั้นๆ สำหรับผู้บริหารไทย: <strong>เก็บของที่ Plateau ให้ครบก่อน
+            แล้วค่อยไล่ตามของที่อยู่บนยอดเขาแห่งกระแส</strong>
+          </p>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <nav class="footer-nav" aria-label="เมนูท้ายเว็บ">
+        <a href="index.html">หน้าแรก</a>
+        <a href="kill-chain.html">Cyber Kill Chain</a>
+        <a href="ai-security.html">AI &amp; Security</a>
+        <a href="pqc.html">Post-Quantum</a>
+        <a href="cve.html">ช่องโหว่ CVE</a>
+        <a href="nist.html">NIST CSF</a>
+        <a href="hype-cycle.html">Hype Cycle</a>
+        <a href="news.html">ข่าวล่าสุด</a>
+      </nav>
+      <div class="footer-sources">
+        <strong>อ้างอิง:</strong> Gartner (ข่าวประชาสัมพันธ์สาธารณะ ปี 2025-2026), NIST, NCSA
+        — <em>Gartner และ Hype Cycle เป็นเครื่องหมายการค้าของ Gartner, Inc.
+        หน้านี้เป็นบทสรุปแนวคิดเพื่อการศึกษา ภาพประกอบวาดขึ้นใหม่โดย CyberScope
+        ไม่ได้ทำซ้ำกราฟหรือรายงานของ Gartner และไม่มีส่วนเกี่ยวข้องกับ Gartner, Inc.</em>
+      </div>
+      <p class="footer-copy">CyberScope — เว็บไซต์ให้ความรู้ด้านความมั่นคงปลอดภัยไซเบอร์ เพื่อการศึกษาเท่านั้น</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

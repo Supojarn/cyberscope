@@ -30,11 +30,14 @@ jobs:
       - name: Fetch latest CVEs
         run: node scripts/fetch-cve.js
 
+      - name: Fetch latest NIST updates
+        run: node scripts/fetch-nist.js
+
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/cve.json
+          git add data/news.json data/cve.json data/nist.json
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
