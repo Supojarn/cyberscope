@@ -1,6 +1,110 @@
 {
-  "generatedAt": "2026-08-04T12:55:13.418Z",
+  "generatedAt": "2026-08-05T00:09:23.151Z",
   "items": [
+    {
+      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+      "publishedAt": "2026-08-04T23:39:59.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+      "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+      "publishedAt": "2026-08-04T22:18:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "publishedAt": "2026-08-04T21:45:36.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "publishedAt": "2026-08-04T19:03:09.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
+      "summary": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
+      "publishedAt": "2026-08-04T18:37:35.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "publishedAt": "2026-08-04T17:27:39.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
+      "summary": "Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. The post Rethinking AI…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
+      "publishedAt": "2026-08-04T16:15:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "publishedAt": "2026-08-04T15:24:35.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout",
+      "summary": "Russ Kirby, CISO at Ping Identity, shares how passion, courage, and “good enough” thinking shaped his path from HP to the C-suite—and what keeps him up at night. The post CISO Conversations: Russ Kirby – Passion Is the…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/",
+      "publishedAt": "2026-08-04T14:30:00.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+      "publishedAt": "2026-08-04T14:00:10.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
+      "summary": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud. The post Weaponized Email AI…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
+      "publishedAt": "2026-08-04T13:54:13.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Zenity Raises $125 Million in Series C Funding",
+      "summary": "The AI security company will invest in product innovation, global expansion, and customer experience. The post Zenity Raises $125 Million in Series C Funding appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
+      "publishedAt": "2026-08-04T13:40:42.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "publishedAt": "2026-08-04T13:30:23.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Obsidian Security Raises $85 Million at $1.1 Billion Valuation",
       "summary": "Obsidian Security has developed a platform for governing AI agents across third-party applications. The post Obsidian Security Raises $85 Million at $1.1 Billion Valuation appeared first on SecurityWeek.",
@@ -47,14 +151,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
       "publishedAt": "2026-08-04T09:03:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "150,000 Impacted by Madera Community Hospital Data Breach",
-      "summary": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
-      "publishedAt": "2026-08-04T08:33:45.000Z",
       "category": "kill-chain"
     },
     {
@@ -224,102 +320,6 @@
       "url": "https://www.thaicert.or.th/2026/08/03/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9e%e0%b8%b8/",
       "publishedAt": "2026-08-03T08:00:00.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "publishedAt": "2026-08-03T06:41:46.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "เตือนช่องโหว่ร้ายแรงบน VMware เสี่ยงถูกเจาะระบบ ย้ำผู้ดูแลระบบเร่งแก้ไขด่วน",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือนช่องโหว่ร้ายแรงบน VMware เสี่ยงถูกเจาะระบบ ย้ำผู้ดูแลระบบเร่งแก้ไขด่วน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/03/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b8%9a%e0%b8%99-v/",
-      "publishedAt": "2026-08-03T03:09:22.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือนภัยไซเบอร์!! ปฏิบัติการ CaptiveCrunch มุ่งโจมตีผู้ใช้งาน Wi-Fi เพื่อขโมยข้อมูลและติดตั้งมัลแวร์ ให้เร่งตรวจสอบและดำเนินมาตรการป้องกัน",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนภัยไซเบอร์!! ปฏิบัติการ CaptiveCrunch มุ่งโจมตีผู้ใช้งาน Wi-Fi เพื่อขโมยข้อมูลและติดตั้งมัลแวร์ ให้เร่งตรวจสอบและดำเนินมาตรการป้องกัน first…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/03/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%9b%e0%b8%8f/",
-      "publishedAt": "2026-08-03T02:12:46.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือนช่องโหว่ Zero-Day บน Cisco FMC ผู้ดูแลระบบควรเร่งตรวจสอบและติดตั้ง Hot Fix ทันที",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ Zero-Day บน Cisco FMC ผู้ดูแลระบบควรเร่งตรวจสอบและติดตั้ง Hot Fix ทันที first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/03/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b8%9a%e0%b8%99-cisco-fmc/",
-      "publishedAt": "2026-08-03T02:07:56.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-      "publishedAt": "2026-08-02T21:14:29.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "publishedAt": "2026-08-01T14:20:30.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือนภัยคุกคาม มัลแวร์เรียกค่าไถ่ Play มุ่งเป้าเข้ารหัสข้อมูล VMware ESXi ขององค์กร",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนภัยคุกคาม มัลแวร์เรียกค่าไถ่ Play มุ่งเป้าเข้ารหัสข้อมูล VMware ESXi ขององค์กร first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/01/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b8%81%e0%b8%84%e0%b8%b2%e0%b8%a1-%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81/",
-      "publishedAt": "2026-08-01T12:05:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "publishedAt": "2026-08-01T06:29:05.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "publishedAt": "2026-07-31T22:16:42.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Arch Linux disables AUR package adoption to stop malware flood",
-      "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "publishedAt": "2026-07-31T21:38:08.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan,…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-      "publishedAt": "2026-07-31T18:52:04.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "publishedAt": "2026-07-31T16:39:31.000Z",
-      "category": "kill-chain"
     }
   ]
 }
