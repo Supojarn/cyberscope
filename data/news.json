@@ -1,6 +1,238 @@
 {
-  "generatedAt": "2026-08-05T00:09:23.151Z",
+  "generatedAt": "2026-08-06T00:03:01.673Z",
   "items": [
+    {
+      "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+      "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+      "publishedAt": "2026-08-05T23:35:28.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "publishedAt": "2026-08-05T23:00:50.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "publishedAt": "2026-08-05T19:55:25.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
+      "summary": "The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications. The post How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/",
+      "publishedAt": "2026-08-05T19:40:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "publishedAt": "2026-08-05T18:44:31.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "publishedAt": "2026-08-05T18:33:47.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
+      "summary": "Google has fixed the issues, which exploited a trust boundary between two AI agents with different privilege levels to trigger automation that could compromise the supply chain.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
+      "publishedAt": "2026-08-05T18:03:31.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "COLDCARD security audit phishing attack installs remote access tool",
+      "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software.…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+      "publishedAt": "2026-08-05T17:49:41.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+      "publishedAt": "2026-08-05T15:51:33.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "publishedAt": "2026-08-05T15:36:03.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "publishedAt": "2026-08-05T15:14:05.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Google Blogger locks hundreds of blogs in malware false positive",
+      "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+      "publishedAt": "2026-08-05T14:59:29.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "How AI-powered phishing killed blocklists for good",
+      "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+      "publishedAt": "2026-08-05T14:01:11.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+      "publishedAt": "2026-08-05T13:41:27.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+      "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
+      "publishedAt": "2026-08-05T12:48:49.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "publishedAt": "2026-08-05T11:43:27.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "publishedAt": "2026-08-05T11:43:19.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+      "summary": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
+      "publishedAt": "2026-08-05T11:35:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+      "publishedAt": "2026-08-05T10:35:29.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI Agents Targeted Real People and Projects During Cybersecurity Tests",
+      "summary": "AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects. The post AI Agents Targeted Real People and Projects During Cybersecurity Tests…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
+      "publishedAt": "2026-08-05T10:33:41.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
+      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass. The post CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
+      "publishedAt": "2026-08-05T09:44:50.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
+      "summary": "The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials. The post Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
+      "publishedAt": "2026-08-05T08:56:58.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Thermo Fisher ออกแก้ช่องโหว่ซอฟต์แวร์วิเคราะห์ DNA เสี่ยงกระทบความถูกต้องของข้อมูล",
+      "summary": "423/69 (IT) ประจำวันพุธที่ 5 สิงหาคม 2569 Thermo Fisher […] The post Thermo Fisher ออกแก้ช่องโหว่ซอฟต์แวร์วิเคราะห์ DNA เสี่ยงกระทบความถูกต้องของข้อมูล first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/05/thermo-fisher-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%8b%e0%b8%ad%e0%b8%9f%e0%b8%95%e0%b9%8c%e0%b9%81/",
+      "publishedAt": "2026-08-05T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "PNLD ยืนยันเหตุข้อมูลรั่วไหล กระทบเจ้าหน้าที่ตำรวจและบุคลากรด้านกระบวนการยุติธรรม",
+      "summary": "422/69 (IT) ประจำวันพุธที่ 5 สิงหาคม 2569 Police Nation […] The post PNLD ยืนยันเหตุข้อมูลรั่วไหล กระทบเจ้าหน้าที่ตำรวจและบุคลากรด้านกระบวนการยุติธรรม first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/05/pnld-%e0%b8%a2%e0%b8%b7%e0%b8%99%e0%b8%a2%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84/",
+      "publishedAt": "2026-08-05T08:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Angola's Largest Telco Breached Hours Before IPO",
+      "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
+      "publishedAt": "2026-08-05T08:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "พบการโจมตี Pass-ta-key มัลแวร์บน Windows สามารถขโมยข้อมูล Passkey จาก Google Password Manager ได้",
+      "summary": "421/69 (IT) ประจำวันพุธที่ 5 สิงหาคม 2569 นักวิจัยด้านั […] The post พบการโจมตี Pass-ta-key มัลแวร์บน Windows สามารถขโมยข้อมูล Passkey จาก Google Password Manager ได้ first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/05/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5-pass-ta-key-%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b8%9a%e0%b8%99-windows/",
+      "publishedAt": "2026-08-05T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "publishedAt": "2026-08-05T07:53:50.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "publishedAt": "2026-08-05T07:40:39.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users.…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "publishedAt": "2026-08-05T05:47:19.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
       "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering…",
@@ -50,28 +282,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
-      "summary": "Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. The post Rethinking AI…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
-      "publishedAt": "2026-08-04T16:15:00.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
       "publishedAt": "2026-08-04T15:24:35.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout",
-      "summary": "Russ Kirby, CISO at Ping Identity, shares how passion, courage, and “good enough” thinking shaped his path from HP to the C-suite—and what keeps him up at night. The post CISO Conversations: Russ Kirby – Passion Is the…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/",
-      "publishedAt": "2026-08-04T14:30:00.000Z",
-      "category": "pqc"
     },
     {
       "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
@@ -82,36 +298,12 @@
       "category": "ai-security"
     },
     {
-      "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
-      "summary": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud. The post Weaponized Email AI…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
-      "publishedAt": "2026-08-04T13:54:13.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Zenity Raises $125 Million in Series C Funding",
-      "summary": "The AI security company will invest in product innovation, global expansion, and customer experience. The post Zenity Raises $125 Million in Series C Funding appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
-      "publishedAt": "2026-08-04T13:40:42.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
       "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
       "publishedAt": "2026-08-04T13:30:23.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Obsidian Security Raises $85 Million at $1.1 Billion Valuation",
-      "summary": "Obsidian Security has developed a platform for governing AI agents across third-party applications. The post Obsidian Security Raises $85 Million at $1.1 Billion Valuation appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/",
-      "publishedAt": "2026-08-04T12:00:00.000Z",
-      "category": "ai-security"
     },
     {
       "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
@@ -128,198 +320,6 @@
       "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
       "publishedAt": "2026-08-04T11:16:23.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-      "publishedAt": "2026-08-04T10:36:27.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
-      "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
-      "publishedAt": "2026-08-04T09:56:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "publishedAt": "2026-08-04T09:03:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CareCloud แจ้งเหตุข้อมูลรั่วไหล กระทบประชาชน 345,000 ราย หลังระบบบน AWS ถูกโจมตี",
-      "summary": "419/69 (IT) ประจำวันอังคารที่ 4 สิงหาคม 2569 CareCloud […] The post CareCloud แจ้งเหตุข้อมูลรั่วไหล กระทบประชาชน 345,000 ราย หลังระบบบน AWS ถูกโจมตี first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/04/carecloud-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab%e0%b8%a5/",
-      "publishedAt": "2026-08-04T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "CrowdStrike เผย AI กลายเป็นทั้ง อาวุธ และ เป้าหมาย ในการโจมตีไซเบอร์ยุคใหม่",
-      "summary": "418/69 (IT) ประจำวันอังคารที่ 4 สิงหาคม 2569 CrowdStrik […] The post CrowdStrike เผย AI กลายเป็นทั้ง อาวุธ และ เป้าหมาย ในการโจมตีไซเบอร์ยุคใหม่ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/04/crowdstrike-%e0%b9%80%e0%b8%9c%e0%b8%a2-ai-%e0%b8%81%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%97%e0%b8%b1%e0%b9%89%e0%b8%87-%e0%b8%ad%e0%b8%b2%e0%b8%a7%e0%b8%b8%e0%b8%98/",
-      "publishedAt": "2026-08-04T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "publishedAt": "2026-08-04T07:00:13.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles",
-      "summary": "Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
-      "publishedAt": "2026-08-04T07:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "publishedAt": "2026-08-04T00:17:15.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
-      "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
-      "publishedAt": "2026-08-03T23:58:01.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
-      "summary": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
-      "publishedAt": "2026-08-03T21:21:11.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues",
-      "summary": "Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
-      "publishedAt": "2026-08-03T20:31:12.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-      "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-      "publishedAt": "2026-08-03T20:01:22.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "publishedAt": "2026-08-03T19:25:10.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "publishedAt": "2026-08-03T18:43:53.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "publishedAt": "2026-08-03T17:00:56.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "publishedAt": "2026-08-03T16:24:47.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "publishedAt": "2026-08-03T16:15:13.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
-      "summary": "Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
-      "publishedAt": "2026-08-03T15:42:18.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-      "publishedAt": "2026-08-03T14:45:55.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "publishedAt": "2026-08-03T10:49:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "publishedAt": "2026-08-03T09:13:56.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Ruby on Rails ออกแพตช์ช่องโหว่ Critical ใน Active Storage เสี่ยงอ่านไฟล์และรันโค้ดบนเซิร์ฟเวอร์",
-      "summary": "417/69 (IT) ประจำวันจันทร์ที่ 3 สิงหาคม 2569 Ruby on Ra […] The post Ruby on Rails ออกแพตช์ช่องโหว่ Critical ใน Active Storage เสี่ยงอ่านไฟล์และรันโค้ดบนเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/03/ruby-on-rails-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-critical-%e0%b9%83%e0%b8%99-active-storag/",
-      "publishedAt": "2026-08-03T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ช่องโหว่ใน Coldcard Hardware Wallet ถูกเชื่อมโยงกับเหตุขโมย Bitcoin มูลค่ากว่า 70 ล้านดอลลาร์สหรัฐ",
-      "summary": "416/69 (IT) ประจำวันจันทร์ที่ 3 สิงหาคม 2569 มีรายงานเม […] The post ช่องโหว่ใน Coldcard Hardware Wallet ถูกเชื่อมโยงกับเหตุขโมย Bitcoin มูลค่ากว่า 70 ล้านดอลลาร์สหรัฐ first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/03/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-coldcard-hardware-wallet-%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b9%80%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a1/",
-      "publishedAt": "2026-08-03T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "พบการโจมตีทางไซเบอร์พุ่งเป้าหน่วยงานรัฐในภูมิภาคเอเชียกลาง ด้วยมัลแวร์ชนิดใหม่ OctLurk และ SilkLurk",
-      "summary": "415/69 (IT) ประจำวันจันทร์ที่ 3 สิงหาคม 2569 ตั้งแต่เดื […] The post พบการโจมตีทางไซเบอร์พุ่งเป้าหน่วยงานรัฐในภูมิภาคเอเชียกลาง ด้วยมัลแวร์ชนิดใหม่ OctLurk และ SilkLurk first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/03/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9e%e0%b8%b8/",
-      "publishedAt": "2026-08-03T08:00:00.000Z",
-      "category": "thailand"
     }
   ]
 }
