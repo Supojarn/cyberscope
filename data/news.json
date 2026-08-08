@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-08-07T23:37:45.816Z",
+  "generatedAt": "2026-08-08T23:33:29.896Z",
   "items": [
+    {
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "publishedAt": "2026-08-08T14:16:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
+      "summary": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data. The post Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
+      "publishedAt": "2026-08-08T11:30:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0),…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+      "publishedAt": "2026-08-08T06:58:31.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+      "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+      "publishedAt": "2026-08-08T06:57:43.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+      "publishedAt": "2026-08-08T06:52:16.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
@@ -35,7 +75,7 @@
     },
     {
       "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to…",
+      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
       "publishedAt": "2026-08-07T18:16:13.000Z",
@@ -280,46 +320,6 @@
       "url": "https://www.thaicert.or.th/2026/08/06/%e0%b8%9a%e0%b8%b1%e0%b8%8d%e0%b8%8a%e0%b8%b5%e0%b8%ad%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%9c%e0%b8%b9%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%9a-ai-%e0%b8%ad%e0%b8%b2/",
       "publishedAt": "2026-08-06T08:00:00.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-      "publishedAt": "2026-08-06T07:19:54.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-      "publishedAt": "2026-08-06T06:51:43.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
-      "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
-      "publishedAt": "2026-08-06T06:04:30.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
-      "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
-      "publishedAt": "2026-08-05T23:35:28.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-      "publishedAt": "2026-08-05T23:00:50.000Z",
-      "category": "pqc"
     }
   ]
 }
