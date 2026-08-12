@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-11T23:47:52.494Z",
+  "generatedAt": "2026-08-12T23:48:02.886Z",
   "items": [
+    {
+      "title": "Shaping the NVD for the Future: We Need Your Feedback on AI-Enabled Vulnerability Management",
+      "summary": "For over two decades, the NIST National Vulnerability Database (NVD) has served as the U.S. government repository for standards-based vulnerability management data and as a foundational resource for cybersecurity risk…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/shaping-nvd-future-we-need-your-feedback-ai-enabled-vulnerability",
+      "publishedAt": "2026-08-12T12:00:00.000Z"
+    },
     {
       "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
       "summary": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
@@ -98,13 +105,6 @@
       "source": "NIST News",
       "url": "https://www.nist.gov/news-events/news/2025/12/nist-physicists-bring-unruly-molecules-quantum-party",
       "publishedAt": "2025-12-18T12:00:00.000Z"
-    },
-    {
-      "title": "Securing Smart Speakers for Home Health Care: NIST Offers New Guidelines",
-      "summary": "Cybersecurity and privacy risks can threaten patient confidentiality.",
-      "source": "NIST News",
-      "url": "https://www.nist.gov/news-events/news/2025/12/securing-smart-speakers-home-health-care-nist-offers-new-guidelines",
-      "publishedAt": "2025-12-17T12:00:00.000Z"
     }
   ]
 }

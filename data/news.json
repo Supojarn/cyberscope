@@ -1,6 +1,166 @@
 {
-  "generatedAt": "2026-08-11T23:47:51.202Z",
+  "generatedAt": "2026-08-12T23:48:01.687Z",
   "items": [
+    {
+      "title": "Android malware combo takes out loans and relays victims' credit cards",
+      "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+      "publishedAt": "2026-08-12T22:22:57.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+      "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+      "publishedAt": "2026-08-12T20:54:59.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "publishedAt": "2026-08-12T17:39:27.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "publishedAt": "2026-08-12T15:38:08.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
+      "summary": "The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild. The post SharePoint Vulnerability Exploited Shortly After PoC Release appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
+      "publishedAt": "2026-08-12T14:47:01.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+      "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+      "publishedAt": "2026-08-12T14:01:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
+      "summary": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
+      "summary": "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms. The post Stealthy ‘City-Forum’ Attacks Target Salesforce and…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
+      "publishedAt": "2026-08-12T13:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+      "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+      "publishedAt": "2026-08-12T12:25:37.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Shaping the NVD for the Future: We Need Your Feedback on AI-Enabled Vulnerability Management",
+      "summary": "For over two decades, the NIST National Vulnerability Database (NVD) has served as the U.S. government repository for standards-based vulnerability management data and as a foundational resource for cybersecurity risk…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/shaping-nvd-future-we-need-your-feedback-ai-enabled-vulnerability",
+      "publishedAt": "2026-08-12T12:00:00.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "publishedAt": "2026-08-12T11:13:03.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+      "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "publishedAt": "2026-08-12T10:15:22.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
+      "summary": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. The post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
+      "publishedAt": "2026-08-12T09:55:45.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score:…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "publishedAt": "2026-08-12T09:01:54.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
+      "summary": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
+      "publishedAt": "2026-08-12T08:45:53.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
+      "summary": "The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service. The post Ivanti EPM Update Patches Remotely Exploitable Flaws appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
+      "publishedAt": "2026-08-12T08:14:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "publishedAt": "2026-08-12T08:04:52.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "publishedAt": "2026-08-12T07:31:40.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "publishedAt": "2026-08-12T06:41:38.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "publishedAt": "2026-08-12T06:15:58.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
       "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
@@ -58,35 +218,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
-      "summary": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges. The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
-      "publishedAt": "2026-08-11T18:46:07.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
       "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
       "publishedAt": "2026-08-11T18:36:47.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-      "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-      "publishedAt": "2026-08-11T18:08:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
-      "summary": "The security defects could be exploited for arbitrary code execution and denial-of-service. The post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
-      "publishedAt": "2026-08-11T16:50:19.000Z",
       "category": "kill-chain"
     },
     {
@@ -106,35 +242,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
-      "summary": "Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine. The post Zoom Patches Zero-Click Code Execution Vulnerability appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
-      "publishedAt": "2026-08-11T15:49:53.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "summary": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "publishedAt": "2026-08-11T13:15:24.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
       "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
       "publishedAt": "2026-08-11T13:11:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "summary": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "publishedAt": "2026-08-11T12:12:16.000Z",
       "category": "kill-chain"
     },
     {
@@ -146,31 +258,7 @@
       "category": "pqc"
     },
     {
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "publishedAt": "2026-08-11T11:03:01.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption",
-      "summary": "Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did. The post Hacker Conversations: Marcus Hutchins and the Journey From the…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
-      "summary": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-      "publishedAt": "2026-08-11T09:47:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "title": "Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks",
       "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
@@ -232,94 +320,6 @@
       "url": "https://www.thaicert.or.th/2026/08/11/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2-4/",
       "publishedAt": "2026-08-11T07:24:35.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือน! ช่องโหว่ Zero-Day ใน Metabase เสี่ยงถูกโจมตีแบบ SQL Injection และเข้าถึงข้อมูลโดยไม่ได้รับอนุญาต",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ Zero-Day ใน Metabase เสี่ยงถูกโจมตีแบบ SQL Injection และเข้าถึงข้อมูลโดยไม่ได้รับอนุญาต first appeared on Thailand Computer…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/11/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83%e0%b8%99-metabase/",
-      "publishedAt": "2026-08-11T07:23:19.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-      "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-      "publishedAt": "2026-08-11T06:55:45.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-      "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-      "publishedAt": "2026-08-11T05:48:44.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers breached a small Polish energy plant via private APN last year",
-      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-      "publishedAt": "2026-08-10T23:07:21.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents",
-      "summary": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents",
-      "publishedAt": "2026-08-10T21:54:22.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
-      "summary": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
-      "publishedAt": "2026-08-10T21:02:23.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
-      "summary": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
-      "publishedAt": "2026-08-10T17:09:20.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-      "publishedAt": "2026-08-10T16:38:37.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-      "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-      "publishedAt": "2026-08-10T15:00:29.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-      "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-      "publishedAt": "2026-08-10T13:19:58.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "publishedAt": "2026-08-10T12:25:04.000Z",
-      "category": "pqc"
     }
   ]
 }
