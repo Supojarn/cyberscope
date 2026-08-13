@@ -1,6 +1,118 @@
 {
-  "generatedAt": "2026-08-12T23:48:01.687Z",
+  "generatedAt": "2026-08-13T23:47:51.866Z",
   "items": [
+    {
+      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+      "publishedAt": "2026-08-13T20:47:02.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
+      "summary": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
+      "publishedAt": "2026-08-13T20:45:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers breach govt webmail while running parallel crypto fraud",
+      "summary": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
+      "publishedAt": "2026-08-13T18:15:19.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
+      "summary": "Microsoft has released security patches to address a Windows zero-day vulnerability known as \"LegacyHive,\" disclosed after the July 2026 Patch Tuesday. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
+      "publishedAt": "2026-08-13T17:46:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+      "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+      "publishedAt": "2026-08-13T16:40:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Trezor discloses data breach affecting nearly 14,000 customers",
+      "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+      "publishedAt": "2026-08-13T15:13:19.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
+      "summary": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches. The post Adobe Commerce Bug Targeted Immediately After Disclosure appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
+      "publishedAt": "2026-08-13T14:17:44.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
+      "summary": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files. The post WordPress 7.0.4 Patches Remote Code Execution Vulnerability appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
+      "publishedAt": "2026-08-13T12:53:56.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "WhatsApp rolls out new feature that flags potential scam messages",
+      "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+      "publishedAt": "2026-08-13T11:50:22.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
+      "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
+      "publishedAt": "2026-08-13T10:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
+      "summary": "Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code. The post Critical VMware vCenter Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
+      "publishedAt": "2026-08-13T09:06:40.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
+      "summary": "Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’ appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
+      "publishedAt": "2026-08-13T08:38:03.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Zoom แก้ไขช่องโหว่ Zero-click ในฟังก์ชัน Annotation เสี่ยงรันโค้ดบนอุปกรณ์ผู้ใช้งาน",
+      "summary": "438/69 (IT) ประจำวันพฤหัสบดีที่ 13 สิงหาคม 2569 Zoom ออ […] The post Zoom แก้ไขช่องโหว่ Zero-click ในฟังก์ชัน Annotation เสี่ยงรันโค้ดบนอุปกรณ์ผู้ใช้งาน first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/13/zoom-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-click-%e0%b9%83%e0%b8%99%e0%b8%9f%e0%b8%b1%e0%b8%87%e0%b8%81%e0%b9%8c/",
+      "publishedAt": "2026-08-13T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+      "publishedAt": "2026-08-13T06:09:48.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Android malware combo takes out loans and relays victims' credit cards",
       "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
@@ -26,27 +138,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-      "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-      "publishedAt": "2026-08-12T15:38:08.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
       "summary": "The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild. The post SharePoint Vulnerability Exploited Shortly After PoC Release appeared first on SecurityWeek.",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
       "publishedAt": "2026-08-12T14:47:01.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
-      "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
-      "publishedAt": "2026-08-12T14:01:11.000Z",
       "category": "kill-chain"
     },
     {
@@ -56,22 +152,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
       "publishedAt": "2026-08-12T14:00:00.000Z",
       "category": "pqc"
-    },
-    {
-      "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
-      "summary": "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms. The post Stealthy ‘City-Forum’ Attacks Target Salesforce and…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
-      "publishedAt": "2026-08-12T13:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
-      "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
-      "publishedAt": "2026-08-12T12:25:37.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "Shaping the NVD for the Future: We Need Your Feedback on AI-Enabled Vulnerability Management",
@@ -90,20 +170,20 @@
       "category": "kill-chain"
     },
     {
-      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
-      "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
-      "publishedAt": "2026-08-12T10:15:22.000Z",
-      "category": "kill-chain"
+      "title": "แจ้งเตือน แคมเปญมัลแวร์ TencShell และ Gshell โจมตีระบบบริหารจัดการ ควรตรวจสอบและจำกัดการเข้าถึงระบบโดยทันที",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน แคมเปญมัลแวร์ TencShell และ Gshell โจมตีระบบบริหารจัดการ ควรตรวจสอบและจำกัดการเข้าถึงระบบโดยทันที first appeared on Thailand Computer…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/12/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c/",
+      "publishedAt": "2026-08-12T10:59:00.000Z",
+      "category": "thailand"
     },
     {
-      "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
-      "summary": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. The post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
-      "publishedAt": "2026-08-12T09:55:45.000Z",
-      "category": "ai-security"
+      "title": "ช่องโหว่ใน ClamAV ส่งผลกระทบต่อ Cisco Secure Endpoint เสี่ยงถูกโจมตี Denial-of-Service ได้",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post ช่องโหว่ใน ClamAV ส่งผลกระทบต่อ Cisco Secure Endpoint เสี่ยงถูกโจมตี Denial-of-Service ได้ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/12/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-clamav-%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%9c%e0%b8%a5%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%97%e0%b8%9a%e0%b8%95/",
+      "publishedAt": "2026-08-12T10:58:00.000Z",
+      "category": "thailand"
     },
     {
       "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
@@ -111,22 +191,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
       "publishedAt": "2026-08-12T09:01:54.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
-      "summary": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
-      "publishedAt": "2026-08-12T08:45:53.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
-      "summary": "The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service. The post Ivanti EPM Update Patches Remotely Exploitable Flaws appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
-      "publishedAt": "2026-08-12T08:14:46.000Z",
       "category": "kill-chain"
     },
     {
@@ -162,11 +226,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-      "publishedAt": "2026-08-11T22:15:22.000Z",
+      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
+      "summary": "The most concerning bug in the batch is CVE-2026-62878 (CVSS: 9.8), a remote code execution (RCE) vulnerability in Windows DNS Server that requires no user interaction.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
+      "publishedAt": "2026-08-11T21:42:34.000Z",
       "category": "kill-chain"
     },
     {
@@ -186,27 +250,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
-      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
-      "publishedAt": "2026-08-11T21:07:24.000Z",
-      "category": "pqc"
-    },
-    {
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
       "publishedAt": "2026-08-11T20:10:55.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-      "publishedAt": "2026-08-11T19:45:31.000Z",
       "category": "kill-chain"
     },
     {
@@ -271,54 +319,6 @@
       "source": "ThaiCERT/ETDA",
       "url": "https://www.thaicert.or.th/2026/08/11/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-2/",
       "publishedAt": "2026-08-11T09:05:52.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "CISA เตือนช่องโหว่ใน Progress Kemp LoadMaster ถูกใช้โจมตีจริง",
-      "summary": "435/69 (IT) ประจำวันอังคารที่ 11 สิงหาคม 2569 CISA เพิ่ […] The post CISA เตือนช่องโหว่ใน Progress Kemp LoadMaster ถูกใช้โจมตีจริง first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/11/cisa-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-progress-kemp-loadmaster-%e0%b8%96%e0%b8%b9%e0%b8%81/",
-      "publishedAt": "2026-08-11T07:35:50.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "IEH แจ้งเหตุ Phishing กระทบ Microsoft 365 Mailbox อาจเปิดเผยข้อมูลทางทหารที่อยู่ภายใต้การควบคุมการส่งออก",
-      "summary": "434/69 (IT) ประจำวันอังคารที่ 11 สิงหาคม 2569 IEH Corpo […] The post IEH แจ้งเหตุ Phishing กระทบ Microsoft 365 Mailbox อาจเปิดเผยข้อมูลทางทหารที่อยู่ภายใต้การควบคุมการส่งออก first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/11/ieh-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8-phishing-%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%97%e0%b8%9a-microsoft-365-mailbox-%e0%b8%ad%e0%b8%b2%e0%b8%88%e0%b9%80%e0%b8%9b/",
-      "publishedAt": "2026-08-11T07:32:14.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "พบแพ็กเกจอันตรายบน npm กว่า 800 รายการ แพร่มัลแวร์และขโมยข้อมูลข้ามแพลตฟอร์ม Windows-Mac-Linux",
-      "summary": "433/69 (IT) ประจำวันอังคารที่ 11 สิงหาคม 2569 นักวิจัยด […] The post พบแพ็กเกจอันตรายบน npm กว่า 800 รายการ แพร่มัลแวร์และขโมยข้อมูลข้ามแพลตฟอร์ม Windows-Mac-Linux first appeared on Thailand Computer Emergency Response…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/11/%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%9e%e0%b9%87%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%88%e0%b8%ad%e0%b8%b1%e0%b8%99%e0%b8%95%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%9a%e0%b8%99-npm-%e0%b8%81%e0%b8%a7%e0%b9%88/",
-      "publishedAt": "2026-08-11T07:30:31.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Microsoft และ Apple ออกแพตช์เพื่อปิดช่องโหว่ระดับวิกฤต ผู้ใช้งานควรอัปเดตระบบโดยทันที",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post Microsoft และ Apple ออกแพตช์เพื่อปิดช่องโหว่ระดับวิกฤต ผู้ใช้งานควรอัปเดตระบบโดยทันที first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/11/microsoft-%e0%b9%81%e0%b8%a5%e0%b8%b0-apple-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%8a/",
-      "publishedAt": "2026-08-11T07:27:35.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือน! ช่องโหว่ HTTP Desynchronization เปิดทางให้ผู้โจมตีแทรกแซงคำขอ HTTP เสี่ยงต่อการเข้าถึงข้อมูลโดยไม่ได้รับอนุญาต",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ HTTP Desynchronization เปิดทางให้ผู้โจมตีแทรกแซงคำขอ HTTP เสี่ยงต่อการเข้าถึงข้อมูลโดยไม่ได้รับอนุญาต first appeared on Thailand…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/11/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-http-desynchronization-%e0%b9%80%e0%b8%9b/",
-      "publishedAt": "2026-08-11T07:26:07.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือน! ช่องโหว่ร้ายแรงใน WordPress เสี่ยงถูกโจมตีผ่านหน้า Login",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ร้ายแรงใน WordPress เสี่ยงถูกโจมตีผ่านหน้า Login first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/11/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2-4/",
-      "publishedAt": "2026-08-11T07:24:35.000Z",
       "category": "thailand"
     }
   ]
