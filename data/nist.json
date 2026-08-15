@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T23:26:28.584Z",
+  "generatedAt": "2026-08-15T23:24:27.157Z",
   "items": [
     {
       "title": "Shaping the NVD for the Future: We Need Your Feedback on AI-Enabled Vulnerability Management",
@@ -98,13 +98,6 @@
       "source": "NIST Cybersecurity Insights",
       "url": "https://www.nist.gov/blogs/cybersecurity-insights/digital-identities-getting-know-verifiable-digital-credential-0",
       "publishedAt": "2026-01-07T12:00:00.000Z"
-    },
-    {
-      "title": "NIST Physicists Bring Unruly Molecules to the Quantum Party",
-      "summary": "Molecules can serve as versatile building blocks for quantum technologies, but they are much harder to control than atoms.",
-      "source": "NIST News",
-      "url": "https://www.nist.gov/news-events/news/2025/12/nist-physicists-bring-unruly-molecules-quantum-party",
-      "publishedAt": "2025-12-18T12:00:00.000Z"
     }
   ]
 }
