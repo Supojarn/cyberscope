@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-15T23:24:25.316Z",
+  "generatedAt": "2026-08-16T23:24:31.338Z",
   "items": [
+    {
+      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+      "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+      "publishedAt": "2026-08-16T15:07:44.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
       "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
@@ -194,22 +202,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Hackers breach govt webmail while running parallel crypto fraud",
-      "summary": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-      "publishedAt": "2026-08-13T18:15:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
-      "summary": "Microsoft has released security patches to address a Windows zero-day vulnerability known as \"LegacyHive,\" disclosed after the July 2026 Patch Tuesday. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
-      "publishedAt": "2026-08-13T17:46:20.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
       "summary": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches. The post Adobe Commerce Bug Targeted Immediately After Disclosure appeared first on SecurityWeek.",
       "source": "SecurityWeek",
@@ -319,6 +311,14 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
       "publishedAt": "2026-08-12T06:15:58.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
+      "summary": "The most concerning bug in the batch is CVE-2026-62878 (CVSS: 9.8), a remote code execution (RCE) vulnerability in Windows DNS Server that requires no user interaction.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
+      "publishedAt": "2026-08-11T21:42:34.000Z",
       "category": "kill-chain"
     }
   ]
