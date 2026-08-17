@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-16T23:24:32.891Z",
+  "generatedAt": "2026-08-17T23:27:12.418Z",
   "items": [
+    {
+      "title": "Stronger Cybersecurity Programs Start with People: NIST Wants Your Input on the Path Forward for Human-Centered Cybersecurity",
+      "summary": "When was the last time a cybersecurity process at work made you want to scream? Maybe it was a password requirement so complicated you had to write it down (defeating the purpose), a phishing simulation test that felt…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/stronger-cybersecurity-programs-start-people-nist-wants-your-input-path",
+      "publishedAt": "2026-08-17T12:00:00.000Z"
+    },
     {
       "title": "Shaping the NVD for the Future: We Need Your Feedback on AI-Enabled Vulnerability Management",
       "summary": "For over two decades, the NIST National Vulnerability Database (NVD) has served as the U.S. government repository for standards-based vulnerability management data and as a foundational resource for cybersecurity risk…",

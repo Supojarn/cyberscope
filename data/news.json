@@ -1,6 +1,262 @@
 {
-  "generatedAt": "2026-08-16T23:24:31.338Z",
+  "generatedAt": "2026-08-17T23:27:08.041Z",
   "items": [
+    {
+      "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
+      "summary": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
+      "publishedAt": "2026-08-17T21:37:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "publishedAt": "2026-08-17T21:03:04.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+      "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+      "publishedAt": "2026-08-17T20:26:34.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "publishedAt": "2026-08-17T19:35:01.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Adam Shostack Talks Hugging Face & PHANTOM-B",
+      "summary": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still usable.\"",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
+      "publishedAt": "2026-08-17T19:22:56.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "publishedAt": "2026-08-17T19:12:39.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "publishedAt": "2026-08-17T18:44:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "publishedAt": "2026-08-17T18:22:09.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "publishedAt": "2026-08-17T17:41:06.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
+      "summary": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
+      "publishedAt": "2026-08-17T15:44:34.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+      "publishedAt": "2026-08-17T14:00:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "680,000 Impacted by French Tax Authority Data Breach",
+      "summary": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
+      "publishedAt": "2026-08-17T13:53:55.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "publishedAt": "2026-08-17T13:23:51.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "publishedAt": "2026-08-17T12:33:11.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
+      "summary": "The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models. The post Irregular Details How a Naming Error Let AI Models Attack a Real Company appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
+      "publishedAt": "2026-08-17T12:11:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Stronger Cybersecurity Programs Start with People: NIST Wants Your Input on the Path Forward for Human-Centered Cybersecurity",
+      "summary": "When was the last time a cybersecurity process at work made you want to scream? Maybe it was a password requirement so complicated you had to write it down (defeating the purpose), a phishing simulation test that felt…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/stronger-cybersecurity-programs-start-people-nist-wants-your-input-path",
+      "publishedAt": "2026-08-17T12:00:00.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Philips and GE investigating Clop ransomware data theft claims",
+      "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+      "publishedAt": "2026-08-17T11:25:02.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
+      "summary": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
+      "publishedAt": "2026-08-17T11:09:57.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "publishedAt": "2026-08-17T10:52:34.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "French tax authority data breach affects 678,000 individuals",
+      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "publishedAt": "2026-08-17T10:09:48.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "40,000 Impacted by SafePal Data Breach",
+      "summary": "Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information. The post 40,000 Impacted by SafePal Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
+      "publishedAt": "2026-08-17T09:37:06.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "publishedAt": "2026-08-17T09:29:55.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน ตรวจพบการแพร่ระบาดของมัลแวร์ Evooo1Bot บนอุปกรณ์เครือข่ายและ IoT ควรตรวจสอบและอัปเดตเฟิร์มแวร์ด่วน",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน ตรวจพบการแพร่ระบาดของมัลแวร์ Evooo1Bot บนอุปกรณ์เครือข่ายและ IoT ควรตรวจสอบและอัปเดตเฟิร์มแวร์ด่วน first appeared on Thailand Computer…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/17/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b9%88/",
+      "publishedAt": "2026-08-17T09:11:19.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+      "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+      "publishedAt": "2026-08-17T09:05:33.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "พบความพยายามใช้ประโยชน์จากช่องโหว่ SAP Commerce Cloud เสี่ยงรันโค้ดบนระบบ",
+      "summary": "444/69 (IT) ประจำวันจันทร์ที่ 17 สิงหาคม 2569 บริษัทด้า […] The post พบความพยายามใช้ประโยชน์จากช่องโหว่ SAP Commerce Cloud เสี่ยงรันโค้ดบนระบบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/17/%e0%b8%9e%e0%b8%9a%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%9e%e0%b8%a2%e0%b8%b2%e0%b8%a2%e0%b8%b2%e0%b8%a1%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%a2%e0%b8%8a%e0%b8%99/",
+      "publishedAt": "2026-08-17T09:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "CTM360 พบแคมเปญ Phishing สมัครงานกว่า 3,000 URL ใช้เทคนิค Browser-in-the-Browser ขโมย Credential",
+      "summary": "443/69 (IT) ประจำวันจันทร์ที่ 17 สิงหาคม 2569 นักวิจัยด […] The post CTM360 พบแคมเปญ Phishing สมัครงานกว่า 3,000 URL ใช้เทคนิค Browser-in-the-Browser ขโมย Credential first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/17/ctm360-%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d-phishing-%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2-3/",
+      "publishedAt": "2026-08-17T09:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "พบกลุ่มผู้ไม่หวังดีกว้านซื้อโดเมนที่หมดอายุแล้ว เพื่อใช้เป็นฐานในการโจมตีทางไซเบอร์และแพร่มัลแวร์",
+      "summary": "442/69 (IT) ประจำวันจันทร์ที่ 17 สิงหาคม 2569 พบรายงานพ […] The post พบกลุ่มผู้ไม่หวังดีกว้านซื้อโดเมนที่หมดอายุแล้ว เพื่อใช้เป็นฐานในการโจมตีทางไซเบอร์และแพร่มัลแวร์ first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/17/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%a5%e0%b8%b8%e0%b9%88%e0%b8%a1%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b8%a7%e0%b8%b1%e0%b8%87%e0%b8%94%e0%b8%b5%e0%b8%81%e0%b8%a7%e0%b9%89/",
+      "publishedAt": "2026-08-17T09:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Recent macOS Screen Sharing Vulnerability Exploited in Attacks",
+      "summary": "Threat actors gained root access to the vulnerable systems and deployed a Monero miner. The post Recent macOS Screen Sharing Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
+      "publishedAt": "2026-08-17T08:47:38.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
+      "summary": "The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components. The post Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
+      "publishedAt": "2026-08-17T08:13:07.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "publishedAt": "2026-08-17T07:36:19.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
+      "summary": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations. The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
+      "publishedAt": "2026-08-17T06:51:08.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+      "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "publishedAt": "2026-08-16T23:47:06.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
       "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
@@ -8,6 +264,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
       "publishedAt": "2026-08-16T15:07:44.000Z",
       "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือนช่องโหว่ใน Cisco ASA และ FTD ถูกใช้โจมตีจริง เสี่ยงทำให้อุปกรณ์หยุดให้บริการ",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ใน Cisco ASA และ FTD ถูกใช้โจมตีจริง เสี่ยงทำให้อุปกรณ์หยุดให้บริการ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/16/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-cisco-asa-%e0%b9%81%e0%b8%a5/",
+      "publishedAt": "2026-08-16T08:16:32.000Z",
+      "category": "thailand"
     },
     {
       "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
@@ -18,307 +282,43 @@
       "category": "kill-chain"
     },
     {
-      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "publishedAt": "2026-08-14T18:04:26.000Z",
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+      "publishedAt": "2026-08-15T08:38:46.000Z",
       "category": "kill-chain"
     },
     {
-      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
-      "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-      "publishedAt": "2026-08-14T17:32:46.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
-      "summary": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
-      "publishedAt": "2026-08-14T15:58:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "publishedAt": "2026-08-14T14:59:55.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-      "publishedAt": "2026-08-14T14:00:10.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-      "publishedAt": "2026-08-14T13:45:18.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
-      "summary": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
-      "publishedAt": "2026-08-14T12:17:21.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
-      "summary": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
-      "publishedAt": "2026-08-14T11:57:51.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Shell investigates 'potential incident' after Clop data theft claims",
-      "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-      "publishedAt": "2026-08-14T11:55:45.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
-      "summary": "Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published. The post Trivy, Not LiteLLM Behind the 2,500 Org Compromise appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
-      "publishedAt": "2026-08-14T11:35:23.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
-      "summary": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028. The post Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal appeared first…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
-      "publishedAt": "2026-08-14T11:00:00.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "publishedAt": "2026-08-14T10:52:05.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "พบช่องโหว่ Zero-Click ใน Zoom เสี่ยงถูกสั่งรันโค้ดและยึดเครื่องผ่านการประชุมออนไลน์",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post พบช่องโหว่ Zero-Click ใน Zoom เสี่ยงถูกสั่งรันโค้ดและยึดเครื่องผ่านการประชุมออนไลน์ first appeared on Thailand Computer Emergency Response Team…",
+      "title": "สกมช. แนะหน่วยงานอัปเดตระบบเข้ารหัสข้อมูลเป็น TLS 1.3 พร้อมยกเลิกเวอร์ชันเก่า เพื่อยกระดับความมั่นคงปลอดภัยทางไซเบอร์",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post สกมช. แนะหน่วยงานอัปเดตระบบเข้ารหัสข้อมูลเป็น TLS 1.3 พร้อมยกเลิกเวอร์ชันเก่า เพื่อยกระดับความมั่นคงปลอดภัยทางไซเบอร์ first appeared on Thailand…",
       "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/14/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-click-%e0%b9%83%e0%b8%99-zoom-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%96%e0%b8%b9/",
-      "publishedAt": "2026-08-14T10:29:44.000Z",
+      "url": "https://www.thaicert.or.th/2026/08/15/%e0%b8%aa%e0%b8%81%e0%b8%a1%e0%b8%8a-%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b8%a3/",
+      "publishedAt": "2026-08-15T08:18:45.000Z",
       "category": "thailand"
     },
     {
-      "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
-      "summary": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-      "publishedAt": "2026-08-14T10:24:03.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Adobe ออกแพตช์แก้ไขช่องโหว่ใน ColdFusion, Commerce และ Campaign Classic รีบอัปเดตก่อนถูกสั่งรันโค้ด",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post Adobe ออกแพตช์แก้ไขช่องโหว่ใน ColdFusion, Commerce และ Campaign Classic รีบอัปเดตก่อนถูกสั่งรันโค้ด first appeared on Thailand Computer Emergency…",
+      "title": "ช่องโหว่ Remote Code Execution ใน WordPress จากการอัปโหลดไฟล์ PostScript ผู้ดูแลระบบควรอัปเดตเป็นเวอร์ชันที่ได้รับการแก้ไขโดยเร็ว",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post ช่องโหว่ Remote Code Execution ใน WordPress จากการอัปโหลดไฟล์ PostScript ผู้ดูแลระบบควรอัปเดตเป็นเวอร์ชันที่ได้รับการแก้ไขโดยเร็ว first appeared on…",
       "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/14/adobe-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88/",
-      "publishedAt": "2026-08-14T10:08:54.000Z",
+      "url": "https://www.thaicert.or.th/2026/08/15/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-remote-code-execution-%e0%b9%83%e0%b8%99-wordpress-%e0%b8%88%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%b1/",
+      "publishedAt": "2026-08-15T08:18:43.000Z",
       "category": "thailand"
     },
     {
-      "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
-      "summary": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
-      "publishedAt": "2026-08-14T09:20:28.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
-      "summary": "Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers. The post 14,000 Trezor Customers Impacted by Data Breach at ShipMonk appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
-      "publishedAt": "2026-08-14T08:16:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "WordPress ออกแพตช์แก้ช่องโหว่ RCE ผ่านการประมวลผลไฟล์ภาพ",
-      "summary": "441/69 (IT) ประจำวันศุกร์ที่ 14 สิงหาคม 2569 WordPress […] The post WordPress ออกแพตช์แก้ช่องโหว่ RCE ผ่านการประมวลผลไฟล์ภาพ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/14/wordpress-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-rce-%e0%b8%9c/",
-      "publishedAt": "2026-08-14T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "พบมัลแวร์ใหม่บน Android สามารถขโมยข้อมูลบัตรเครดิต และแอบทำธุรกรรมทางการเงินได้",
-      "summary": "439/69 (IT) ประจำวันศุกร์ที่ 14 สิงหาคม 2569 นักวิจัยจา […] The post พบมัลแวร์ใหม่บน Android สามารถขโมยข้อมูลบัตรเครดิต และแอบทำธุรกรรมทางการเงินได้ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/14/%e0%b8%9e%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%9a%e0%b8%99-android-%e0%b8%aa%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b8%96/",
-      "publishedAt": "2026-08-14T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
-      "summary": "The security defect is described as an SQL injection that could allow attackers to achieve remote code execution. The post Hackers Exploiting Unpatched GeoServer Zero-Day appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
-      "publishedAt": "2026-08-14T07:01:56.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
-      "summary": "The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies. The post AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
-      "publishedAt": "2026-08-14T06:41:43.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "publishedAt": "2026-08-13T20:47:02.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
-      "summary": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
-      "publishedAt": "2026-08-13T20:45:17.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
-      "summary": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches. The post Adobe Commerce Bug Targeted Immediately After Disclosure appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
-      "publishedAt": "2026-08-13T14:17:44.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
-      "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
-      "publishedAt": "2026-08-13T10:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Zoom แก้ไขช่องโหว่ Zero-click ในฟังก์ชัน Annotation เสี่ยงรันโค้ดบนอุปกรณ์ผู้ใช้งาน",
-      "summary": "438/69 (IT) ประจำวันพฤหัสบดีที่ 13 สิงหาคม 2569 Zoom ออ […] The post Zoom แก้ไขช่องโหว่ Zero-click ในฟังก์ชัน Annotation เสี่ยงรันโค้ดบนอุปกรณ์ผู้ใช้งาน first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/13/zoom-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-click-%e0%b9%83%e0%b8%99%e0%b8%9f%e0%b8%b1%e0%b8%87%e0%b8%81%e0%b9%8c/",
-      "publishedAt": "2026-08-13T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which…",
+      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in…",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "publishedAt": "2026-08-13T06:09:48.000Z",
+      "url": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+      "publishedAt": "2026-08-15T07:24:04.000Z",
       "category": "kill-chain"
     },
     {
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting…",
+      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+      "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains…",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "publishedAt": "2026-08-12T17:39:27.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
-      "summary": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
-      "publishedAt": "2026-08-12T14:00:00.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Shaping the NVD for the Future: We Need Your Feedback on AI-Enabled Vulnerability Management",
-      "summary": "For over two decades, the NIST National Vulnerability Database (NVD) has served as the U.S. government repository for standards-based vulnerability management data and as a foundational resource for cybersecurity risk…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/shaping-nvd-future-we-need-your-feedback-ai-enabled-vulnerability",
-      "publishedAt": "2026-08-12T12:00:00.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "publishedAt": "2026-08-12T11:13:03.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน แคมเปญมัลแวร์ TencShell และ Gshell โจมตีระบบบริหารจัดการ ควรตรวจสอบและจำกัดการเข้าถึงระบบโดยทันที",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน แคมเปญมัลแวร์ TencShell และ Gshell โจมตีระบบบริหารจัดการ ควรตรวจสอบและจำกัดการเข้าถึงระบบโดยทันที first appeared on Thailand Computer…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/12/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c/",
-      "publishedAt": "2026-08-12T10:59:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score:…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "publishedAt": "2026-08-12T09:01:54.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "publishedAt": "2026-08-12T08:04:52.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "publishedAt": "2026-08-12T07:31:40.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-      "publishedAt": "2026-08-12T06:41:38.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw,…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-      "publishedAt": "2026-08-12T06:15:58.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
-      "summary": "The most concerning bug in the batch is CVE-2026-62878 (CVSS: 9.8), a remote code execution (RCE) vulnerability in Windows DNS Server that requires no user interaction.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
-      "publishedAt": "2026-08-11T21:42:34.000Z",
+      "url": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+      "publishedAt": "2026-08-14T18:48:46.000Z",
       "category": "kill-chain"
     }
   ]
