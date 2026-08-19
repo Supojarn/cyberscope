@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-18T23:31:30.540Z",
+  "generatedAt": "2026-08-19T23:26:51.813Z",
   "items": [
+    {
+      "title": "NIST Releases Tips & Tactics for Building Automation & Control System Cybersecurity",
+      "summary": "Recent cyberattacks highlight the growing threat to operational technology (OT) used in critical infrastructure. Whether you work for an infrastructure owner/operator or are a consumer of an infrastructure service, the…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/nist-releases-tips-tactics-building-automation-control-system",
+      "publishedAt": "2026-08-19T12:00:00.000Z"
+    },
     {
       "title": "Stronger Cybersecurity Programs Start with People: NIST Wants Your Input on the Path Forward for Human-Centered Cybersecurity",
       "summary": "When was the last time a cybersecurity process at work made you want to scream? Maybe it was a password requirement so complicated you had to write it down (defeating the purpose), a phishing simulation test that felt…",
@@ -98,13 +105,6 @@
       "source": "NIST Cybersecurity Insights",
       "url": "https://www.nist.gov/blogs/cybersecurity-insights/celebrating-data-privacy-week-nists-privacy-engineering-program",
       "publishedAt": "2026-01-27T12:00:00.000Z"
-    },
-    {
-      "title": "Digital Identities: Getting to Know the Verifiable Digital Credential Ecosystem",
-      "summary": "Understanding mDL credential formats Standards in the VDC Ecosystem In our first blog post in this series, we highlighted that VDCs can represent a wide range of credentials, from a driver’s license to a diploma to…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/digital-identities-getting-know-verifiable-digital-credential-0",
-      "publishedAt": "2026-01-07T12:00:00.000Z"
     }
   ]
 }
