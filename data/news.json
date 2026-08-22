@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-21T23:28:03.872Z",
+  "generatedAt": "2026-08-22T23:25:16.030Z",
   "items": [
+    {
+      "title": "Hackers infect Android car head units with proxy botnet malware",
+      "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+      "publishedAt": "2026-08-22T14:14:24.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
+      "summary": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
+      "publishedAt": "2026-08-22T08:30:00.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
       "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux…",
@@ -90,7 +106,7 @@
       "category": "ai-security"
     },
     {
-      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
       "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
@@ -226,14 +242,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
-      "summary": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-      "publishedAt": "2026-08-20T14:50:49.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
       "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
       "source": "BleepingComputer",
@@ -306,20 +314,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-      "publishedAt": "2026-08-20T11:06:14.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New Manic Android malware can exfiltrate data through nearby devices",
-      "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-      "publishedAt": "2026-08-20T10:02:02.000Z",
-      "category": "kill-chain"
+      "title": "แจ้งเตือน! Forminator Forms บน WordPress มีช่องโหว่ร้ายแรง เสี่ยงถูกยึดเว็บไซต์ ควรอัปเดตทันที",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! Forminator Forms บน WordPress มีช่องโหว่ร้ายแรง เสี่ยงถูกยึดเว็บไซต์ ควรอัปเดตทันที first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/20/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-forminator-forms-%e0%b8%9a%e0%b8%99-wordpress-%e0%b8%a1%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82/",
+      "publishedAt": "2026-08-20T08:51:18.000Z",
+      "category": "thailand"
     }
   ]
 }
