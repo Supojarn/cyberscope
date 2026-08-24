@@ -1,6 +1,214 @@
 {
-  "generatedAt": "2026-08-23T23:26:05.648Z",
+  "generatedAt": "2026-08-24T23:26:13.877Z",
   "items": [
+    {
+      "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+      "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+      "publishedAt": "2026-08-24T21:46:55.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+      "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+      "publishedAt": "2026-08-24T21:14:30.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+      "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+      "publishedAt": "2026-08-24T20:51:27.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators.…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+      "publishedAt": "2026-08-24T19:26:32.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "publishedAt": "2026-08-24T17:41:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited",
+      "summary": "A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard. The post ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/",
+      "publishedAt": "2026-08-24T17:38:21.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+      "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+      "publishedAt": "2026-08-24T15:17:16.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
+      "summary": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
+      "publishedAt": "2026-08-24T15:02:32.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
+      "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
+      "publishedAt": "2026-08-24T14:34:59.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+      "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+      "publishedAt": "2026-08-24T14:32:10.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Microsoft Teams now lets admins block external bots from meetings",
+      "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+      "publishedAt": "2026-08-24T14:00:19.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "South Korean startup platform breach exposes key management failures",
+      "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+      "publishedAt": "2026-08-24T14:00:10.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
+      "summary": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
+      "publishedAt": "2026-08-24T14:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! พบแฮกเกอร์ใช้ AI สร้างสคริปต์เจาะระบบ Siemens S7 Series PLC มุ่งเป้าโจมตีโครงสร้างพื้นฐานสำคัญ",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! พบแฮกเกอร์ใช้ AI สร้างสคริปต์เจาะระบบ Siemens S7 Series PLC มุ่งเป้าโจมตีโครงสร้างพื้นฐานสำคัญ first appeared on Thailand Computer…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/24/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%ae%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%83%e0%b8%8a%e0%b9%89/",
+      "publishedAt": "2026-08-24T13:30:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "publishedAt": "2026-08-24T12:35:36.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "publishedAt": "2026-08-24T11:51:36.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "publishedAt": "2026-08-24T10:45:12.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Personal Information Exposed in Apollo Global Data Breach",
+      "summary": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+      "publishedAt": "2026-08-24T10:08:42.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Rethinking Application Security for the AI Era",
+      "summary": "As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk. The post Rethinking Application Security for the AI Era appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
+      "publishedAt": "2026-08-24T10:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "พบช่องโหว่ใน Elementor Pro สำหรับ WordPress เสี่ยงถูกอัปโหลดไฟล์อันตรายและควบคุมระบบผ่าน RCE",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post พบช่องโหว่ใน Elementor Pro สำหรับ WordPress เสี่ยงถูกอัปโหลดไฟล์อันตรายและควบคุมระบบผ่าน RCE first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/24/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-elementor-pro-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-wordpress-%e0%b9%80/",
+      "publishedAt": "2026-08-24T09:10:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "พบการโจมตีช่องโหว่ Zimbra Collaboration แบบ Remote Code Execution (RCE) ผ่าน SNMP Notification",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post พบการโจมตีช่องโหว่ Zimbra Collaboration แบบ Remote Code Execution (RCE) ผ่าน SNMP Notification first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/24/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zimbra-collaboration-%e0%b9%81/",
+      "publishedAt": "2026-08-24T08:10:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "มัลแวร์ ToxicPanda 2.0 ใช้สิทธิ์ VPN บล็อก Google Play บนอุปกรณ์ Android",
+      "summary": "459/69 (IT) ประจำวันจันทร์ที่ 24 สิงหาคม 2569 นักวิจัยด […] The post มัลแวร์ ToxicPanda 2.0 ใช้สิทธิ์ VPN บล็อก Google Play บนอุปกรณ์ Android first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/24/%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-toxicpanda-2-0-%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%aa%e0%b8%b4%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b9%8c-vpn-%e0%b8%9a%e0%b8%a5%e0%b9%87/",
+      "publishedAt": "2026-08-24T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "มัลแวร์ยึด Android Car Head Unit เสี่ยงควบคุมระบบและขโมยข้อมูลผู้ใช้",
+      "summary": "458/69 (IT) ประจำวันจันทร์ที่ 24 สิงหาคม 2569 นักวิจัยจ […] The post มัลแวร์ยึด Android Car Head Unit เสี่ยงควบคุมระบบและขโมยข้อมูลผู้ใช้ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/24/%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b8%a2%e0%b8%b6%e0%b8%94-android-car-head-unit-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%9a/",
+      "publishedAt": "2026-08-24T08:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "ผู้ผลิตฮาร์ดแวร์เร่งอัปเกรดชิปประมวลผลรองรับการเข้ารหัสยุค Post-Quantum",
+      "summary": "457/69 (IT) ประจำวันจันทร์ที่ 24 สิงหาคม 2569 บริษัทผู้ […] The post ผู้ผลิตฮาร์ดแวร์เร่งอัปเกรดชิปประมวลผลรองรับการเข้ารหัสยุค Post-Quantum first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/24/%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9c%e0%b8%a5%e0%b8%b4%e0%b8%95%e0%b8%ae%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%94%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%ad%e0%b8%b1/",
+      "publishedAt": "2026-08-24T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ใน Cisco Crosswork และ Cisco Secure Workload เสี่ยงรันคำสั่งและเข้าถึงข้อมูลสำคัญ",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ใน Cisco Crosswork และ Cisco Secure Workload เสี่ยงรันคำสั่งและเข้าถึงข้อมูลสำคัญ first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/24/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-cisco-crosswork-%e0%b9%81/",
+      "publishedAt": "2026-08-24T06:29:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "ช่องโหว่ร้ายแรงใน Windows IKE Extension ถูกนำไปใช้โจมตีจริง เร่งอัปเดตระบบทันที",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post ช่องโหว่ร้ายแรงใน Windows IKE Extension ถูกนำไปใช้โจมตีจริง เร่งอัปเดตระบบทันที first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/24/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b9%83%e0%b8%99-windows-ike-extension-%e0%b8%96%e0%b8%b9/",
+      "publishedAt": "2026-08-24T06:00:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
       "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
@@ -15,14 +223,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
       "publishedAt": "2026-08-22T14:14:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
-      "summary": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
-      "publishedAt": "2026-08-22T08:30:00.000Z",
       "category": "kill-chain"
     },
     {
@@ -58,32 +258,8 @@
       "category": "kill-chain"
     },
     {
-      "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
-      "publishedAt": "2026-08-21T15:11:16.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
-      "summary": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment. The post Encrypted Prompts Bypass AI Safety Guardrails…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
-      "publishedAt": "2026-08-21T14:34:05.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
-      "summary": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
-      "publishedAt": "2026-08-21T14:22:06.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "OpenAI Adds Controls That Should've Been There Already",
-      "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+      "summary": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/openai-adds-controls-already",
       "publishedAt": "2026-08-21T13:30:00.000Z",
@@ -91,27 +267,11 @@
     },
     {
       "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
-      "summary": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+      "summary": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
       "publishedAt": "2026-08-21T13:10:33.000Z",
       "category": "pqc"
-    },
-    {
-      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
-      "summary": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
-      "publishedAt": "2026-08-21T12:26:07.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform.…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-      "publishedAt": "2026-08-21T12:25:33.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "Wazuh and AI For Enhanced SOC Workflows",
@@ -120,78 +280,6 @@
       "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
       "publishedAt": "2026-08-21T11:21:39.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "publishedAt": "2026-08-21T11:04:10.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "publishedAt": "2026-08-21T11:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "SickKids data breach exposes employee and job applicant info",
-      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software.…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-      "publishedAt": "2026-08-21T10:10:42.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
-      "summary": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
-      "publishedAt": "2026-08-21T09:23:18.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft Patches Exploited Entra ID Vulnerability",
-      "summary": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-      "publishedAt": "2026-08-21T08:12:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "เตือนช่องโหว่ใน Zimbra ถูกใช้โจมตีจริง เสี่ยงรันคำสั่งบนเซิร์ฟเวอร์",
-      "summary": "456/69 (IT) ประจำวันศุกร์ที่ 21 สิงหาคม 2569 CERT Polsk […] The post เตือนช่องโหว่ใน Zimbra ถูกใช้โจมตีจริง เสี่ยงรันคำสั่งบนเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/21/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-zimbra-%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b9%83%e0%b8%8a%e0%b9%89/",
-      "publishedAt": "2026-08-21T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แฮกเกอร์ยึดกล้อง Dahua กว่า 14,500 ตัว ในแคมเปญ CameraSwarm นาน 35 วัน",
-      "summary": "455/69 (IT) ประจำวันศุกร์ที่ 21 สิงหาคม 2569 นักวิจัยจา […] The post แฮกเกอร์ยึดกล้อง Dahua กว่า 14,500 ตัว ในแคมเปญ CameraSwarm นาน 35 วัน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/21/%e0%b9%81%e0%b8%ae%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a2%e0%b8%b6%e0%b8%94%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%ad%e0%b8%87-dahua-%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2-14500/",
-      "publishedAt": "2026-08-21T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "เหตุการณ์ข้อมูลรั่วไหลจาก CareCloud บริษัทไอทีด้านการแพทย์ ส่งผลกระทบต่อผู้ป่วยกว่า 3.7 ล้านราย",
-      "summary": "454/69 (IT) ประจำวันศุกร์ที่ 21 สิงหาคม 2569 CareCloud […] The post เหตุการณ์ข้อมูลรั่วไหลจาก CareCloud บริษัทไอทีด้านการแพทย์ ส่งผลกระทบต่อผู้ป่วยกว่า 3.7 ล้านราย first appeared on Thailand Computer Emergency Response…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/21/%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%93%e0%b9%8c%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab%e0%b8%a5/",
-      "publishedAt": "2026-08-21T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
-      "summary": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
-      "publishedAt": "2026-08-21T07:25:50.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
@@ -226,99 +314,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-      "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-      "publishedAt": "2026-08-20T17:53:52.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
       "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
       "publishedAt": "2026-08-20T17:23:48.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-      "publishedAt": "2026-08-20T16:59:44.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-      "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-      "publishedAt": "2026-08-20T14:59:22.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "publishedAt": "2026-08-20T14:39:48.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "publishedAt": "2026-08-20T14:36:27.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "publishedAt": "2026-08-20T14:01:11.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "publishedAt": "2026-08-20T13:35:13.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
-      "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
-      "publishedAt": "2026-08-20T13:30:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "publishedAt": "2026-08-20T13:24:28.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-      "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-      "publishedAt": "2026-08-20T11:45:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-      "publishedAt": "2026-08-20T11:39:35.000Z",
       "category": "kill-chain"
     }
   ]

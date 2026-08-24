@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-23T23:26:07.618Z",
+  "generatedAt": "2026-08-24T23:26:15.771Z",
   "items": [
+    {
+      "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
+      "summary": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single photon counts. “Photons carry…",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-supersize-quantum-technology-help-detect-faint-photons",
+      "publishedAt": "2026-08-24T12:00:00.000Z"
+    },
     {
       "title": "NIST Releases Tips & Tactics for Building Automation & Control System Cybersecurity",
       "summary": "Recent cyberattacks highlight the growing threat to operational technology (OT) used in critical infrastructure. Whether you work for an infrastructure owner/operator or are a consumer of an infrastructure service, the…",
@@ -98,13 +105,6 @@
       "source": "NIST News",
       "url": "https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology",
       "publishedAt": "2026-02-10T12:00:00.000Z"
-    },
-    {
-      "title": "Celebrating Data Privacy Week with NIST’s Privacy Engineering Program",
-      "summary": "Grab your party hats – it’s Data Privacy Week! Data Privacy Week is a global initiative led by the National Cybersecurity Alliance to spread awareness about online privacy and empower individuals and businesses to…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/celebrating-data-privacy-week-nists-privacy-engineering-program",
-      "publishedAt": "2026-01-27T12:00:00.000Z"
     }
   ]
 }
