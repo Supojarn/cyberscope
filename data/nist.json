@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-27T04:26:44.817Z",
+  "generatedAt": "2026-08-28T06:49:39.112Z",
   "items": [
+    {
+      "title": "Back to the Future: Why Agentic AI Needs a Strong Identity Foundation",
+      "summary": "As AI matures, enterprises and customers are rapidly deploying agents seeking to unlock the next level of automation and productivity. Agentic AI shows potential to handle a multitude of use cases, from buying personal…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation",
+      "publishedAt": "2026-08-27T12:00:00.000Z"
+    },
     {
       "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
       "summary": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single photon counts. “Photons carry…",
@@ -98,13 +105,6 @@
       "source": "NIST Cybersecurity Insights",
       "url": "https://www.nist.gov/blogs/cybersecurity-insights/celebrating-two-years-csf-20",
       "publishedAt": "2026-02-24T12:00:00.000Z"
-    },
-    {
-      "title": "NIST Allocates Over $3 Million to Small Businesses Advancing AI, Biotechnology, Semiconductors, Quantum and More",
-      "summary": "NIST is allocating funding to eight small businesses in seven states under the Small Business Innovation Research (SBIR) program.",
-      "source": "NIST News",
-      "url": "https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology",
-      "publishedAt": "2026-02-10T12:00:00.000Z"
     }
   ]
 }
