@@ -1,6 +1,230 @@
 {
-  "generatedAt": "2026-08-28T06:49:33.780Z",
+  "generatedAt": "2026-08-29T04:04:37.869Z",
   "items": [
+    {
+      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+      "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+      "publishedAt": "2026-08-28T22:40:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "publishedAt": "2026-08-28T21:30:52.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "publishedAt": "2026-08-28T20:38:47.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
+      "summary": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
+      "publishedAt": "2026-08-28T20:19:22.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "PaperCut releases second emergency patch for exploited flaws",
+      "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+      "publishedAt": "2026-08-28T19:08:26.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Offensive Security Investments Surge as AI Threats Increase",
+      "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
+      "publishedAt": "2026-08-28T18:25:43.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+      "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
+      "publishedAt": "2026-08-28T18:18:55.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+      "publishedAt": "2026-08-28T17:12:15.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "publishedAt": "2026-08-28T15:56:55.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
+      "summary": "Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, U.S. Bank responds to ransomware gang’s claims. The post In Other News: Log4j RCE…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/",
+      "publishedAt": "2026-08-28T15:35:34.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
+      "summary": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
+      "publishedAt": "2026-08-28T14:00:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ATF Confirms Cyber Incident After Ransomware Group Claims Attack",
+      "summary": "The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a ‘major incident’ and it’s conducting an investigation with the DOJ. The post ATF Confirms Cyber Incident After Ransomware Group Claims Attack…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/",
+      "publishedAt": "2026-08-28T13:59:14.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Defining an AI Kill Switch Is Hard, but Necessary",
+      "summary": "Proposed legislation could mandate that companies be able to \"throttle, suspend, or shut ... down\" AI agents, but how and when to do that remain open questions.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
+      "publishedAt": "2026-08-28T13:30:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
+      "summary": "The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
+      "publishedAt": "2026-08-28T13:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+      "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
+      "publishedAt": "2026-08-28T12:58:43.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems",
+      "summary": "CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents. The post OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
+      "publishedAt": "2026-08-28T12:36:53.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
+      "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+      "publishedAt": "2026-08-28T11:46:57.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+      "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+      "publishedAt": "2026-08-28T11:20:32.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ServiceNow warns of three max severity security vulnerabilities",
+      "summary": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
+      "publishedAt": "2026-08-28T10:29:42.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "🚨 แจ้งเตือน! ช่องโหว่ใน Gitea ถูกใช้โจมตีจริง เสี่ยงรันคำสั่งบนเซิร์ฟเวอร์",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post 🚨 แจ้งเตือน! ช่องโหว่ใน Gitea ถูกใช้โจมตีจริง เสี่ยงรันคำสั่งบนเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/28/%f0%9f%9a%a8-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-gitea/",
+      "publishedAt": "2026-08-28T09:56:15.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+      "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+      "publishedAt": "2026-08-28T09:45:15.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
+      "summary": "A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations. The post PaperCut Releases Emergency Patch for Exploited Zero-Day appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
+      "publishedAt": "2026-08-28T08:40:36.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+      "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+      "publishedAt": "2026-08-28T08:25:36.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
+      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+      "publishedAt": "2026-08-28T08:20:59.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ช่องโหว่ TranslatePress บน WordPress เสี่ยงถูกรีเซ็ตรหัสผ่านผู้ดูแลระบบ",
+      "summary": "471/69 (IT) ประจำวันศุกร์ที่ 28 สิงหาคม 2569 Wordfence […] The post ช่องโหว่ TranslatePress บน WordPress เสี่ยงถูกรีเซ็ตรหัสผ่านผู้ดูแลระบบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/28/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-translatepress-%e0%b8%9a%e0%b8%99-wordpress-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%96%e0%b8%b9%e0%b8%81/",
+      "publishedAt": "2026-08-28T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "PaperCut เตือนช่องโหว่ Zero-Day ใน NG และ MF ถูกใช้โจมตี จำกัดการเข้าถึงทันที",
+      "summary": "470/69 (IT) ประจำวันศุกร์ที่ 28 สิงหาคม 2569 PaperCut อ […] The post PaperCut เตือนช่องโหว่ Zero-Day ใน NG และ MF ถูกใช้โจมตี จำกัดการเข้าถึงทันที first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/28/papercut-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83%e0%b8%99-ng-%e0%b9%81%e0%b8%a5%e0%b8%b0-mf-%e0%b8%96/",
+      "publishedAt": "2026-08-28T08:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "สหรัฐฯ ประกาศแบนอุปกรณ์โครงสร้างพื้นฐานด้านพลังงานจากต่างชาติ หวั่นภัยคุกคามทางไซเบอร์",
+      "summary": "469/69 (IT) ประจำวันศุกร์ที่ 28 สิงหาคม 2569 ประธานาธิบ […] The post สหรัฐฯ ประกาศแบนอุปกรณ์โครงสร้างพื้นฐานด้านพลังงานจากต่างชาติ หวั่นภัยคุกคามทางไซเบอร์ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/28/%e0%b8%aa%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%90%e0%b8%af-%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b9%81%e0%b8%9a%e0%b8%99%e0%b8%ad%e0%b8%b8%e0%b8%9b%e0%b8%81%e0%b8%a3%e0%b8%93%e0%b9%8c/",
+      "publishedAt": "2026-08-28T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แจ้งเตือนช่องโหว่ใน Kaltura mwEmbed/html5lib เสี่ยงถูกอ่านไฟล์สำคัญและรันโค้ดบนเซิร์ฟเวอร์",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ใน Kaltura mwEmbed/html5lib เสี่ยงถูกอ่านไฟล์สำคัญและรันโค้ดบนเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/28/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-kaltura-mwembed-html5lib/",
+      "publishedAt": "2026-08-28T07:30:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "แจ้งเตือน! พบช่องโหว่ใน NVIDIA NemoClaw อาจทำให้ AI Agent ภายในเครื่องถูกควบคุมและฝังคำสั่งไม่พึงประสงค์",
       "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! พบช่องโหว่ใน NVIDIA NemoClaw อาจทำให้ AI Agent ภายในเครื่องถูกควบคุมและฝังคำสั่งไม่พึงประสงค์ first appeared on Thailand Computer Emergency…",
@@ -96,230 +320,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
       "publishedAt": "2026-08-27T13:31:13.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Webinar: How Google Workspace breaches happen and what to do next",
-      "summary": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
-      "publishedAt": "2026-08-27T12:16:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Back to the Future: Why Agentic AI Needs a Strong Identity Foundation",
-      "summary": "As AI matures, enterprises and customers are rapidly deploying agents seeking to unlock the next level of automation and productivity. Agentic AI shows potential to handle a multitude of use cases, from buying personal…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation",
-      "publishedAt": "2026-08-27T12:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack",
-      "summary": "New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels. The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/",
-      "publishedAt": "2026-08-27T11:58:01.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "publishedAt": "2026-08-27T11:56:30.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-      "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-      "publishedAt": "2026-08-27T11:56:26.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security",
-      "summary": "The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities. The post Okta Shares Surge on Strong Earnings,…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/",
-      "publishedAt": "2026-08-27T11:53:10.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite",
-      "summary": "SecurityWeek talks to Chris Wheeler, CISO at Resilience, about his journey from the Navy to becoming a cybersecurity leader. The post CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/",
-      "publishedAt": "2026-08-27T11:15:00.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Carhartt data breach exposes information of 12.9 million accounts",
-      "summary": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-      "publishedAt": "2026-08-27T11:10:04.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.…",
-      "source": "Krebs on Security",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "publishedAt": "2026-08-27T11:04:15.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-      "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-      "publishedAt": "2026-08-27T11:00:57.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "The Future of AI-Driven Security Depends on Complete Data",
-      "summary": "For twenty-five years, \"data\" in security meant logs and events. But logs are a lossy representation of reality. The post The Future of AI-Driven Security Depends on Complete Data appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/",
-      "publishedAt": "2026-08-27T10:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-      "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-      "publishedAt": "2026-08-27T09:33:38.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
-      "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
-      "publishedAt": "2026-08-27T09:16:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน! ช่องโหว่ใน Red Hat Build of Keycloak ขอให้เร่งอัปเดตระบบเพื่อป้องกันการยึดครองบัญชีผู้ใช้งาน",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ใน Red Hat Build of Keycloak ขอให้เร่งอัปเดตระบบเพื่อป้องกันการยึดครองบัญชีผู้ใช้งาน first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-red-hat-build-of-keycloak/",
-      "publishedAt": "2026-08-27T08:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ATF confirms “major incident” after recent Qilin breach claims",
-      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang.…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
-      "publishedAt": "2026-08-27T08:13:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "พบความพยายามโจมตี Microsoft SharePoint ผ่านช่องโหว่ 2 รายการร่วมกัน",
-      "summary": "468/69 (IT) ประจำวันพฤหัสบดีที่ 27 สิงหาคม 2569 บริษัทด […] The post พบความพยายามโจมตี Microsoft SharePoint ผ่านช่องโหว่ 2 รายการร่วมกัน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/27/%e0%b8%9e%e0%b8%9a%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%9e%e0%b8%a2%e0%b8%b2%e0%b8%a2%e0%b8%b2%e0%b8%a1%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5-microsoft-sharepoint-%e0%b8%9c%e0%b9%88/",
-      "publishedAt": "2026-08-27T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
-      "publishedAt": "2026-08-27T07:05:28.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Recent Citrix NetScaler Vulnerability Exploited in the Wild",
-      "summary": "CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452. The post Recent Citrix NetScaler Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/",
-      "publishedAt": "2026-08-27T04:39:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-      "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-      "publishedAt": "2026-08-26T21:33:20.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
-      "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
-      "publishedAt": "2026-08-26T21:33:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "'HTTP Terminator' Hunts for Novel Desync Attacks",
-      "summary": "James Kettle of PortSwigger talks with the Dark Reading News Desk about his AI-powered open source tool, which found new HTTP request-smuggling techniques.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks",
-      "publishedAt": "2026-08-26T19:54:34.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Android Malware Hijacks Update System for Car Head Units",
-      "summary": "Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units",
-      "publishedAt": "2026-08-26T17:33:45.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-      "publishedAt": "2026-08-26T16:42:03.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "publishedAt": "2026-08-26T15:35:05.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "publishedAt": "2026-08-26T13:44:31.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
-      "summary": "The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
-      "publishedAt": "2026-08-26T11:33:40.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "publishedAt": "2026-08-26T10:27:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-      "publishedAt": "2026-08-26T09:38:45.000Z",
-      "category": "ai-security"
     }
   ]
 }
