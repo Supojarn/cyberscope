@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-29T04:04:37.869Z",
+  "generatedAt": "2026-08-30T01:10:27.200Z",
   "items": [
+    {
+      "title": "Hasbro Data Breach Exposed Employee Personal Information",
+      "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
+      "publishedAt": "2026-08-29T11:55:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน ช่องโหว่ใน Admin By Request เสี่ยงยกระดับสิทธิ์เป็น Administrator และ root",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน ช่องโหว่ใน Admin By Request เสี่ยงยกระดับสิทธิ์เป็น Administrator และ root first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/29/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-admin-by-request-%e0%b9%80/",
+      "publishedAt": "2026-08-29T08:05:40.000Z",
+      "category": "thailand"
+    },
     {
       "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
       "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming…",
@@ -303,22 +319,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/",
       "publishedAt": "2026-08-27T14:17:26.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-      "publishedAt": "2026-08-27T13:39:56.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
-      "summary": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
-      "publishedAt": "2026-08-27T13:31:13.000Z",
       "category": "kill-chain"
     }
   ]

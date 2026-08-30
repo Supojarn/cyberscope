@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T04:07:43.939Z",
+  "generatedAt": "2026-08-30T01:10:28.603Z",
   "items": [
     {
       "id": "CVE-2023-49105",
@@ -180,6 +180,281 @@
       "kev": true,
       "vendorProduct": "MLflow MLflow",
       "ransomware": false
+    },
+    {
+      "id": "CVE-2026-76581",
+      "description": "The WPMU DEV Dashboard plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 5.0.1. This is due to inconsistent and ambiguous HMAC message construction between the unauthenticated `wdpsso_step1` and `wdpsso_step2`…",
+      "score": 9.8,
+      "severity": "critical",
+      "published": "2026-08-28T08:16:41.463Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76581",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-82082",
+      "description": "NUMail developed by Green-Computing has an OS Command Injection vulnerability. Unauthenticated remote attackers can inject arbitrary OS commands and execute them on the server.",
+      "score": 9.8,
+      "severity": "critical",
+      "published": "2026-08-28T05:16:47.083Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82082",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-78239",
+      "description": "Xiiaozet LK100W exposes a critical management function that can be invoked without authentication, allowing a remote attacker to enable administrative services that should be restricted. Successful exploitation may permit unauthorized access to the device.",
+      "score": 9.8,
+      "severity": "critical",
+      "published": "2026-08-28T00:18:16.197Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-78239",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-76943",
+      "description": "Xiiaozet LK100Wt contains an authentication weakness within an administrative service that may allow an attacker to bypass intended access controls and obtain command execution capabilities. Successful exploitation could allow unauthorized interaction with…",
+      "score": 9.8,
+      "severity": "critical",
+      "published": "2026-08-28T00:18:15.343Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76943",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-76179",
+      "description": "An improper protection of authentication tokens vulnerability exists in certain Ebyte gateway products. Authentication tokens used by the web management interface are insufficiently protected during client-side session handling, which may allow an attacker…",
+      "score": 9.8,
+      "severity": "critical",
+      "published": "2026-08-28T00:18:14.430Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76179",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-75337",
+      "description": "The static resource interface /api/static/{deployKey}/ of Yu AI Code Mother v4.3 is vulnerable to path traversal. The user-controlled path is concatenated to the preview root directory without any normalization, allowing anonymous attackers to read files…",
+      "score": 9.8,
+      "severity": "critical",
+      "published": "2026-08-28T00:18:12.150Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-75337",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-73125",
+      "description": "Ebyte device web management interface does not consistently enforce authentication before granting access to administrative functionality. An unauthenticated remote attacker could access sensitive configuration information, modify device settings, or disrupt…",
+      "score": 9.8,
+      "severity": "critical",
+      "published": "2026-08-28T00:18:11.273Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-73125",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-78174",
+      "description": "WatchGuard Dimension records unredacted session identifiers for logged-in users in its web UI diagnostic log. A low-privileged Dimension Administrator can retrieve this log and extract a Super Administrator's session token while that administrator is logged…",
+      "score": 9.3,
+      "severity": "critical",
+      "published": "2026-08-28T02:16:22.950Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-78174",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-19318",
+      "description": "A stack-based buffer overflow vulnerability in the WatchGuard Fireware OS iked process allows a remote unauthenticated attacker to execute arbitrary code by sending specially crafted network traffic.",
+      "score": 9.3,
+      "severity": "critical",
+      "published": "2026-08-28T02:16:21.070Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19318",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-19315",
+      "description": "A type confusion vulnerability in the iked process of WatchGuard Fireware OS allows a remote unauthenticated attacker to execute arbitrary code by sending specially crafted network traffic.",
+      "score": 9.3,
+      "severity": "critical",
+      "published": "2026-08-28T02:16:20.703Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19315",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-19313",
+      "description": "An heap overflow vulnerability in the WatchGuard Fireware OS iked process allows a remote unauthenticated attacker to execute arbitrary code by sending specially crafted network traffic.",
+      "score": 9.3,
+      "severity": "critical",
+      "published": "2026-08-28T02:16:20.450Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19313",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-13086",
+      "description": "A stack-based buffer overflow in the epm (Endpoint Protection Manager) service used by the deprecated Mobile Security feature in WatchGuard Fireware OS allows an unauthenticated remote attacker to execute arbitrary code.",
+      "score": 9.3,
+      "severity": "critical",
+      "published": "2026-08-28T02:16:20.197Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-13086",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-82090",
+      "description": "Pocket through 8.33.0.0 allows XSS because \"Save to Pocket\" injects external HTML into the DOM. JavaScript code can alter the application state via native bridge methods.",
+      "score": 9.2,
+      "severity": "critical",
+      "published": "2026-08-28T05:16:47.400Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82090",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-61800",
+      "description": "Wazuh is an open-source security platform providing unified XDR and SIEM protection for endpoints and cloud workloads. In versions 4.4.0 through 4.14.6, a party holding the cluster key can write, overwrite, or delete arbitrary files under /var/ossec on worker…",
+      "score": 9.1,
+      "severity": "critical",
+      "published": "2026-08-28T02:16:21.767Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-61800",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-40541",
+      "description": "An improper neutralization of input during web page generation ('Cross-site Scripting') vulnerability in extract domain in Synology Chat Server before 2.4.5-22148 allows remote authenticated users, via a UI interaction, to read or write arbitrary files and…",
+      "score": 9,
+      "severity": "critical",
+      "published": "2026-08-28T08:16:40.713Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-40541",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-82089",
+      "description": "The wallabag (aka fr.gaulupeau.apps.InThePoche) application through 2.6.0 for Android allows XSS because /api/entries data is loaded into a WebView.",
+      "score": 8.8,
+      "severity": "high",
+      "published": "2026-08-28T05:16:47.230Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82089",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-19423",
+      "description": "The Ultimate Member WordPress plugin before 2.13.0 does not validate a submitted role selection when it cannot resolve the set of roles a profile form permits, and screens the value against the site's registered role names rather than against the form's own…",
+      "score": 8.1,
+      "severity": "high",
+      "published": "2026-08-28T08:16:40.610Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19423",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-5097",
+      "description": "The wpForo Forum plugin for WordPress is vulnerable to SQL Injection via the 'referer' parameter in all versions up to, and including, 2.4.17. This is due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the…",
+      "score": 7.5,
+      "severity": "high",
+      "published": "2026-08-28T08:16:41.003Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-5097",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-19084",
+      "description": "The shared-files-pro WordPress plugin before 1.7.70 does not validate the file path supplied when creating a featured image, allowing unauthenticated attackers to read arbitrary files from the server and republish their contents at a public URL.",
+      "score": 7.5,
+      "severity": "high",
+      "published": "2026-08-28T08:16:40.513Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19084",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-18983",
+      "description": "The One User Avatar | User Profile Picture plugin for WordPress is vulnerable to Stored Cross-Site Scripting in all versions up to, and including, 2.5.4 via the wpua_action_process_option_update function. This is due to insufficient file type validation in…",
+      "score": 7.5,
+      "severity": "high",
+      "published": "2026-08-28T05:16:42.060Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18983",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-6286",
+      "description": "The Booking for Appointments and Events Calendar – Amelia plugin for WordPress is vulnerable to Stored Cross-Site Scripting via customer name fields in versions up to and including 2.2. This is due to an authentication bypass where the AddBookingCommand…",
+      "score": 7.2,
+      "severity": "high",
+      "published": "2026-08-28T08:16:41.140Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-6286",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-14558",
+      "description": "The User Frontend WordPress plugin before 4.3.10 does not properly validate field type definitions and deserialises user-controlled post metadata when rendering submitted posts, allowing users with Editor-level access and above to inject arbitrary PHP…",
+      "score": 7.2,
+      "severity": "high",
+      "published": "2026-08-28T08:16:40.327Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-14558",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-77365",
+      "description": "The Optimole – Optimize Images | Convert WebP & AVIF | CDN & Lazy Load | Image Optimization plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'a' (above_fold_images) parameter in all versions up to, and including, 4.2.10 due to…",
+      "score": 7.2,
+      "severity": "high",
+      "published": "2026-08-28T05:16:46.223Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-77365",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-76053",
+      "description": "The TranslatePress – Translate Multilingual sites with AI Translation plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Comment Noise-Key Injection into HTML Parser in all versions up to, and including, 3.3.3 due to insufficient input…",
+      "score": 7.2,
+      "severity": "high",
+      "published": "2026-08-28T05:16:46.087Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76053",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-18978",
+      "description": "The LiteSpeed Cache plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Comment Content in all versions up to, and including, 7.8.1 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated…",
+      "score": 7.2,
+      "severity": "high",
+      "published": "2026-08-28T05:16:41.927Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18978",
+      "kev": false,
+      "vendorProduct": null
     }
   ]
 }
