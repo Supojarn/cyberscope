@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-08-31T01:15:26.211Z",
+  "generatedAt": "2026-09-01T01:44:03.764Z",
   "items": [
+    {
+      "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
+      "summary": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
+      "publishedAt": "2026-08-31T21:08:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+      "publishedAt": "2026-08-31T20:47:54.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+      "publishedAt": "2026-08-31T18:51:04.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+      "publishedAt": "2026-08-31T17:24:28.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit",
+      "summary": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
+      "publishedAt": "2026-08-31T14:32:34.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
+      "summary": "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data. The post ServiceNow Patches 3 Critical Code Injection Vulnerabilities appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
+      "publishedAt": "2026-08-31T13:59:19.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "publishedAt": "2026-08-31T13:50:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
+      "summary": "Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
+      "publishedAt": "2026-08-31T13:30:01.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "McKesson Confirms Data Breach as Attacker Deadline Looms",
+      "summary": "The ShinyHunters extortion group has claimed the theft of 284 million records from the company’s systems. The post McKesson Confirms Data Breach as Attacker Deadline Looms appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/",
+      "publishedAt": "2026-08-31T13:14:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "What the Hugging Face Incident Teaches Security Leaders About AI Agent Access",
+      "summary": "Security teams must treat autonomous agents as highly privileged identities. The post What the Hugging Face Incident Teaches Security Leaders About AI Agent Access appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/",
+      "publishedAt": "2026-08-31T12:15:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "publishedAt": "2026-08-31T12:14:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Anthropic Warns Claude Users of Infostealer Malware Infections",
+      "summary": "The AI giant is logging customers out of their accounts and removing payment data to prevent unauthorized Claude usage. The post Anthropic Warns Claude Users of Infostealer Malware Infections appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/",
+      "publishedAt": "2026-08-31T12:11:58.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+      "publishedAt": "2026-08-31T11:47:24.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+      "publishedAt": "2026-08-31T11:31:47.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs",
+      "summary": "Named KindaRails2Shell, the arbitrary file read flaw allows attackers to extract secrets and execute arbitrary code remotely. The post Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/",
+      "publishedAt": "2026-08-31T11:24:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Extortion Group Claims Manchester Airports Group Data Breach",
+      "summary": "FulcrumSec says it stole over 80 GB of data from Manchester Airports Group and plans to leak it online. The post Extortion Group Claims Manchester Airports Group Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/",
+      "publishedAt": "2026-08-31T10:29:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS)…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+      "publishedAt": "2026-08-31T09:04:55.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Berlin Won’t Pay Extortion Group Claiming Data Theft",
+      "summary": "The Rhysida ransomware group has claimed the exfiltration of over 5TB of data, including personal information and credentials. The post Berlin Won’t Pay Extortion Group Claiming Data Theft appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/",
+      "publishedAt": "2026-08-31T08:49:36.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "เตือนช่องโหว่ Critical ใน WPMU DEV Dashboard, Pods และ GiveWP บน WordPress",
+      "summary": "474/69 (IT) ประจำวันจันทร์ที่ 31 สิงหาคม 2569 มีรายงานก […] The post เตือนช่องโหว่ Critical ใน WPMU DEV Dashboard, Pods และ GiveWP บน WordPress first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/31/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-critical-%e0%b9%83%e0%b8%99-wpmu-dev-dashboard-pods-%e0%b9%81%e0%b8%a5%e0%b8%b0-g/",
+      "publishedAt": "2026-08-31T08:32:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "รัฐบาลเบอร์ลินถูกกลุ่ม Rhysida Ransomware โจมตี ก่อนการเลือกตั้ง",
+      "summary": "473/69 (IT) ประจำวันจันทร์ที่ 31 สิงหาคม 2569 รัฐบาลรัฐ […] The post รัฐบาลเบอร์ลินถูกกลุ่ม Rhysida Ransomware โจมตี ก่อนการเลือกตั้ง first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/31/%e0%b8%a3%e0%b8%b1%e0%b8%90%e0%b8%9a%e0%b8%b2%e0%b8%a5%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a5%e0%b8%b4%e0%b8%99%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b8%e0%b9%88%e0%b8%a1-r/",
+      "publishedAt": "2026-08-31T08:31:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+      "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+      "publishedAt": "2026-08-31T07:56:53.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "เตือน! ช่องโหว่ร้ายแรงใน Ubiquiti UniFi เสี่ยงข้ามการยืนยันตัวตนและรันคำสั่งบนอุปกรณ์",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือน! ช่องโหว่ร้ายแรงใน Ubiquiti UniFi เสี่ยงข้ามการยืนยันตัวตนและรันคำสั่งบนอุปกรณ์ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/08/31/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b9%83%e0%b8%99/",
+      "publishedAt": "2026-08-31T03:42:07.000Z",
+      "category": "thailand"
+    },
     {
       "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
       "summary": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
@@ -42,28 +218,12 @@
       "category": "thailand"
     },
     {
-      "title": "Hasbro Data Breach Exposed Employee Personal Information",
-      "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
-      "publishedAt": "2026-08-29T11:55:00.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "แจ้งเตือน ช่องโหว่ใน Admin By Request เสี่ยงยกระดับสิทธิ์เป็น Administrator และ root",
       "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน ช่องโหว่ใน Admin By Request เสี่ยงยกระดับสิทธิ์เป็น Administrator และ root first appeared on Thailand Computer Emergency Response Team…",
       "source": "ThaiCERT/ETDA",
       "url": "https://www.thaicert.or.th/2026/08/29/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-admin-by-request-%e0%b9%80/",
       "publishedAt": "2026-08-29T08:05:40.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-      "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-      "publishedAt": "2026-08-28T22:40:17.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
@@ -90,28 +250,12 @@
       "category": "ai-security"
     },
     {
-      "title": "PaperCut releases second emergency patch for exploited flaws",
-      "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-      "publishedAt": "2026-08-28T19:08:26.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Offensive Security Investments Surge as AI Threats Increase",
       "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
       "publishedAt": "2026-08-28T18:25:43.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "publishedAt": "2026-08-28T18:18:55.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
@@ -130,30 +274,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
-      "summary": "Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, U.S. Bank responds to ransomware gang’s claims. The post In Other News: Log4j RCE…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/",
-      "publishedAt": "2026-08-28T15:35:34.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-      "summary": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-      "publishedAt": "2026-08-28T14:00:10.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ATF Confirms Cyber Incident After Ransomware Group Claims Attack",
-      "summary": "The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a ‘major incident’ and it’s conducting an investigation with the DOJ. The post ATF Confirms Cyber Incident After Ransomware Group Claims Attack…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/",
-      "publishedAt": "2026-08-28T13:59:14.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Defining an AI Kill Switch Is Hard, but Necessary",
       "summary": "Proposed legislation could mandate that companies be able to \"throttle, suspend, or shut ... down\" AI agents, but how and when to do that remain open questions.",
       "source": "Dark Reading",
@@ -163,35 +283,11 @@
     },
     {
       "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
-      "summary": "The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
+      "summary": "The surge in AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
       "publishedAt": "2026-08-28T13:00:00.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-      "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-      "publishedAt": "2026-08-28T12:58:43.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems",
-      "summary": "CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents. The post OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
-      "publishedAt": "2026-08-28T12:36:53.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
-      "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
-      "publishedAt": "2026-08-28T11:46:57.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
@@ -199,14 +295,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
       "publishedAt": "2026-08-28T11:20:32.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ServiceNow warns of three max severity security vulnerabilities",
-      "summary": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
-      "publishedAt": "2026-08-28T10:29:42.000Z",
       "category": "kill-chain"
     },
     {
@@ -226,100 +314,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
-      "summary": "A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations. The post PaperCut Releases Emergency Patch for Exploited Zero-Day appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
-      "publishedAt": "2026-08-28T08:40:36.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
       "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
       "publishedAt": "2026-08-28T08:25:36.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "publishedAt": "2026-08-28T08:20:59.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ช่องโหว่ TranslatePress บน WordPress เสี่ยงถูกรีเซ็ตรหัสผ่านผู้ดูแลระบบ",
-      "summary": "471/69 (IT) ประจำวันศุกร์ที่ 28 สิงหาคม 2569 Wordfence […] The post ช่องโหว่ TranslatePress บน WordPress เสี่ยงถูกรีเซ็ตรหัสผ่านผู้ดูแลระบบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/28/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-translatepress-%e0%b8%9a%e0%b8%99-wordpress-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%96%e0%b8%b9%e0%b8%81/",
-      "publishedAt": "2026-08-28T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "PaperCut เตือนช่องโหว่ Zero-Day ใน NG และ MF ถูกใช้โจมตี จำกัดการเข้าถึงทันที",
-      "summary": "470/69 (IT) ประจำวันศุกร์ที่ 28 สิงหาคม 2569 PaperCut อ […] The post PaperCut เตือนช่องโหว่ Zero-Day ใน NG และ MF ถูกใช้โจมตี จำกัดการเข้าถึงทันที first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/28/papercut-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83%e0%b8%99-ng-%e0%b9%81%e0%b8%a5%e0%b8%b0-mf-%e0%b8%96/",
-      "publishedAt": "2026-08-28T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "สหรัฐฯ ประกาศแบนอุปกรณ์โครงสร้างพื้นฐานด้านพลังงานจากต่างชาติ หวั่นภัยคุกคามทางไซเบอร์",
-      "summary": "469/69 (IT) ประจำวันศุกร์ที่ 28 สิงหาคม 2569 ประธานาธิบ […] The post สหรัฐฯ ประกาศแบนอุปกรณ์โครงสร้างพื้นฐานด้านพลังงานจากต่างชาติ หวั่นภัยคุกคามทางไซเบอร์ first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/28/%e0%b8%aa%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%90%e0%b8%af-%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b9%81%e0%b8%9a%e0%b8%99%e0%b8%ad%e0%b8%b8%e0%b8%9b%e0%b8%81%e0%b8%a3%e0%b8%93%e0%b9%8c/",
-      "publishedAt": "2026-08-28T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือนช่องโหว่ใน Kaltura mwEmbed/html5lib เสี่ยงถูกอ่านไฟล์สำคัญและรันโค้ดบนเซิร์ฟเวอร์",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ใน Kaltura mwEmbed/html5lib เสี่ยงถูกอ่านไฟล์สำคัญและรันโค้ดบนเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/28/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-kaltura-mwembed-html5lib/",
-      "publishedAt": "2026-08-28T07:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือน! พบช่องโหว่ใน NVIDIA NemoClaw อาจทำให้ AI Agent ภายในเครื่องถูกควบคุมและฝังคำสั่งไม่พึงประสงค์",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! พบช่องโหว่ใน NVIDIA NemoClaw อาจทำให้ AI Agent ภายในเครื่องถูกควบคุมและฝังคำสั่งไม่พึงประสงค์ first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/08/28/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-nvidia-n/",
-      "publishedAt": "2026-08-28T03:19:41.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-      "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "publishedAt": "2026-08-27T21:38:53.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Chinese Routers Sold Worldwide Contain Backdoors",
-      "summary": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
-      "publishedAt": "2026-08-27T19:31:45.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-      "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "publishedAt": "2026-08-27T18:36:19.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026",
-      "summary": "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
-      "publishedAt": "2026-08-27T17:25:09.000Z",
-      "category": "ai-security"
     }
   ]
 }
