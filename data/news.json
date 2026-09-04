@@ -1,8 +1,200 @@
 {
-  "generatedAt": "2026-09-03T01:01:17.768Z",
+  "generatedAt": "2026-09-04T00:57:43.604Z",
   "items": [
     {
-      "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
+      "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+      "publishedAt": "2026-09-03T22:01:37.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Large Enterprises Targeted in Fake Merger & Acquisition Scams",
+      "summary": "Threat actors behind the \"Phantom Deal\" campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
+      "publishedAt": "2026-09-03T20:18:14.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "publishedAt": "2026-09-03T20:04:24.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated…",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
+      "publishedAt": "2026-09-03T19:42:39.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "publishedAt": "2026-09-03T18:28:12.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition.…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "publishedAt": "2026-09-03T18:02:47.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "publishedAt": "2026-09-03T15:26:47.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "publishedAt": "2026-09-03T14:52:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S.…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "publishedAt": "2026-09-03T14:39:05.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
+      "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
+      "publishedAt": "2026-09-03T14:38:49.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "publishedAt": "2026-09-03T13:50:59.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
+      "summary": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents. The post HiddenLayer Raises $100 Million for AI Runtime Security appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
+      "publishedAt": "2026-09-03T12:17:30.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
+      "summary": "The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks. The post AI Agent Firewall Startup AIR Security Emerges From Stealth…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "publishedAt": "2026-09-03T11:58:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+      "publishedAt": "2026-09-03T10:43:01.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
+      "summary": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+      "publishedAt": "2026-09-03T10:40:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+      "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+      "publishedAt": "2026-09-03T10:36:39.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "การใช้ AI มาใช้ในการพัฒนาและปรับแต่ง Exploit ช่องโหว่บนอุปกรณ์ WAGO PLC",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post การใช้ AI มาใช้ในการพัฒนาและปรับแต่ง Exploit ช่องโหว่บนอุปกรณ์ WAGO PLC first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/03/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-ai-%e0%b8%a1%e0%b8%b2%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b9%83%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2/",
+      "publishedAt": "2026-09-03T09:54:05.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+      "publishedAt": "2026-09-03T08:43:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "WatchGuard แก้ช่องโหว่ Critical 5 รายการใน Fireware OS และ Dimension",
+      "summary": "483/69 (IT) ประจำวันพฤหัสบดีที่ 3 กันยายน 2569 WatchGua […] The post WatchGuard แก้ช่องโหว่ Critical 5 รายการใน Fireware OS และ Dimension first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/03/watchguard-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-critical-5-%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%99-firew/",
+      "publishedAt": "2026-09-03T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Aesto Health แจ้งเหตุข้อมูลรั่วไหล กระทบข้อมูลสุขภาพกว่า 9.5 ล้านราย หลัง AWS Infrastructure ถูกเข้าถึง",
+      "summary": "482/69 (IT) ประจำวันพฤหัสบดีที่ 3 กันยายน 2569 Aesto He […] The post Aesto Health แจ้งเหตุข้อมูลรั่วไหล กระทบข้อมูลสุขภาพกว่า 9.5 ล้านราย หลัง AWS Infrastructure ถูกเข้าถึง first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/03/aesto-health-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab/",
+      "publishedAt": "2026-09-03T08:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "เตือนภัยแคมเปญ Phishing อ้างชื่อ Adobe หลอกติดตั้ง Faronics Deploy เพื่อยึดระบบ",
+      "summary": "481/69 (IT) ประจำวันพฤหัสบดีที่ 3 กันยายน 2569 นักวิจัย […] The post เตือนภัยแคมเปญ Phishing อ้างชื่อ Adobe หลอกติดตั้ง Faronics Deploy เพื่อยึดระบบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/03/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d-phishing-%e0%b8%ad%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%8a%e0%b8%b7%e0%b9%88/",
+      "publishedAt": "2026-09-03T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "publishedAt": "2026-09-03T06:26:59.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "publishedAt": "2026-09-03T05:19:04.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
       "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
@@ -98,14 +290,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Dropbox accounts breached through Lenovo email verification flaw",
-      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-      "publishedAt": "2026-09-02T12:30:22.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
       "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators…",
       "source": "The Hacker News",
@@ -114,35 +298,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
-      "summary": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation. The post Exploit Published for Fresh Cleo Harmony Vulnerability appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
-      "publishedAt": "2026-09-02T12:18:15.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Malicious Virtualizor Update Served via BGP Hijacking",
-      "summary": "Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates. The post Malicious Virtualizor Update Served via BGP Hijacking appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
-      "publishedAt": "2026-09-02T11:31:36.000Z",
-      "category": "pqc"
-    },
-    {
       "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
       "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
       "publishedAt": "2026-09-02T10:53:49.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days",
-      "summary": "The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems. The post OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
-      "publishedAt": "2026-09-02T10:38:13.000Z",
       "category": "kill-chain"
     },
     {
@@ -154,172 +314,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "publishedAt": "2026-09-02T09:06:48.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "23-Year-Old Sality P2P Botnet Disrupted",
-      "summary": "The shutdown operation involved peer list manipulation and Sality payload URL takedown. The post 23-Year-Old Sality P2P Botnet Disrupted appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/",
-      "publishedAt": "2026-09-02T08:38:00.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "แฮกเกอร์ขโมยข้อมูลตัวตนและข้อมูลทะเบียนรถจากหน่วยงานความปลอดภัยทางถนนของลัตเวีย",
       "summary": "479/69 (IT) ประจำวันพุธที่ 2 กันยายน 2569 Road Traffic […] The post แฮกเกอร์ขโมยข้อมูลตัวตนและข้อมูลทะเบียนรถจากหน่วยงานความปลอดภัยทางถนนของลัตเวีย first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
       "source": "ThaiCERT/ETDA",
       "url": "https://www.thaicert.or.th/2026/09/02/%e0%b9%81%e0%b8%ae%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%82%e0%b9%82%e0%b8%a1%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%95/",
       "publishedAt": "2026-09-02T08:01:00.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "publishedAt": "2026-09-02T08:00:43.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "มัลแวร์ ValleyRAT แฝงตัวใน Adware เพื่อหลอกเจาะระบบและขโมยข้อมูลผู้ใช้งาน",
-      "summary": "478/69 (IT) ประจำวันพุธที่ 2 กันยายน 2569 นักวิจัยจาก K […] The post มัลแวร์ ValleyRAT แฝงตัวใน Adware เพื่อหลอกเจาะระบบและขโมยข้อมูลผู้ใช้งาน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/02/%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-valleyrat-%e0%b9%81%e0%b8%9d%e0%b8%87%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%99-adware-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad/",
-      "publishedAt": "2026-09-02T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "publishedAt": "2026-09-02T07:47:13.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "publishedAt": "2026-09-02T07:08:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "publishedAt": "2026-09-02T06:56:30.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "publishedAt": "2026-09-02T06:39:29.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
-      "summary": "The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution. The post SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
-      "publishedAt": "2026-09-02T05:04:52.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน! พบ 5 ช่องโหว่ใน WordPress Plugin และ Theme เสี่ยงถูกยึดเว็บไซต์และรันโค้ดอันตราย",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! พบ 5 ช่องโหว่ใน WordPress Plugin และ Theme เสี่ยงถูกยึดเว็บไซต์และรันโค้ดอันตราย first appeared on Thailand Computer Emergency Response…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/02/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a-5-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-wordp/",
-      "publishedAt": "2026-09-02T02:14:14.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
-      "summary": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
-      "publishedAt": "2026-09-02T01:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
-      "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
-      "publishedAt": "2026-09-01T21:05:53.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
-      "summary": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
-      "publishedAt": "2026-09-01T21:03:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-      "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-      "publishedAt": "2026-09-01T20:53:23.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
-      "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
-      "publishedAt": "2026-09-01T20:48:52.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
-      "summary": "In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
-      "publishedAt": "2026-09-01T20:13:09.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Aesto Health says data breach affects over 9.5 million patients",
-      "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-      "publishedAt": "2026-09-01T19:28:17.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "publishedAt": "2026-09-01T17:54:22.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score:…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "publishedAt": "2026-09-01T17:53:11.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "publishedAt": "2026-09-01T17:19:24.000Z",
-      "category": "kill-chain"
     }
   ]
 }
