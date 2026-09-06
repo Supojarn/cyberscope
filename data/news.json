@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-09-05T00:46:16.089Z",
+  "generatedAt": "2026-09-06T00:45:05.811Z",
   "items": [
+    {
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "publishedAt": "2026-09-05T20:14:47.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "publishedAt": "2026-09-05T16:52:33.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "publishedAt": "2026-09-05T14:17:02.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+      "summary": "Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions. The post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+      "publishedAt": "2026-09-05T13:00:28.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+      "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\"…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+      "publishedAt": "2026-09-05T11:11:50.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+      "publishedAt": "2026-09-05T07:55:10.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+      "publishedAt": "2026-09-05T07:31:53.000Z",
+      "category": "pqc"
+    },
     {
       "title": "IDScan sued over alleged data breach affecting 153 million drivers",
       "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
@@ -218,14 +274,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "publishedAt": "2026-09-03T14:52:20.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
       "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S.…",
       "source": "The Hacker News",
@@ -240,14 +288,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
       "publishedAt": "2026-09-03T14:38:49.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-      "publishedAt": "2026-09-03T13:50:59.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
@@ -280,46 +320,6 @@
       "url": "https://www.thaicert.or.th/2026/09/03/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-ai-%e0%b8%a1%e0%b8%b2%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b9%83%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2/",
       "publishedAt": "2026-09-03T09:54:05.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "publishedAt": "2026-09-03T08:43:17.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "WatchGuard แก้ช่องโหว่ Critical 5 รายการใน Fireware OS และ Dimension",
-      "summary": "483/69 (IT) ประจำวันพฤหัสบดีที่ 3 กันยายน 2569 WatchGua […] The post WatchGuard แก้ช่องโหว่ Critical 5 รายการใน Fireware OS และ Dimension first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/03/watchguard-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-critical-5-%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%99-firew/",
-      "publishedAt": "2026-09-03T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Aesto Health แจ้งเหตุข้อมูลรั่วไหล กระทบข้อมูลสุขภาพกว่า 9.5 ล้านราย หลัง AWS Infrastructure ถูกเข้าถึง",
-      "summary": "482/69 (IT) ประจำวันพฤหัสบดีที่ 3 กันยายน 2569 Aesto He […] The post Aesto Health แจ้งเหตุข้อมูลรั่วไหล กระทบข้อมูลสุขภาพกว่า 9.5 ล้านราย หลัง AWS Infrastructure ถูกเข้าถึง first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/03/aesto-health-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab/",
-      "publishedAt": "2026-09-03T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "เตือนภัยแคมเปญ Phishing อ้างชื่อ Adobe หลอกติดตั้ง Faronics Deploy เพื่อยึดระบบ",
-      "summary": "481/69 (IT) ประจำวันพฤหัสบดีที่ 3 กันยายน 2569 นักวิจัย […] The post เตือนภัยแคมเปญ Phishing อ้างชื่อ Adobe หลอกติดตั้ง Faronics Deploy เพื่อยึดระบบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/03/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d-phishing-%e0%b8%ad%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%8a%e0%b8%b7%e0%b9%88/",
-      "publishedAt": "2026-09-03T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "publishedAt": "2026-09-03T06:26:59.000Z",
-      "category": "kill-chain"
     }
   ]
 }

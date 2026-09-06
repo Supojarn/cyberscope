@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T00:46:50.474Z",
+  "generatedAt": "2026-09-06T00:45:07.457Z",
   "items": [
     {
       "id": "CVE-2026-85046",
@@ -182,6 +182,28 @@
       "ransomware": false
     },
     {
+      "id": "CVE-2026-75430",
+      "description": "PowerJob Worker version 5.1.2 (and likely earlier versions) exposes the /worker/deployContainer HTTP endpoint without authentication on the default transport port. This allows a remote attacker to execute arbitrary code.",
+      "score": 9.8,
+      "severity": "critical",
+      "published": "2026-09-04T17:16:57.767Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-75430",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-31020",
+      "description": "In DocsGPT 0.15.0 and below, the application provides a custom prompt feature that allows users to define prompt content used during chatbot interactions. This functionality renders user-supplied prompt data using Jinja templates without input sanitization or…",
+      "score": 9.8,
+      "severity": "critical",
+      "published": "2026-09-04T17:16:56.910Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-31020",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
       "id": "CVE-2026-44402",
       "description": "Voltronic Power SNMP Web Pro 1.1 contains an unauthenticated remote code execution vulnerability in the upload.cgi firmware update endpoint that allows remote attackers to execute arbitrary commands as root by uploading a crafted tar archive without valid…",
       "score": 9.8,
@@ -281,17 +303,6 @@
       "vendorProduct": null
     },
     {
-      "id": "CVE-2026-85595",
-      "description": "Traefik versions before v2.11.55 contain an authentication bypass vulnerability in the digestAuth middleware where unknown usernames receive an empty secret instead of rejection. Attackers can compute a valid digest response using the empty secret and…",
-      "score": 9.3,
-      "severity": "critical",
-      "published": "2026-09-04T12:17:22.960Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85595",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
       "id": "CVE-2026-75431",
       "description": "PowerJob Server version 5.1.2 (and likely earlier) uses a predictable JWT signing key for HS256-based authentication. This allows a remote attacker to execute arbitrary code.",
       "score": 9.1,
@@ -336,24 +347,13 @@
       "vendorProduct": null
     },
     {
-      "id": "CVE-2026-85184",
-      "description": "@fastify/middie versions >= 9.1.0 and before 9.3.4 decide whether to run path-scoped middleware by matching against the raw request target, while the Fastify router resolves an absolute-form request target to its path before dispatching. Because the two…",
-      "score": 9.1,
-      "severity": "critical",
-      "published": "2026-09-04T10:17:13.900Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85184",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-19298",
-      "description": "IBM Langflow OSS 1.0.0 through 1.11.2 could allow a remote authenticated attacker to execute arbitrary code due to an authorization bypass in the flow build process.",
+      "id": "CVE-2026-18486",
+      "description": "IBM ContextForge MCP Gateway <= v1.0.7 MCP Context Forge could allow a remote authenticated attacker to obtain sensitive credentials and escalate privileges due to improper validation of jq filters.",
       "score": 8.8,
       "severity": "high",
-      "published": "2026-09-04T16:17:21.900Z",
+      "published": "2026-09-04T17:16:56.420Z",
       "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19298",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18486",
       "kev": false,
       "vendorProduct": null
     },
@@ -369,6 +369,17 @@
       "vendorProduct": null
     },
     {
+      "id": "CVE-2026-85730",
+      "description": "smol-toml is a small, fast, and correct TOML parser and serializer. Prior to 1.7.1, parse() can enter an infinite loop when a value inside an array or inline table is followed by a comment with no trailing newline. In src/util.ts, skipUntil() calls…",
+      "score": 8.2,
+      "severity": "high",
+      "published": "2026-09-04T16:18:23.417Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85730",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
       "id": "CVE-2026-77822",
       "description": "IBM ContextForge MCP Gateway could allow a remote authenticated attacker to obtain sensitive information due to server-side request forgery via DNS rebinding.",
       "score": 8.2,
@@ -376,6 +387,28 @@
       "published": "2026-09-04T16:17:59.550Z",
       "source": "NVD",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-77822",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-18221",
+      "description": "IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to gain unauthorized access due to improper validation of client-supplied authentication parameters.",
+      "score": 8.1,
+      "severity": "high",
+      "published": "2026-09-04T17:16:56.150Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18221",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-18175",
+      "description": "IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote attacker to manipulate database transactions due to improper authorization in the DDM target dispatcher.",
+      "score": 8.1,
+      "severity": "high",
+      "published": "2026-09-04T17:16:56.010Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18175",
       "kev": false,
       "vendorProduct": null
     },
@@ -413,46 +446,13 @@
       "vendorProduct": null
     },
     {
-      "id": "CVE-2026-19283",
-      "description": "IBM Observability with Instana (Agent) Build 1.0.303 through 1.0.323 IBM Instana Agent Operator could allow an authenticated remote attacker to obtain sensitive information, caused by missing destination namespace validation when copying etcd mTLS client…",
-      "score": 7.7,
+      "id": "CVE-2026-18489",
+      "description": "IBM ContextForge MCP Gateway - Translate utility <= 1.0.8 MCP Context Forge could allow a remote attacker to obtain sensitive information from other sessions due to exposure of data elements to the wrong session.",
+      "score": 7.4,
       "severity": "high",
-      "published": "2026-09-04T16:17:21.777Z",
+      "published": "2026-09-04T17:16:56.550Z",
       "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19283",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-18905",
-      "description": "IBM ContextForge MCP Gateway (`mcp-contextforge-gateway`) <= v1.0.6 MCP Context Forge could allow a remote authenticated attacker to obtain sensitive information due to a DNS rebinding vulnerability during tool invocation.",
-      "score": 7.7,
-      "severity": "high",
-      "published": "2026-09-04T16:17:21.517Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18905",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-19300",
-      "description": "IBM Langflow OSS 1.0.0 through 1.11.2 could allow a remote attacker to obtain sensitive information due to incomplete scrubbing of sensitive credential fields.",
-      "score": 7.5,
-      "severity": "high",
-      "published": "2026-09-04T16:17:22.167Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19300",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2022-35499",
-      "description": "In Trimble TM4WEB 21.4.0.4, the external bill viewer endpoint is vulnerable to reflected cross-site scripting via injection in a arbitrary parameter appended to the URL.",
-      "score": 7.1,
-      "severity": "high",
-      "published": "2026-09-04T16:17:19.963Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-35499",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18489",
       "kev": false,
       "vendorProduct": null
     }
