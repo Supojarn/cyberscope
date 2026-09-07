@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-06T00:45:05.811Z",
+  "generatedAt": "2026-09-07T00:48:13.302Z",
   "items": [
+    {
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+      "publishedAt": "2026-09-06T14:23:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "publishedAt": "2026-09-06T09:32:38.000Z",
+      "category": "pqc"
+    },
     {
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
       "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec…",
@@ -304,22 +320,6 @@
       "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
       "publishedAt": "2026-09-03T10:43:01.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-      "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-      "publishedAt": "2026-09-03T10:36:39.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "การใช้ AI มาใช้ในการพัฒนาและปรับแต่ง Exploit ช่องโหว่บนอุปกรณ์ WAGO PLC",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post การใช้ AI มาใช้ในการพัฒนาและปรับแต่ง Exploit ช่องโหว่บนอุปกรณ์ WAGO PLC first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/03/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-ai-%e0%b8%a1%e0%b8%b2%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b9%83%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2/",
-      "publishedAt": "2026-09-03T09:54:05.000Z",
-      "category": "thailand"
     }
   ]
 }
