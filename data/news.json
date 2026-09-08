@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-09-07T00:48:13.302Z",
+  "generatedAt": "2026-09-08T01:02:28.457Z",
   "items": [
+    {
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "publishedAt": "2026-09-07T18:12:09.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+      "publishedAt": "2026-09-07T16:50:29.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "publishedAt": "2026-09-07T15:39:51.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+      "publishedAt": "2026-09-07T14:36:07.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "publishedAt": "2026-09-07T13:05:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "publishedAt": "2026-09-07T12:16:32.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+      "summary": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges. The post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+      "publishedAt": "2026-09-07T12:15:57.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+      "summary": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance. The post North Korean Hackers Deploy New Linux Espionage Toolkit appeared first…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
+      "publishedAt": "2026-09-07T12:12:08.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI Agents Hijack Another Victim Website",
+      "summary": "OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach. The post OpenAI Agents Hijack Another Victim Website appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
+      "publishedAt": "2026-09-07T12:03:04.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "summary": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores. The post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+      "publishedAt": "2026-09-07T11:58:37.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+      "summary": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used in Worm-Like Campaign appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
+      "publishedAt": "2026-09-07T11:45:48.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "publishedAt": "2026-09-07T11:20:14.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "publishedAt": "2026-09-07T10:32:40.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "publishedAt": "2026-09-07T10:06:38.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "พบการโจมตีช่องโหว่ StyleSmuggler ใน Magento และ Adobe Commerce เสี่ยงรันโค้ดและฝัง Backdoor",
+      "summary": "489/69 (IT) ประจำวันจันทร์ที่ 7 กันยายน 2569 Sansec เปิ […] The post พบการโจมตีช่องโหว่ StyleSmuggler ใน Magento และ Adobe Commerce เสี่ยงรันโค้ดและฝัง Backdoor first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/07/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-stylesmuggler-%e0%b9%83%e0%b8%99-mage/",
+      "publishedAt": "2026-09-07T08:32:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "publishedAt": "2026-09-07T08:31:12.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Broadcom ออกแพตช์แก้ช่องโหว่ VM Escape ระดับ Critical ใน VMware Workstation และ Fusion",
+      "summary": "488/69 (IT) ประจำวันจันทร์ที่ 7 กันยายน 2569 Broadcom เ […] The post Broadcom ออกแพตช์แก้ช่องโหว่ VM Escape ระดับ Critical ใน VMware Workstation และ Fusion first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/07/broadcom-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-vm-escape-%e0%b8%a3/",
+      "publishedAt": "2026-09-07T08:31:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "ตรวจพบการโจมตีผ่านช่องโหว่บนอุปกรณ์ MikroTik ควบคุมระบบได้โดยไม่ต้องยืนยันตัวตน",
+      "summary": "487/69 (IT) ประจำวันจันทร์ที่ 7 กันยายน 2569 CERT Polsk […] The post ตรวจพบการโจมตีผ่านช่องโหว่บนอุปกรณ์ MikroTik ควบคุมระบบได้โดยไม่ต้องยืนยันตัวตน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/07/%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87/",
+      "publishedAt": "2026-09-07T08:30:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "publishedAt": "2026-09-07T07:53:04.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือนช่องโหว่ Zero-Day “FalconFlank” ใน CrowdStrike Falcon",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ Zero-Day “FalconFlank” ใน CrowdStrike Falcon first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/07/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-falconflank-%e0%b9%83%e0%b8%99-cr/",
+      "publishedAt": "2026-09-07T07:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แจ้งเตือน! อัปเดตช่องโหว่ความปลอดภัย 24 รายการ บนระบบปฏิบัติการเครือข่าย HPE ArubaOS-CX เสี่ยงต่อการถูกยึดระบบ",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! อัปเดตช่องโหว่ความปลอดภัย 24 รายการ บนระบบปฏิบัติการเครือข่าย HPE ArubaOS-CX เสี่ยงต่อการถูกยึดระบบ first appeared on Thailand Computer…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/07/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7/",
+      "publishedAt": "2026-09-07T04:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ใน Google Chrome ถูกนำไปใช้โจมตีจริงแล้ว ขอให้ผู้ดูแลระบบเร่งอัปเดตเพื่อป้องกันการโจมตี",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ใน Google Chrome ถูกนำไปใช้โจมตีจริงแล้ว ขอให้ผู้ดูแลระบบเร่งอัปเดตเพื่อป้องกันการโจมตี first appeared on Thailand Computer…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/07/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-google-chrome-%e0%b8%96/",
+      "publishedAt": "2026-09-07T02:30:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "Attackers conceal phishing lures using invisible Unicode characters",
       "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
@@ -56,6 +232,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
       "publishedAt": "2026-09-05T11:11:50.000Z",
       "category": "ai-security"
+    },
+    {
+      "title": "ช่องโหว่ใน Cisco Nexus 9000 เสี่ยงถูกสั่งรันโค้ดระดับ Root และช่องโหว่ Secure Email อาจเปิดเผยข้อมูลอีเมล ผู้ดูแลระบบควรเร่งอัปเดต",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post ช่องโหว่ใน Cisco Nexus 9000 เสี่ยงถูกสั่งรันโค้ดระดับ Root และช่องโหว่ Secure Email อาจเปิดเผยข้อมูลอีเมล ผู้ดูแลระบบควรเร่งอัปเดต first appeared on…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/05/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-cisco-nexus-9000-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b8%aa/",
+      "publishedAt": "2026-09-05T08:00:00.000Z",
+      "category": "thailand"
     },
     {
       "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
@@ -122,14 +306,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "publishedAt": "2026-09-04T13:22:01.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Insurers Search for Answers to Rein in Rogue AI",
       "summary": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
       "source": "Dark Reading",
@@ -138,188 +314,12 @@
       "category": "ai-security"
     },
     {
-      "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
-      "summary": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. The post 12-Year-Old PostgreSQL Vulnerability Enables…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
-      "publishedAt": "2026-09-04T12:06:13.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "publishedAt": "2026-09-04T11:48:17.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
-      "summary": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updates Patch Critical Vulnerability appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
-      "publishedAt": "2026-09-04T11:42:55.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Google Patches 6th Chrome Zero-Day of 2026",
-      "summary": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chrome Zero-Day of 2026 appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
-      "publishedAt": "2026-09-04T11:31:52.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) -…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "publishedAt": "2026-09-04T08:48:45.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ช่องโหว่ใน All-in-One WP Migration and Backup เสี่ยงรันโค้ดบนเว็บไซต์ WordPress",
-      "summary": "486/69 (IT) ประจำวันศุกร์ที่ 4 กันยายน 2569 พบรายงานช่อ […] The post ช่องโหว่ใน All-in-One WP Migration and Backup เสี่ยงรันโค้ดบนเว็บไซต์ WordPress first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "title": "พบช่องโหว่ในปลั๊กอิน All-in-One WP Migration บน WordPress เร่งอัปเดตเป็นเวอร์ชัน 7.110 ทันที",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post พบช่องโหว่ในปลั๊กอิน All-in-One WP Migration บน WordPress เร่งอัปเดตเป็นเวอร์ชัน 7.110 ทันที first appeared on Thailand Computer Emergency Response…",
       "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/04/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-all-in-one-wp-migration-and-backup-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%a3%e0%b8%b1/",
-      "publishedAt": "2026-09-04T08:02:00.000Z",
+      "url": "https://www.thaicert.or.th/2026/09/04/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b8%a5%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b8%ad%e0%b8%b4%e0%b8%99-all-in-one-wp-migra/",
+      "publishedAt": "2026-09-04T09:20:00.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "SonicWall ออกแพตช์แก้ 2 ช่องโหว่ Zero-Day ใน SMA 1000 VPN หลังพบถูกใช้โจมตี",
-      "summary": "485/69 (IT) ประจำวันศุกร์ที่ 4 กันยายน 2569 SonicWall อ […] The post SonicWall ออกแพตช์แก้ 2 ช่องโหว่ Zero-Day ใน SMA 1000 VPN หลังพบถูกใช้โจมตี first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/04/sonicwall-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b9%81%e0%b8%81%e0%b9%89-2-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day/",
-      "publishedAt": "2026-09-04T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "เตรียมรับมือ OpenAI ยืนยันแล้ว AI โมเดล Astra สามารถค้นหาช่องโหว่ Zero-day และสร้างโค้ดโจมตีได้โดยอัตโนมัติ",
-      "summary": "484/69 (IT) ประจำวันศุกร์ที่ 4 กันยายน 2569 บริษัท Open […] The post เตรียมรับมือ OpenAI ยืนยันแล้ว AI โมเดล Astra สามารถค้นหาช่องโหว่ Zero-day และสร้างโค้ดโจมตีได้โดยอัตโนมัติ first appeared on Thailand Computer…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/04/%e0%b9%80%e0%b8%95%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b7%e0%b8%ad-openai-%e0%b8%a2%e0%b8%b7%e0%b8%99%e0%b8%a2%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89/",
-      "publishedAt": "2026-09-04T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8),…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-      "publishedAt": "2026-09-04T07:18:47.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-      "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-      "publishedAt": "2026-09-04T06:47:52.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "เตือนภัย! ช่องโหว่บน Microsoft Exchange Server เสี่ยงถูกเข้าถึงกล่องอีเมล",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือนภัย! ช่องโหว่บน Microsoft Exchange Server เสี่ยงถูกเข้าถึงกล่องอีเมล first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/04/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%9a%e0%b8%99-microsoft-exchange-server-%e0%b9%80/",
-      "publishedAt": "2026-09-04T05:11:29.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "🚨 แจ้งเตือนช่องโหว่ใน Langflow และ Ruby on Rails เสี่ยงถูกรันโค้ดและขโมยข้อมูลสำคัญ",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post 🚨 แจ้งเตือนช่องโหว่ใน Langflow และ Ruby on Rails เสี่ยงถูกรันโค้ดและขโมยข้อมูลสำคัญ first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/04/%f0%9f%9a%a8-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-langflow/",
-      "publishedAt": "2026-09-04T01:59:07.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-      "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-      "publishedAt": "2026-09-03T22:01:37.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Large Enterprises Targeted in Fake Merger & Acquisition Scams",
-      "summary": "Threat actors behind the \"Phantom Deal\" campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
-      "publishedAt": "2026-09-03T20:18:14.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Coder's registry infrastructure compromised to push malicious modules",
-      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-      "publishedAt": "2026-09-03T20:04:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated…",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
-      "publishedAt": "2026-09-03T19:42:39.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-      "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "publishedAt": "2026-09-03T18:28:12.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-      "publishedAt": "2026-09-03T18:02:47.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-      "publishedAt": "2026-09-03T15:26:47.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "publishedAt": "2026-09-03T14:39:05.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
-      "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
-      "publishedAt": "2026-09-03T14:38:49.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "publishedAt": "2026-09-03T11:58:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "publishedAt": "2026-09-03T10:43:01.000Z",
-      "category": "kill-chain"
     }
   ]
 }
