@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-09-12T00:58:34.414Z",
+  "generatedAt": "2026-09-13T00:43:34.758Z",
   "items": [
+    {
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV)…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "publishedAt": "2026-09-12T15:54:45.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "publishedAt": "2026-09-12T14:14:32.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+      "summary": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
+      "publishedAt": "2026-09-12T11:10:00.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+      "publishedAt": "2026-09-12T09:07:56.000Z",
+      "category": "ai-security"
+    },
     {
       "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
       "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
@@ -162,22 +194,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
-      "summary": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthropic Says Russian Hackers Used Claude AI to Automate Malware…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-      "publishedAt": "2026-09-11T08:47:07.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
-      "summary": "A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide. The post PaperCut Flaws Exploited in AI-Powered Attacks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-      "publishedAt": "2026-09-11T08:18:23.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "พบการใช้ช่องโหว่ Fortinet โจมตีอุปกรณ์เพื่อติดตั้งมัลแวร์ PivotC2",
       "summary": "501/69 (IT) ประจำวันศุกร์ที่ 11 กันยายน 2569 นักวิจัยจา […] The post พบการใช้ช่องโหว่ Fortinet โจมตีอุปกรณ์เพื่อติดตั้งมัลแวร์ PivotC2 first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
       "source": "ThaiCERT/ETDA",
@@ -304,22 +320,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
       "publishedAt": "2026-09-10T15:55:56.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
-      "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
-      "publishedAt": "2026-09-10T15:43:58.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
-      "summary": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
-      "publishedAt": "2026-09-10T15:29:12.000Z",
-      "category": "kill-chain"
     }
   ]
 }

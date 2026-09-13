@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T01:01:40.497Z",
+  "generatedAt": "2026-09-13T00:43:35.842Z",
   "items": [
     {
       "id": "CVE-2026-84869",
@@ -180,6 +180,270 @@
       "kev": true,
       "vendorProduct": "Google Chromium V8",
       "ransomware": false
+    },
+    {
+      "id": "CVE-2026-87520",
+      "description": "Use after free in Dawn in Google Chrome on on Android prior to 153.0.8010.36 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:09.137Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87520",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87512",
+      "description": "Use after free in ANGLE in Google Chrome on on Windows prior to 153.0.8010.36 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:08.267Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87512",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87504",
+      "description": "Use after free in Core in Google Chrome prior to 153.0.8010.36 allowed a remote attacker leveraging social engineering to execute arbitrary code outside the sandbox via a crafted Chrome extension. (Chromium security severity: Medium)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:07.347Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87504",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87500",
+      "description": "Improper validation of array index in ANGLE in Google Chrome prior to 153.0.8010.36 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:06.900Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87500",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87494",
+      "description": "Use after free in Browser in Google Chrome on on Windows prior to 153.0.8010.36 allowed a remote attacker leveraging social engineering to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:06.207Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87494",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87492",
+      "description": "Incorrect authorization in DevTools in Google Chrome prior to 153.0.8010.36 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:05.993Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87492",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87488",
+      "description": "Use after free in WebGL in Google Chrome on on Android prior to 153.0.8010.36 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Critical)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:05.557Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87488",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87474",
+      "description": "Use after free in Payments in Google Chrome prior to 153.0.8010.36 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:03.990Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87474",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87470",
+      "description": "Improper quantity validation in Tint in Google Chrome on on Mac prior to 153.0.8010.36 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:03.560Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87470",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87464",
+      "description": "Use after free in WebGL in Google Chrome prior to 153.0.8010.36 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Critical)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:02.907Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87464",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87455",
+      "description": "Use after free in Aura in Google Chrome prior to 153.0.8010.36 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:01.883Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87455",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87448",
+      "description": "Use after free in DevTools in Google Chrome prior to 153.0.8010.36 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Low)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:01.113Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87448",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87438",
+      "description": "Out of bounds write in WebGL in Google Chrome on on Android prior to 153.0.8010.36 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Critical)",
+      "score": 9.6,
+      "severity": "critical",
+      "published": "2026-09-09T01:17:00.027Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87438",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-53939",
+      "description": "OpenIDC/cjose is a C library implementing the Javascript Object Signing and Encryption (JOSE). In versions 0.6.1 through 0.6.2.5, when cjose encrypts a JWE using an AES-CBC-HMAC content-encryption algorithm (`A128CBC-HS256`, `A192CBC-HS384`, or…",
+      "score": 9.1,
+      "severity": "critical",
+      "published": "2026-09-09T00:17:31.700Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53939",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-53581",
+      "description": "OPNsense is a FreeBSD based firewall and routing platform. Prior to version 26.1.9 of opnsense/core and version 26.4_20 of BE/opnsense/core, a path traversal vulnerability in the NTP configuration module allows an attacker to overwrite arbitrary files on the…",
+      "score": 9,
+      "severity": "critical",
+      "published": "2026-09-08T23:17:24.550Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53581",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87489",
+      "description": "Memory corruption in V8 in Google Chrome prior to 153.0.8010.36 allowed a remote attacker to potentially execute arbitrary code inside the sandbox via a crafted Chrome extension. (Chromium security severity: Low)",
+      "score": 8.8,
+      "severity": "high",
+      "published": "2026-09-09T01:17:05.663Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87489",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87510",
+      "description": "Improper input validation in FileAPI in Google Chrome prior to 153.0.8010.36 allowed a remote attacker who had compromised the renderer process to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity:…",
+      "score": 8.3,
+      "severity": "high",
+      "published": "2026-09-09T01:17:08.053Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87510",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87506",
+      "description": "Privilege elevation in WebUI in Google Chrome prior to 153.0.8010.36 allowed a remote attacker who had compromised the renderer process to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
+      "score": 8.3,
+      "severity": "high",
+      "published": "2026-09-09T01:17:07.593Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87506",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87487",
+      "description": "Missing authorization in FileSystem in Google Chrome prior to 153.0.8010.36 allowed a remote attacker who had compromised the renderer process and leveraged social engineering to potentially execute arbitrary code outside the sandbox via a crafted HTML page.…",
+      "score": 8.3,
+      "severity": "high",
+      "published": "2026-09-09T01:17:05.443Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87487",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87481",
+      "description": "Incorrect authorization in WebView in Google Chrome on on Android prior to 153.0.8010.36 allowed a remote attacker who had compromised the renderer process to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security…",
+      "score": 8.3,
+      "severity": "high",
+      "published": "2026-09-09T01:17:04.773Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87481",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87514",
+      "description": "Use after free in Views in Google Chrome prior to 153.0.8010.36 allowed a local attacker to execute arbitrary code outside the sandbox via a local program. (Chromium security severity: High)",
+      "score": 8.1,
+      "severity": "high",
+      "published": "2026-09-09T01:17:08.477Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87514",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87509",
+      "description": "Incorrect authorization in Updater in Google Chrome on on Windows prior to 153.0.8010.36 allowed a local attacker to execute arbitrary code outside the sandbox via a local program. (Chromium security severity: Low)",
+      "score": 8.1,
+      "severity": "high",
+      "published": "2026-09-09T01:17:07.943Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87509",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87505",
+      "description": "Incorrect authorization in FileSystem in Google Chrome prior to 153.0.8010.36 allowed a remote attacker who had compromised the renderer process to bypass site isolation via a crafted PDF file. (Chromium security severity: Medium)",
+      "score": 8.1,
+      "severity": "high",
+      "published": "2026-09-09T01:17:07.473Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87505",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-87499",
+      "description": "Incorrect authorization in Network in Google Chrome prior to 153.0.8010.36 allowed a remote attacker who had compromised the renderer process to bypass site isolation via a crafted HTML page. (Chromium security severity: High)",
+      "score": 8.1,
+      "severity": "high",
+      "published": "2026-09-09T01:17:06.797Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87499",
+      "kev": false,
+      "vendorProduct": null
     }
   ]
 }
