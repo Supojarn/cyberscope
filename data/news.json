@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-09-13T00:43:34.758Z",
+  "generatedAt": "2026-09-14T00:50:53.301Z",
   "items": [
+    {
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+      "publishedAt": "2026-09-13T14:26:32.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ใน Fortinet FortiOS ถูกใช้โจมตีจริง เพื่อติดตั้ง PivotC2 RAT แนะนำให้อัปเดตแพตช์และตรวจสอบการบุกรุกโดยทันที",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ใน Fortinet FortiOS ถูกใช้โจมตีจริง เพื่อติดตั้ง PivotC2 RAT แนะนำให้อัปเดตแพตช์และตรวจสอบการบุกรุกโดยทันที first appeared on…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/13/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-fortinet-fortios-%e0%b8%96/",
+      "publishedAt": "2026-09-13T11:30:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+      "publishedAt": "2026-09-13T10:11:48.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft ออกอัปเดตแก้ไขช่องโหว่ประจำเดือนกันยายน 2026",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post Microsoft ออกอัปเดตแก้ไขช่องโหว่ประจำเดือนกันยายน 2026 first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/13/microsoft-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7/",
+      "publishedAt": "2026-09-13T03:30:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV)…",
@@ -16,6 +48,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
       "publishedAt": "2026-09-12T14:14:32.000Z",
       "category": "kill-chain"
+    },
+    {
+      "title": "ช่องโหว่ระดับ Critical ในผลิตภัณฑ์ enterprise security ของ Ivanti เสี่ยงถูกรันคำสั่งอันตรายและข้ามผ่านการยืนยันตัวตน",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post ช่องโหว่ระดับ Critical ในผลิตภัณฑ์ enterprise security ของ Ivanti เสี่ยงถูกรันคำสั่งอันตรายและข้ามผ่านการยืนยันตัวตน first appeared on Thailand…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/12/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-critical-%e0%b9%83%e0%b8%99%e0%b8%9c%e0%b8%a5%e0%b8%b4%e0%b8%95%e0%b8%a0%e0%b8%b1/",
+      "publishedAt": "2026-09-12T11:30:00.000Z",
+      "category": "thailand"
     },
     {
       "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
@@ -186,14 +226,6 @@
       "category": "thailand"
     },
     {
-      "title": "Surfshark Systems Targeted by Hackers",
-      "summary": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-      "publishedAt": "2026-09-11T09:41:03.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "พบการใช้ช่องโหว่ Fortinet โจมตีอุปกรณ์เพื่อติดตั้งมัลแวร์ PivotC2",
       "summary": "501/69 (IT) ประจำวันศุกร์ที่ 11 กันยายน 2569 นักวิจัยจา […] The post พบการใช้ช่องโหว่ Fortinet โจมตีอุปกรณ์เพื่อติดตั้งมัลแวร์ PivotC2 first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
       "source": "ThaiCERT/ETDA",
@@ -288,38 +320,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
       "publishedAt": "2026-09-10T21:40:43.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
-      "summary": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
-      "publishedAt": "2026-09-10T20:36:03.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
-      "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
-      "publishedAt": "2026-09-10T19:15:07.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
-      "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
-      "publishedAt": "2026-09-10T17:47:38.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-      "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-      "publishedAt": "2026-09-10T15:55:56.000Z",
-      "category": "ai-security"
     }
   ]
 }
