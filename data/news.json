@@ -1,6 +1,198 @@
 {
-  "generatedAt": "2026-09-14T00:50:53.301Z",
+  "generatedAt": "2026-09-15T01:17:16.329Z",
   "items": [
+    {
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "summary": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+      "publishedAt": "2026-09-14T21:37:28.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "publishedAt": "2026-09-14T20:36:02.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
+      "summary": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
+      "publishedAt": "2026-09-14T20:19:22.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "publishedAt": "2026-09-14T19:51:04.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "publishedAt": "2026-09-14T18:34:16.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "publishedAt": "2026-09-14T18:01:49.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "publishedAt": "2026-09-14T16:56:30.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "publishedAt": "2026-09-14T16:15:58.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "publishedAt": "2026-09-14T14:40:34.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
+      "summary": "China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI. The post Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
+      "publishedAt": "2026-09-14T14:28:26.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Personal, Financial Info Exposed in Revolut Data Breach",
+      "summary": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
+      "publishedAt": "2026-09-14T13:03:35.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "publishedAt": "2026-09-14T12:15:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "publishedAt": "2026-09-14T11:58:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
+      "summary": "The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely. The post Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
+      "publishedAt": "2026-09-14T11:51:29.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISOs Race to Control AI Agents Without Destroying Their Value",
+      "summary": "Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm. The post CISOs Race to Control AI Agents Without Destroying Their Value appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/",
+      "publishedAt": "2026-09-14T10:30:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Telus Warns Customers of Account Breaches",
+      "summary": "Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
+      "publishedAt": "2026-09-14T09:56:57.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
+      "summary": "The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator. The post Three JFrog Artifactory Flaws Exploited for Backdoor Deployment appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/",
+      "publishedAt": "2026-09-14T09:27:29.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "ช่องโหว่ใน Artifactory ถูกใช้โจมตีเพื่อยกระดับสิทธิ์และฝัง Backdoor บนเซิร์ฟเวอร์",
+      "summary": "503/69 (IT) ประจำวันจันทร์ที่ 14 กันยายน 2569 รายงานว่า […] The post ช่องโหว่ใน Artifactory ถูกใช้โจมตีเพื่อยกระดับสิทธิ์และฝัง Backdoor บนเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/14/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-artifactory-%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95/",
+      "publishedAt": "2026-09-14T09:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แฮกเกอร์ใช้ช่องโหว่ในแอปพลิเคชันของ Tencent เพื่อแพร่กระจายมัลแวร์ GrayRabbit",
+      "summary": "502/69 (IT) ประจำวันจันทร์ที่ 14 กันยายน 2569 นักวิจัยด […] The post แฮกเกอร์ใช้ช่องโหว่ในแอปพลิเคชันของ Tencent เพื่อแพร่กระจายมัลแวร์ GrayRabbit first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/14/%e0%b9%81%e0%b8%ae%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99%e0%b9%81/",
+      "publishedAt": "2026-09-14T09:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Revolut discloses data breach exposing financial info, passports",
+      "summary": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+      "publishedAt": "2026-09-14T08:48:24.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks",
+      "summary": "The flaw allows attackers to send files and execute them without authorization through an active remote session. The post ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
+      "publishedAt": "2026-09-14T08:25:14.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ด่วน! พบแคมเปญฟิชชิงแอบอ้างให้อัปเดต Passkey, MFA และ SSO มุ่งขโมยบัญชีและข้อมูล Microsoft 365 ผู้ใช้งานควรเพิ่มความระมัดระวัง",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post ด่วน! พบแคมเปญฟิชชิงแอบอ้างให้อัปเดต Passkey, MFA และ SSO มุ่งขโมยบัญชีและข้อมูล Microsoft 365 ผู้ใช้งานควรเพิ่มความระมัดระวัง first appeared on…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/14/%e0%b8%94%e0%b9%88%e0%b8%a7%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d%e0%b8%9f%e0%b8%b4%e0%b8%8a%e0%b8%8a%e0%b8%b4%e0%b8%87%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b8%ad/",
+      "publishedAt": "2026-09-14T08:13:46.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
+      "publishedAt": "2026-09-14T07:06:27.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ WatchGuard Firebox ถูกใช้โจมตีด้วยแรนซัมแวร์ แนะนำผู้ดูแลระบบเร่งอัปเดตแพตช์และตรวจสอบการบุกรุกทันที",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ WatchGuard Firebox ถูกใช้โจมตีด้วยแรนซัมแวร์ แนะนำผู้ดูแลระบบเร่งอัปเดตแพตช์และตรวจสอบการบุกรุกทันที first appeared on Thailand…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/14/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-watchguard-firebox-%e0%b8%96%e0%b8%b9/",
+      "publishedAt": "2026-09-14T02:30:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
       "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
@@ -58,14 +250,6 @@
       "category": "thailand"
     },
     {
-      "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
-      "summary": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
-      "publishedAt": "2026-09-12T11:10:00.000Z",
-      "category": "pqc"
-    },
-    {
       "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
       "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12,…",
       "source": "The Hacker News",
@@ -82,14 +266,6 @@
       "category": "pqc"
     },
     {
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "publishedAt": "2026-09-11T19:00:29.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
       "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
       "source": "Dark Reading",
@@ -98,20 +274,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "publishedAt": "2026-09-11T17:26:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
-      "summary": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
-      "publishedAt": "2026-09-11T17:23:36.000Z",
-      "category": "kill-chain"
+      "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
+      "summary": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
+      "publishedAt": "2026-09-11T18:27:28.000Z",
+      "category": "ai-security"
     },
     {
       "title": "AI Governance Can't Wait",
@@ -130,22 +298,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "publishedAt": "2026-09-11T16:29:44.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
-      "summary": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
-      "publishedAt": "2026-09-11T16:11:08.000Z",
-      "category": "pqc"
-    },
-    {
       "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
       "summary": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
       "source": "Dark Reading",
@@ -162,163 +314,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
-      "summary": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
-      "publishedAt": "2026-09-11T14:19:18.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
       "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
       "publishedAt": "2026-09-11T14:10:20.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "publishedAt": "2026-09-11T14:01:11.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
-      "summary": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
-      "publishedAt": "2026-09-11T12:48:04.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
-      "summary": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023. The post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
-      "publishedAt": "2026-09-11T11:29:09.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "publishedAt": "2026-09-11T11:15:22.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Check Point Patches Critical VPN Vulnerabilities",
-      "summary": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
-      "publishedAt": "2026-09-11T11:10:02.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน! ช่องโหว่ใน FortiMonitor OnSight Chrome Extension เสี่ยงข้ามการยืนยันตัวตนและส่งต่อทราฟฟิกผ่านเบราว์เซอร์",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ใน FortiMonitor OnSight Chrome Extension เสี่ยงข้ามการยืนยันตัวตนและส่งต่อทราฟฟิกผ่านเบราว์เซอร์ first appeared on Thailand…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/11/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-fortimonitor-onsight-chrom/",
-      "publishedAt": "2026-09-11T10:12:32.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "พบการใช้ช่องโหว่ Fortinet โจมตีอุปกรณ์เพื่อติดตั้งมัลแวร์ PivotC2",
-      "summary": "501/69 (IT) ประจำวันศุกร์ที่ 11 กันยายน 2569 นักวิจัยจา […] The post พบการใช้ช่องโหว่ Fortinet โจมตีอุปกรณ์เพื่อติดตั้งมัลแวร์ PivotC2 first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/11/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-fortinet-%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5/",
-      "publishedAt": "2026-09-11T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Trezor เตือนลูกค้าระวัง Phishing หลังผู้ให้บริการ Email ภายนอกถูกเจาะระบบ",
-      "summary": "500/69 (IT) ประจำวันศุกร์ที่ 11 กันยายน 2569 Trezor ผู้ […] The post Trezor เตือนลูกค้าระวัง Phishing หลังผู้ให้บริการ Email ภายนอกถูกเจาะระบบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/11/trezor-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%84%e0%b9%89%e0%b8%b2%e0%b8%a3%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%87-phishing-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87/",
-      "publishedAt": "2026-09-11T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ช่องโหว่ในหูฟังไร้สาย Skullcandy Dime 3 เสี่ยงถูกแฮ็กผ่านบลูทูธและดักฟังเสียงโดยไม่ได้รับอนุญาต",
-      "summary": "499/69 (IT) ประจำวันศุกร์ที่ 11 กันยายน 2569 หน่วยงาน C […] The post ช่องโหว่ในหูฟังไร้สาย Skullcandy Dime 3 เสี่ยงถูกแฮ็กผ่านบลูทูธและดักฟังเสียงโดยไม่ได้รับอนุญาต first appeared on Thailand Computer Emergency Response…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/11/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99%e0%b8%ab%e0%b8%b9%e0%b8%9f%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%89%e0%b8%aa%e0%b8%b2%e0%b8%a2-skullcandy/",
-      "publishedAt": "2026-09-11T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "publishedAt": "2026-09-11T07:55:15.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "publishedAt": "2026-09-11T07:31:05.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-      "publishedAt": "2026-09-11T07:14:09.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Conti ransomware gang member sentenced to 4 years in prison",
-      "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-      "publishedAt": "2026-09-11T06:48:37.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-      "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
-      "publishedAt": "2026-09-11T06:46:18.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-      "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-      "publishedAt": "2026-09-11T06:19:59.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน! ช่องโหว่ระดับ Critical ใน SAP Kernel เสี่ยงถูกรันคำสั่งอันตรายบนระบบ",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ระดับ Critical ใน SAP Kernel เสี่ยงถูกรันคำสั่งอันตรายบนระบบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/11/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-3/",
-      "publishedAt": "2026-09-11T02:12:22.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
-      "summary": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
-      "publishedAt": "2026-09-11T01:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New Android malware encrypts files, steals data, and harasses victims",
-      "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
-      "publishedAt": "2026-09-10T21:40:43.000Z",
       "category": "kill-chain"
     }
   ]
