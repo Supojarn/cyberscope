@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-15T01:20:22.615Z",
+  "generatedAt": "2026-09-16T01:14:16.160Z",
   "items": [
+    {
+      "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
+      "summary": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens",
+      "publishedAt": "2026-09-15T12:00:00.000Z"
+    },
     {
       "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
       "summary": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
@@ -98,13 +105,6 @@
       "source": "NIST Cybersecurity Insights",
       "url": "https://www.nist.gov/blogs/cybersecurity-insights/reflections-second-nist-cyber-ai-profile-workshop",
       "publishedAt": "2026-03-23T12:00:00.000Z"
-    },
-    {
-      "title": "All aboard: the NIST Cybersecurity for IoT Program is headed to our next stop! Share your input on where we’re headed during our Future Directions Two-Day…",
-      "summary": "Workshop Details… We’re looking forward to hearing from the community during our “Future Directions” Workshop! Date: March 31 - April 1, 2026 Where: NIST’s Gaithersburg campus! Registration and Details: HERE Can’t make…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/all-aboard-nist-cybersecurity-iot-program-headed-our-next-stop-share",
-      "publishedAt": "2026-03-20T12:00:00.000Z"
     }
   ]
 }
