@@ -1,6 +1,198 @@
 {
-  "generatedAt": "2026-09-17T01:13:17.578Z",
+  "generatedAt": "2026-09-18T01:08:21.839Z",
   "items": [
+    {
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "publishedAt": "2026-09-17T21:50:26.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+      "summary": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+      "publishedAt": "2026-09-17T21:23:50.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
+      "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
+      "publishedAt": "2026-09-17T19:15:38.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+      "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+      "publishedAt": "2026-09-17T18:55:12.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "publishedAt": "2026-09-17T17:11:34.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
+      "summary": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk. The post CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
+      "publishedAt": "2026-09-17T14:28:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "publishedAt": "2026-09-17T14:01:11.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
+      "summary": "Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months. The post Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
+      "publishedAt": "2026-09-17T13:57:41.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
+      "summary": "Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process. The post ISC Patches 14 Vulnerabilities in BIND 9 Security Update appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
+      "publishedAt": "2026-09-17T12:39:28.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
+      "summary": "Research shows attacks on manufacturers rose 40% in early 2026, as ransomware groups increasingly exploit the supply-chain disruption caused by operational shutdowns. The post Ransomware Attacks on Manufacturers Surge…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
+      "publishedAt": "2026-09-17T12:29:53.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "publishedAt": "2026-09-17T11:50:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "publishedAt": "2026-09-17T10:50:53.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "publishedAt": "2026-09-17T10:05:45.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+      "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+      "publishedAt": "2026-09-17T09:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft shares workaround for Windows domain login issues",
+      "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+      "publishedAt": "2026-09-17T08:24:48.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "พบช่องโหว่ในปลั๊กอิน The Events Calendar บน WordPress เสี่ยงถูกใช้รันคำสั่งและยึดเว็บไซต์",
+      "summary": "513/69 (IT) ประจำวันพฤหัสบดีที่ 17 กันยายน 2569 Wordfen […] The post พบช่องโหว่ในปลั๊กอิน The Events Calendar บน WordPress เสี่ยงถูกใช้รันคำสั่งและยึดเว็บไซต์ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/17/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b8%a5%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b8%ad%e0%b8%b4%e0%b8%99-the-events-calendar/",
+      "publishedAt": "2026-09-17T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Google ออกแพตช์ Android Zero-Day บนอุปกรณ์ Pixel หลังพบการโจมตี",
+      "summary": "512/69 (IT) ประจำวันพฤหัสบดีที่ 17 กันยายน 2569 Google […] The post Google ออกแพตช์ Android Zero-Day บนอุปกรณ์ Pixel หลังพบการโจมตี first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/17/google-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c-android-zero-day-%e0%b8%9a%e0%b8%99%e0%b8%ad%e0%b8%b8%e0%b8%9b%e0%b8%81%e0%b8%a3%e0%b8%93%e0%b9%8c-pixel-%e0%b8%ab/",
+      "publishedAt": "2026-09-17T08:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "พบมัลแวร์ KREMLIN โจมตีผู้ใช้งานเบราว์เซอร์ Chrome และ Edge เพื่อขโมยข้อมูลบัญชีธนาคาร",
+      "summary": "511/69 (IT) ประจำวันพฤหัสบดีที่ 17 กันยายน 2569 นักวิจั […] The post พบมัลแวร์ KREMLIN โจมตีผู้ใช้งานเบราว์เซอร์ Chrome และ Edge เพื่อขโมยข้อมูลบัญชีธนาคาร first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/17/%e0%b8%9e%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-kremlin-%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87/",
+      "publishedAt": "2026-09-17T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
+      "summary": "New research from Irregular shows AI agents can retrain and redeploy their own underlying models during routine maintenance tasks. The post AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
+      "publishedAt": "2026-09-17T07:41:29.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+      "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+      "publishedAt": "2026-09-17T07:30:01.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+      "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+      "publishedAt": "2026-09-17T07:20:54.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+      "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+      "publishedAt": "2026-09-17T06:39:40.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "พบการโจมตีช่องโหว่บน JFrog Artifactory, ConnectWise ScreenConnect และ MikroTik RouterOS เร่งอัปเดตแพตช์ความปลอดภัยทันที",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post พบการโจมตีช่องโหว่บน JFrog Artifactory, ConnectWise ScreenConnect และ MikroTik RouterOS เร่งอัปเดตแพตช์ความปลอดภัยทันที first appeared on Thailand…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/17/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%9a%e0%b8%99-jfrog-artifactory/",
+      "publishedAt": "2026-09-17T03:55:19.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ที่มีการเปิดเผยแล้ว ยังคงเป็นเป้าหมายหลักของผู้โจมตี แนะองค์กรเร่งตรวจสอบและแก้ไขช่องโหว่ที่ถูกใช้โจมตีจริง",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ที่มีการเปิดเผยแล้ว ยังคงเป็นเป้าหมายหลักของผู้โจมตี แนะองค์กรเร่งตรวจสอบและแก้ไขช่องโหว่ที่ถูกใช้โจมตีจริง first appeared on…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/17/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5/",
+      "publishedAt": "2026-09-17T01:30:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
       "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
@@ -50,14 +242,6 @@
       "category": "ai-security"
     },
     {
-      "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
-      "summary": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks. The post First Agentic AI Data Breach…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
-      "publishedAt": "2026-09-16T16:39:19.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
       "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS…",
       "source": "The Hacker News",
@@ -74,51 +258,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media",
-      "summary": "Ursula von der Leyen warns that advanced AI could unleash hacking on an unprecedented scale as Europe prepares new protections against social media’s “capture” of children. The post EU Chief Warns of AI-Powered Hacking,…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/",
-      "publishedAt": "2026-09-16T14:15:18.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "The true cost of a ransomware attack, with and without BCDR",
       "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can…",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
       "publishedAt": "2026-09-16T14:00:10.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AIUC Raises $40 Million to Certify Enterprise AI Agents",
-      "summary": "The company provides a standard for AI systems, testing them against risks such as jailbreaks, prompt injections, and unauthorized actions. The post AIUC Raises $40 Million to Certify Enterprise AI Agents appeared first…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/",
-      "publishedAt": "2026-09-16T13:38:36.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks",
-      "summary": "Google announced patches for the exploited privilege escalation vulnerability (CVE-2026-58704) on September 15. The post Pixel Modem Zero-Day Exploited in Targeted Attacks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
-      "publishedAt": "2026-09-16T13:10:54.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
-      "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
-      "publishedAt": "2026-09-16T12:11:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "US, UK, Dutch Agencies Expose Iranian ‘Chosen Brick’ Surveillance Malware",
-      "summary": "US, UK, and Dutch government agencies published a report detailing the malware, and the FBI described the abuse of Telegram for C&C. The post US, UK, Dutch Agencies Expose Iranian ‘Chosen Brick’ Surveillance Malware…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/",
-      "publishedAt": "2026-09-16T12:00:14.000Z",
       "category": "kill-chain"
     },
     {
@@ -146,35 +290,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-      "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-      "publishedAt": "2026-09-16T11:14:28.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackuity Raises $19 Million for AI-Powered Vulnerability Management",
-      "summary": "The company will use the new capital to expand its vulnerability operations platform and support international growth. The post Hackuity Raises $19 Million for AI-Powered Vulnerability Management appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
-      "publishedAt": "2026-09-16T11:11:23.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
       "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score:…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
       "publishedAt": "2026-09-16T11:08:54.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "280,000 Impacted by Premier Medical Group Data Breach",
-      "summary": "In June 2026, hackers accessed files containing patients’ names, contact information, diagnosis details, and health insurance information. The post 280,000 Impacted by Premier Medical Group Data Breach appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/",
-      "publishedAt": "2026-09-16T10:47:18.000Z",
       "category": "kill-chain"
     },
     {
@@ -200,126 +320,6 @@
       "url": "https://www.thaicert.or.th/2026/09/16/%e0%b8%9a%e0%b8%b1%e0%b8%8d%e0%b8%8a%e0%b8%b5-reddit-%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%82%e0%b8%ad%e0%b8%87-hbo-max-%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b9%80%e0%b8%88%e0%b8%b2/",
       "publishedAt": "2026-09-16T08:00:00.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-      "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "publishedAt": "2026-09-16T07:00:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "publishedAt": "2026-09-16T05:48:28.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "publishedAt": "2026-09-16T05:18:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "เตือนภัย Ransomware และแฮกเกอร์เจาะช่องโหว่ Cisco Secure FMC ยึดสิทธิ์เพื่อขโมยข้อมูล และเรียกค่าไถ่",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือนภัย Ransomware และแฮกเกอร์เจาะช่องโหว่ Cisco Secure FMC ยึดสิทธิ์เพื่อขโมยข้อมูล และเรียกค่าไถ่ first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/16/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-ransomware-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%81%e0%b8%ae%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80/",
-      "publishedAt": "2026-09-16T05:16:49.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Cyber Op Targets South Korean Media & Automotive Sectors",
-      "summary": "A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
-      "publishedAt": "2026-09-16T01:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
-      "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
-      "publishedAt": "2026-09-15T21:37:35.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-      "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-      "publishedAt": "2026-09-15T20:34:15.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-      "publishedAt": "2026-09-15T18:54:14.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
-      "summary": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
-      "publishedAt": "2026-09-15T16:45:37.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
-      "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
-      "publishedAt": "2026-09-15T16:40:14.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-      "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-      "publishedAt": "2026-09-15T16:29:51.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-      "publishedAt": "2026-09-15T15:23:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
-      "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
-      "publishedAt": "2026-09-15T15:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "publishedAt": "2026-09-15T11:52:28.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "publishedAt": "2026-09-15T11:26:36.000Z",
-      "category": "kill-chain"
     }
   ]
 }
