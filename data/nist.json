@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-18T01:09:05.539Z",
+  "generatedAt": "2026-09-19T01:03:20.426Z",
   "items": [
+    {
+      "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
+      "summary": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
+      "publishedAt": "2026-09-18T12:00:00.000Z"
+    },
     {
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "summary": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
@@ -98,13 +105,6 @@
       "source": "NIST Cybersecurity Insights",
       "url": "https://www.nist.gov/blogs/cybersecurity-insights/dmv-wallet-understanding-verifiable-digital-credential-issuance",
       "publishedAt": "2026-04-28T12:00:00.000Z"
-    },
-    {
-      "title": "Reflections from the Second NIST Cyber AI Profile Workshop",
-      "summary": "Thank you to everyone who participated in the Cybersecurity Framework Profile for Artificial Intelligence (Cyber AI Profile) Workshop in January! The input we received on the Preliminary Draft during this workshop has…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/reflections-second-nist-cyber-ai-profile-workshop",
-      "publishedAt": "2026-03-23T12:00:00.000Z"
     }
   ]
 }
