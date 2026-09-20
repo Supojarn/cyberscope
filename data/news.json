@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-09-19T01:03:08.272Z",
+  "generatedAt": "2026-09-20T00:52:00.199Z",
   "items": [
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "publishedAt": "2026-09-19T13:48:32.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "publishedAt": "2026-09-19T13:28:48.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "publishedAt": "2026-09-19T13:28:41.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "publishedAt": "2026-09-19T09:31:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "publishedAt": "2026-09-19T08:18:54.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "publishedAt": "2026-09-19T07:51:34.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "publishedAt": "2026-09-19T06:24:10.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
       "summary": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.",
@@ -250,22 +306,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "publishedAt": "2026-09-17T14:01:11.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "publishedAt": "2026-09-17T11:50:00.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
       "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents…",
       "source": "The Hacker News",
@@ -279,46 +319,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
       "publishedAt": "2026-09-17T10:05:45.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "publishedAt": "2026-09-17T09:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "พบช่องโหว่ในปลั๊กอิน The Events Calendar บน WordPress เสี่ยงถูกใช้รันคำสั่งและยึดเว็บไซต์",
-      "summary": "513/69 (IT) ประจำวันพฤหัสบดีที่ 17 กันยายน 2569 Wordfen […] The post พบช่องโหว่ในปลั๊กอิน The Events Calendar บน WordPress เสี่ยงถูกใช้รันคำสั่งและยึดเว็บไซต์ first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/17/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b8%a5%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b8%ad%e0%b8%b4%e0%b8%99-the-events-calendar/",
-      "publishedAt": "2026-09-17T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Google ออกแพตช์ Android Zero-Day บนอุปกรณ์ Pixel หลังพบการโจมตี",
-      "summary": "512/69 (IT) ประจำวันพฤหัสบดีที่ 17 กันยายน 2569 Google […] The post Google ออกแพตช์ Android Zero-Day บนอุปกรณ์ Pixel หลังพบการโจมตี first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/17/google-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c-android-zero-day-%e0%b8%9a%e0%b8%99%e0%b8%ad%e0%b8%b8%e0%b8%9b%e0%b8%81%e0%b8%a3%e0%b8%93%e0%b9%8c-pixel-%e0%b8%ab/",
-      "publishedAt": "2026-09-17T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "พบมัลแวร์ KREMLIN โจมตีผู้ใช้งานเบราว์เซอร์ Chrome และ Edge เพื่อขโมยข้อมูลบัญชีธนาคาร",
-      "summary": "511/69 (IT) ประจำวันพฤหัสบดีที่ 17 กันยายน 2569 นักวิจั […] The post พบมัลแวร์ KREMLIN โจมตีผู้ใช้งานเบราว์เซอร์ Chrome และ Edge เพื่อขโมยข้อมูลบัญชีธนาคาร first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/17/%e0%b8%9e%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-kremlin-%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87/",
-      "publishedAt": "2026-09-17T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-      "publishedAt": "2026-09-17T07:30:01.000Z",
       "category": "kill-chain"
     }
   ]
