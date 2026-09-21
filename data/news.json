@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-20T00:52:00.199Z",
+  "generatedAt": "2026-09-21T00:56:30.735Z",
   "items": [
+    {
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "publishedAt": "2026-09-20T14:11:21.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
       "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
@@ -34,6 +42,14 @@
       "category": "kill-chain"
     },
     {
+      "title": "แจ้งเตือน! ช่องโหว่ Zero-Day ใน Cisco ISE ถูกใช้โจมตีจริง เสี่ยงข้ามการยืนยันตัวตนและเข้าควบคุมระบบ",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ Zero-Day ใน Cisco ISE ถูกใช้โจมตีจริง เสี่ยงข้ามการยืนยันตัวตนและเข้าควบคุมระบบ first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/19/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83%e0%b8%99-cisco-ise/",
+      "publishedAt": "2026-09-19T08:45:00.000Z",
+      "category": "thailand"
+    },
+    {
       "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
       "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates…",
       "source": "The Hacker News",
@@ -56,6 +72,14 @@
       "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
       "publishedAt": "2026-09-19T06:24:10.000Z",
       "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ Vite Development Server ถูกใช้โจมตีจริง เสี่ยงเปิดเผยข้อมูลสำคัญ",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ Vite Development Server ถูกใช้โจมตีจริง เสี่ยงเปิดเผยข้อมูลสำคัญ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/19/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-vite-development-server-%e0%b8%96%e0%b8%b9/",
+      "publishedAt": "2026-09-19T03:30:00.000Z",
+      "category": "thailand"
     },
     {
       "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
@@ -274,27 +298,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "publishedAt": "2026-09-17T18:55:12.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
       "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
       "publishedAt": "2026-09-17T18:08:28.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "publishedAt": "2026-09-17T17:11:34.000Z",
       "category": "kill-chain"
     },
     {
@@ -312,14 +320,6 @@
       "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
       "publishedAt": "2026-09-17T10:50:53.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
-      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-      "publishedAt": "2026-09-17T10:05:45.000Z",
-      "category": "kill-chain"
     }
   ]
 }
