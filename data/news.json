@@ -1,6 +1,190 @@
 {
-  "generatedAt": "2026-09-21T00:56:30.735Z",
+  "generatedAt": "2026-09-22T01:31:04.212Z",
   "items": [
+    {
+      "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
+      "summary": "Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
+      "publishedAt": "2026-09-21T21:39:59.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores.…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "publishedAt": "2026-09-21T21:18:49.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "publishedAt": "2026-09-21T20:12:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "publishedAt": "2026-09-21T19:11:26.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "publishedAt": "2026-09-21T18:23:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+      "summary": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+      "publishedAt": "2026-09-21T17:19:53.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "publishedAt": "2026-09-21T17:19:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
+      "summary": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware. The post Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
+      "publishedAt": "2026-09-21T15:46:58.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast",
+      "summary": "Noopur Davis never planned a career in cybersecurity. She was a developer at Intergraph, and for many years that was all she wanted to be. The post CISO Conversations: Noopur Davis – The Accidental Global CISO at…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
+      "publishedAt": "2026-09-21T14:30:00.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "publishedAt": "2026-09-21T14:24:13.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "publishedAt": "2026-09-21T14:15:40.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "publishedAt": "2026-09-21T14:02:12.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "publishedAt": "2026-09-21T13:16:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "RatHat Android Trojan Uses AI for Automation",
+      "summary": "The malware relies on AI for real-time device navigation and control, increasing adaptability and evasion. The post RatHat Android Trojan Uses AI for Automation appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
+      "publishedAt": "2026-09-21T12:51:41.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
+      "summary": "The cybersecurity firm believes the data breach was the result of the May 2026 TanStack supply chain attack. The post CrowdSec Confirms Source Code Stolen in Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
+      "publishedAt": "2026-09-21T10:55:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
+      "summary": "Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory. The post Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
+      "publishedAt": "2026-09-21T09:31:12.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ช่องโหว่ใน SolarWinds Access Rights Manager เสี่ยงถูกรันคำสั่งโดยไม่ต้องยืนยันตัวตน",
+      "summary": "519/69 (IT) ประจำวันจันทร์ที่ 21 กันยายน 2569 SolarWind […] The post ช่องโหว่ใน SolarWinds Access Rights Manager เสี่ยงถูกรันคำสั่งโดยไม่ต้องยืนยันตัวตน first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/21/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-solarwinds-access-rights-manager-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%96%e0%b8%b9/",
+      "publishedAt": "2026-09-21T09:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "นักวิจัยเผย AI ช่วยเร่งพัฒนา Exploit ช่องโหว่ Discourse จนยึดบัญชี OpenAI Staff ได้ผ่านระบบ SSO",
+      "summary": "518/69 (IT) ประจำวันจันทร์ที่ 21 กันยายน 2569 นักวิจัยจ […] The post นักวิจัยเผย AI ช่วยเร่งพัฒนา Exploit ช่องโหว่ Discourse จนยึดบัญชี OpenAI Staff ได้ผ่านระบบ SSO first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/21/%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a7%e0%b8%b4%e0%b8%88%e0%b8%b1%e0%b8%a2%e0%b9%80%e0%b8%9c%e0%b8%a2-ai-%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%a2%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%9e%e0%b8%b1/",
+      "publishedAt": "2026-09-21T09:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "publishedAt": "2026-09-21T08:39:38.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Google Confirms Gemini AI Breached Three Firms",
+      "summary": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies. The post Google Confirms Gemini AI Breached Three Firms appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
+      "publishedAt": "2026-09-21T07:20:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "publishedAt": "2026-09-21T06:06:44.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ใน Docker Sandboxes บน macOS เสี่ยงถูกอ่านหรือแก้ไขไฟล์บนเครื่องหลัก ผู้ใช้งานควรอัปเดตทันที",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ใน Docker Sandboxes บน macOS เสี่ยงถูกอ่านหรือแก้ไขไฟล์บนเครื่องหลัก ผู้ใช้งานควรอัปเดตทันที first appeared on Thailand Computer…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/21/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-docker-sandboxes-%e0%b8%9a/",
+      "publishedAt": "2026-09-21T03:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ใน MongoDB Server เสี่ยงถูกเข้าถึงระบบฐานข้อมูลโดยไม่ได้รับอนุญาต",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ใน MongoDB Server เสี่ยงถูกเข้าถึงระบบฐานข้อมูลโดยไม่ได้รับอนุญาต first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/21/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-mongodb-server-%e0%b9%80/",
+      "publishedAt": "2026-09-21T02:22:43.000Z",
+      "category": "thailand"
+    },
     {
       "title": "Malicious npm packages evade install-script defenses at runtime",
       "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation…",
@@ -114,52 +298,12 @@
       "category": "pqc"
     },
     {
-      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-      "publishedAt": "2026-09-18T16:00:38.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
       "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
       "publishedAt": "2026-09-18T15:24:16.000Z",
       "category": "pqc"
-    },
-    {
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "publishedAt": "2026-09-18T15:19:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
-      "summary": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited. The post In Other News: Ransomware Developer…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
-      "publishedAt": "2026-09-18T14:25:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "publishedAt": "2026-09-18T13:58:40.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "publishedAt": "2026-09-18T13:10:19.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
@@ -170,156 +314,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
-      "summary": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. The post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
-      "publishedAt": "2026-09-18T12:45:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "23 Million User Records Compromised in Gyazo Data Breach",
-      "summary": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access. The post 23 Million User Records Compromised in Gyazo Data Breach appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
-      "publishedAt": "2026-09-18T11:38:40.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
       "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware,…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
       "publishedAt": "2026-09-18T10:40:06.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
-      "summary": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
-      "publishedAt": "2026-09-18T09:46:57.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "publishedAt": "2026-09-18T09:34:33.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "publishedAt": "2026-09-18T09:18:03.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
-      "summary": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions. The post Critical Orkes Conductor Vulnerability Exploited in Attacks appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
-      "publishedAt": "2026-09-18T08:42:18.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ISC แก้ไขช่องโหว่ใน BIND 9 เสี่ยงกระทบการให้บริการและความถูกต้องของข้อมูล DNS",
-      "summary": "516/69 (IT) ประจำวันศุกร์ที่ 18 กันยายน 2569 Internet S […] The post ISC แก้ไขช่องโหว่ใน BIND 9 เสี่ยงกระทบการให้บริการและความถูกต้องของข้อมูล DNS first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/18/isc-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-bind-9-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2/",
-      "publishedAt": "2026-09-18T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "พบมัลแวร์ BambooToken อาศัยโปรโตคอล MQTT ควบคุมระบบ Windows และ Linux เพื่อหลบเลี่ยงการตรวจจับ",
-      "summary": "514/69 (IT) ประจำวันศุกร์ที่ 18 กันยายน 2569 นักวิจัยด้ […] The post พบมัลแวร์ BambooToken อาศัยโปรโตคอล MQTT ควบคุมระบบ Windows และ Linux เพื่อหลบเลี่ยงการตรวจจับ first appeared on Thailand Computer Emergency Response…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/18/%e0%b8%9e%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-bambootoken-%e0%b8%ad%e0%b8%b2%e0%b8%a8%e0%b8%b1%e0%b8%a2%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%82%e0%b8%95%e0%b8%84/",
-      "publishedAt": "2026-09-18T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "MIND Secures $72 Million for AI-Powered DLP",
-      "summary": "The company will use the funding to accelerate platform development and expand its presence in key enterprise markets. The post MIND Secures $72 Million for AI-Powered DLP appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
-      "publishedAt": "2026-09-18T07:25:27.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
-      "summary": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Check Point, Kaspersky, Tanium Patch Product Vulnerabilities…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
-      "publishedAt": "2026-09-18T07:14:04.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
-      "summary": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
-      "publishedAt": "2026-09-18T07:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "publishedAt": "2026-09-18T06:17:25.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "publishedAt": "2026-09-17T21:50:26.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "summary": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "publishedAt": "2026-09-17T21:23:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
-      "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
-      "publishedAt": "2026-09-17T19:15:38.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "publishedAt": "2026-09-17T18:08:28.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-      "summary": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-      "publishedAt": "2026-09-17T14:03:13.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "publishedAt": "2026-09-17T10:50:53.000Z",
-      "category": "ai-security"
     }
   ]
 }
