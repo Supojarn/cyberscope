@@ -1,6 +1,222 @@
 {
-  "generatedAt": "2026-09-24T01:15:15.813Z",
+  "generatedAt": "2026-09-25T01:17:43.972Z",
   "items": [
+    {
+      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
+      "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+      "publishedAt": "2026-09-24T21:04:03.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "publishedAt": "2026-09-24T20:53:35.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+      "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+      "publishedAt": "2026-09-24T20:32:50.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "publishedAt": "2026-09-24T20:10:48.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
+      "summary": "The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext Security Emerges With $4 Million for AI Agent Runtime Controls appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
+      "publishedAt": "2026-09-24T15:52:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "3 Cyber Threats That Defined the Summer of 2026",
+      "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It…",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+      "publishedAt": "2026-09-24T14:44:12.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
+      "summary": "Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information. The post OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
+      "publishedAt": "2026-09-24T14:43:13.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+      "publishedAt": "2026-09-24T14:02:12.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+      "publishedAt": "2026-09-24T13:27:57.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
+      "summary": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
+      "publishedAt": "2026-09-24T13:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "AI-Powered Campaign Targets Hundreds of Online Retailers",
+      "summary": "A threat actor is using three AI harnesses for vulnerability research, exploitation, and attack orchestration. The post AI-Powered Campaign Targets Hundreds of Online Retailers appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/",
+      "publishedAt": "2026-09-24T12:48:14.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators",
+      "summary": "Revision 4 of NIST’s operational technology security guide is open for public comments until November 30. The post OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
+      "publishedAt": "2026-09-24T11:05:16.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+      "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+      "publishedAt": "2026-09-24T11:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Begin at the End: How to Enable Agentic Remediation",
+      "summary": "Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. The post Begin at the End: How to Enable Agentic Remediation appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
+      "publishedAt": "2026-09-24T11:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+      "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+      "publishedAt": "2026-09-24T10:42:37.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
+      "summary": "The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication. The post SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
+      "publishedAt": "2026-09-24T10:40:40.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
+      "summary": "Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers. The post Astrana Health Data Breach Impacts Private, Confidential Information appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
+      "publishedAt": "2026-09-24T09:56:04.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "publishedAt": "2026-09-24T09:38:53.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+      "publishedAt": "2026-09-24T09:14:21.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+      "summary": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
+      "publishedAt": "2026-09-24T08:38:29.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน ช่องโหว่ใน SolarWinds Access Rights Manager เสี่ยงถูกโจมตีและเข้าควบคุมระบบ",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน ช่องโหว่ใน SolarWinds Access Rights Manager เสี่ยงถูกโจมตีและเข้าควบคุมระบบ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/24/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-solarwinds-access-rights-ma/",
+      "publishedAt": "2026-09-24T08:20:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "ช่องโหว่ Linux Kernel บน Ubuntu เสี่ยงหลุดจาก Container หลังมี Exploit เผยแพร่",
+      "summary": "528/69 (IT) ประจำวันพฤหัสบดีที่ 24 กันยายน 2569 นักวิจั […] The post ช่องโหว่ Linux Kernel บน Ubuntu เสี่ยงหลุดจาก Container หลังมี Exploit เผยแพร่ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/24/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-linux-kernel-%e0%b8%9a%e0%b8%99-ubuntu-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%ab%e0%b8%a5%e0%b8%b8/",
+      "publishedAt": "2026-09-24T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+      "publishedAt": "2026-09-24T07:07:25.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "publishedAt": "2026-09-24T05:36:18.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน ช่องโหว่ใน Check Point Security Management Server ถูกใช้ในการโจมตีจริงแล้ว ขอให้ผู้ดูแลระบบเร่งติดตั้งแพตช์โดยด่วน",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน ช่องโหว่ใน Check Point Security Management Server ถูกใช้ในการโจมตีจริงแล้ว ขอให้ผู้ดูแลระบบเร่งติดตั้งแพตช์โดยด่วน first appeared on…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/24/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-check-point-security-manage/",
+      "publishedAt": "2026-09-24T03:30:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แจ้งเตือนตรวจพบการใช้งานช่องโหว่ความรุนแรงสูงใน Zyxel และ Veeam",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนตรวจพบการใช้งานช่องโหว่ความรุนแรงสูงใน Zyxel และ Veeam first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/24/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87/",
+      "publishedAt": "2026-09-24T02:07:24.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แจ้งเตือน CISA เตือนช่องโหว่ Linux Kernel จำนวน 3 รายการ เสี่ยงถูกยกระดับสิทธิ์และทำให้ระบบเสียหาย",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน CISA เตือนช่องโหว่ Linux Kernel จำนวน 3 รายการ เสี่ยงถูกยกระดับสิทธิ์และทำให้ระบบเสียหาย first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/24/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-cisa-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7/",
+      "publishedAt": "2026-09-24T01:30:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "New RemControl Android banking malware targets users in Europe and Canada",
       "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
@@ -90,27 +306,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "publishedAt": "2026-09-23T14:01:11.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
       "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
       "publishedAt": "2026-09-23T13:52:46.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "publishedAt": "2026-09-23T12:29:53.000Z",
       "category": "kill-chain"
     },
     {
@@ -120,206 +320,6 @@
       "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
       "publishedAt": "2026-09-23T11:47:13.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
-      "summary": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation. The post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
-      "publishedAt": "2026-09-23T11:40:59.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
-      "summary": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets. The post AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
-      "publishedAt": "2026-09-23T11:23:30.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "publishedAt": "2026-09-23T11:12:18.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm",
-      "summary": "Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and block harmful autonomous AI actions. The post Outerlimit Raises $16…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/",
-      "publishedAt": "2026-09-23T10:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
-      "summary": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
-      "publishedAt": "2026-09-23T08:33:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "publishedAt": "2026-09-23T08:29:48.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4,…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "publishedAt": "2026-09-23T08:29:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Ryuk ransomware member sentenced to 24 months in prison",
-      "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-      "publishedAt": "2026-09-23T08:20:05.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft เตือนช่องโหว่ CVE-2026-65660 ใน SharePoint อาจนำไปสู่การรันคำสั่งบนเซิร์ฟเวอร์",
-      "summary": "525/69 (IT) ประจำวันพุธที่ 23 กันยายน 2569 Microsoft ปร […] The post Microsoft เตือนช่องโหว่ CVE-2026-65660 ใน SharePoint อาจนำไปสู่การรันคำสั่งบนเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/23/microsoft-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-cve-2026-65660-%e0%b9%83%e0%b8%99-sharepoint-%e0%b8%ad%e0%b8%b2%e0%b8%88/",
-      "publishedAt": "2026-09-23T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "BigCommerce แจ้งเหตุข้อมูลรั่วไหล หลัง Credential ของแอป Ribon ถูกใช้ฝังสคริปต์อันตรายบนร้านค้าออนไลน์",
-      "summary": "524/69 (IT) ประจำวันพุธที่ 23 กันยายน 2569 BigCommerce […] The post BigCommerce แจ้งเหตุข้อมูลรั่วไหล หลัง Credential ของแอป Ribon ถูกใช้ฝังสคริปต์อันตรายบนร้านค้าออนไลน์ first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/23/bigcommerce-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab/",
-      "publishedAt": "2026-09-23T08:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
-      "summary": "Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution. The post Critical F5 BIG-IP Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
-      "publishedAt": "2026-09-23T07:34:18.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-      "publishedAt": "2026-09-23T07:17:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "publishedAt": "2026-09-23T07:04:40.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "publishedAt": "2026-09-23T05:30:09.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน ช่องโหว่ Click2Shell ใน WordPress เสี่ยงถูกใช้เป็นช่องทางโจมตีและเข้าควบคุมระบบ",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน ช่องโหว่ Click2Shell ใน WordPress เสี่ยงถูกใช้เป็นช่องทางโจมตีและเข้าควบคุมระบบ first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/23/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-click2shell-%e0%b9%83%e0%b8%99-wordpress/",
-      "publishedAt": "2026-09-23T02:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
-      "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
-      "publishedAt": "2026-09-22T21:40:37.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
-      "summary": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
-      "publishedAt": "2026-09-22T21:12:37.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
-      "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases.…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-      "publishedAt": "2026-09-22T20:35:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
-      "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
-      "publishedAt": "2026-09-22T20:02:02.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "publishedAt": "2026-09-22T19:13:29.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows an attacker who can access the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-      "publishedAt": "2026-09-22T18:29:39.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "publishedAt": "2026-09-22T17:58:15.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "publishedAt": "2026-09-22T17:03:31.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "publishedAt": "2026-09-22T16:41:12.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster,…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "publishedAt": "2026-09-22T16:14:04.000Z",
-      "category": "kill-chain"
     }
   ]
 }
