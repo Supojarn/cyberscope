@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-26T01:20:20.474Z",
+  "generatedAt": "2026-09-27T01:14:07.550Z",
   "items": [
+    {
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "publishedAt": "2026-09-26T19:03:34.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "publishedAt": "2026-09-26T18:22:52.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks",
+      "summary": "The US and China agreed to set up a communication mechanism for artificial intelligence-related incidents. The post China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks appeared first…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
+      "publishedAt": "2026-09-26T18:09:28.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+      "publishedAt": "2026-09-26T12:28:41.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+      "summary": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "publishedAt": "2026-09-26T11:46:40.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+      "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+      "publishedAt": "2026-09-26T10:30:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "publishedAt": "2026-09-26T09:55:22.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "publishedAt": "2026-09-26T08:49:53.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
       "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent…",
@@ -194,14 +266,6 @@
       "category": "ai-security"
     },
     {
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "publishedAt": "2026-09-24T20:53:35.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
       "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
       "source": "Dark Reading",
@@ -210,44 +274,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "publishedAt": "2026-09-24T20:10:48.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
-      "summary": "The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext Security Emerges With $4 Million for AI Agent Runtime Controls appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
-      "publishedAt": "2026-09-24T15:52:00.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "3 Cyber Threats That Defined the Summer of 2026",
       "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It…",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
       "publishedAt": "2026-09-24T14:44:12.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
-      "summary": "Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information. The post OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
-      "publishedAt": "2026-09-24T14:43:13.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "publishedAt": "2026-09-24T14:02:12.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
@@ -288,38 +320,6 @@
       "url": "https://www.thaicert.or.th/2026/09/24/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-linux-kernel-%e0%b8%9a%e0%b8%99-ubuntu-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%ab%e0%b8%a5%e0%b8%b8/",
       "publishedAt": "2026-09-24T08:02:00.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "publishedAt": "2026-09-24T07:07:25.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "publishedAt": "2026-09-24T05:36:18.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
-      "summary": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-      "publishedAt": "2026-09-23T20:53:38.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "publishedAt": "2026-09-23T18:06:30.000Z",
-      "category": "kill-chain"
     }
   ]
 }
