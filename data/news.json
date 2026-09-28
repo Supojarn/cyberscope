@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-09-27T01:14:07.550Z",
+  "generatedAt": "2026-09-28T01:28:46.973Z",
   "items": [
+    {
+      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+      "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "publishedAt": "2026-09-27T16:02:37.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "publishedAt": "2026-09-27T14:13:31.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+      "summary": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28. The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+      "publishedAt": "2026-09-27T09:23:09.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "publishedAt": "2026-09-27T07:47:57.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
       "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread…",
@@ -130,14 +162,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-      "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "publishedAt": "2026-09-25T14:51:10.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
       "summary": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign. The affected…",
       "source": "The Hacker News",
@@ -151,14 +175,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
       "publishedAt": "2026-09-25T13:18:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "publishedAt": "2026-09-25T11:35:14.000Z",
       "category": "kill-chain"
     },
     {
@@ -224,14 +240,6 @@
       "url": "https://www.thaicert.or.th/2026/09/25/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-android-rathat-%e0%b8%82%e0%b9%82%e0%b8%a1%e0%b8%a2/",
       "publishedAt": "2026-09-25T07:45:29.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
-      "summary": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-      "publishedAt": "2026-09-25T06:57:40.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "แจ้งเตือน ช่องโหว่ใน Next.js ImageResponse เสี่ยงถูกสั่งรันคำสั่งบนเซิร์ฟเวอร์",
@@ -311,14 +319,6 @@
       "source": "ThaiCERT/ETDA",
       "url": "https://www.thaicert.or.th/2026/09/24/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-solarwinds-access-rights-ma/",
       "publishedAt": "2026-09-24T08:20:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ช่องโหว่ Linux Kernel บน Ubuntu เสี่ยงหลุดจาก Container หลังมี Exploit เผยแพร่",
-      "summary": "528/69 (IT) ประจำวันพฤหัสบดีที่ 24 กันยายน 2569 นักวิจั […] The post ช่องโหว่ Linux Kernel บน Ubuntu เสี่ยงหลุดจาก Container หลังมี Exploit เผยแพร่ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/24/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-linux-kernel-%e0%b8%9a%e0%b8%99-ubuntu-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%ab%e0%b8%a5%e0%b8%b8/",
-      "publishedAt": "2026-09-24T08:02:00.000Z",
       "category": "thailand"
     }
   ]
