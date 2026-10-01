@@ -1,6 +1,230 @@
 {
-  "generatedAt": "2026-09-30T01:54:44.494Z",
+  "generatedAt": "2026-10-01T01:55:02.351Z",
   "items": [
+    {
+      "title": "แจ้งเตือน! พบช่องโหว่ใน Apple CoreGraphics ถูกใช้โจมตีจริง เสี่ยงรันคำสั่งอันตรายบน iPhone, iPad และ Mac",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! พบช่องโหว่ใน Apple CoreGraphics ถูกใช้โจมตีจริง เสี่ยงรันคำสั่งอันตรายบน iPhone, iPad และ Mac first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/01/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-apple-co/",
+      "publishedAt": "2026-10-01T01:30:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
+      "summary": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
+      "publishedAt": "2026-09-30T21:25:47.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "publishedAt": "2026-09-30T20:34:01.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "publishedAt": "2026-09-30T19:49:15.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "publishedAt": "2026-09-30T18:08:34.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "publishedAt": "2026-09-30T16:46:29.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "publishedAt": "2026-09-30T16:32:59.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "publishedAt": "2026-09-30T15:49:29.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "publishedAt": "2026-09-30T15:24:54.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
+      "summary": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
+      "publishedAt": "2026-09-30T15:02:25.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "publishedAt": "2026-09-30T15:00:15.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "publishedAt": "2026-09-30T14:46:40.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
+      "summary": "Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution. The post Google: AI Is Changing the Pace and Profile of Vulnerability Discovery appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
+      "publishedAt": "2026-09-30T14:05:58.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
+      "summary": "WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS. The post WatchGuard Patches Critical Fireware OS Code Injection Vulnerability appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
+      "publishedAt": "2026-09-30T13:16:56.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+      "summary": "Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772. The post Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
+      "publishedAt": "2026-09-30T12:48:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "publishedAt": "2026-09-30T11:58:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
+      "summary": "Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do. The post Anthropic Flags AI Agent Liability Risks as OpenAI Faces…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
+      "publishedAt": "2026-09-30T11:19:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "publishedAt": "2026-09-30T11:11:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
+      "summary": "The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+      "publishedAt": "2026-09-30T10:59:30.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "publishedAt": "2026-09-30T10:45:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "publishedAt": "2026-09-30T08:24:35.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "publishedAt": "2026-09-30T08:09:28.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "พบช่องโหว่ CoreGraphics ในอุปกรณ์ Apple เสี่ยงถูกใช้รันคำสั่งบนอุปกรณ์",
+      "summary": "537/69 (IT) ประจำวันพุธที่ 30 กันยายน 2569 Apple ออกอัป […] The post พบช่องโหว่ CoreGraphics ในอุปกรณ์ Apple เสี่ยงถูกใช้รันคำสั่งบนอุปกรณ์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/30/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-coregraphics-%e0%b9%83%e0%b8%99%e0%b8%ad%e0%b8%b8%e0%b8%9b%e0%b8%81%e0%b8%a3%e0%b8%93%e0%b9%8c-apple/",
+      "publishedAt": "2026-09-30T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Infostealer มุ่งเป้าบัญชี AI องค์กร เสี่ยงเปิดเผย Session, API Key และข้อมูลสำคัญ",
+      "summary": "536/69 (IT) ประจำวันพุธที่ 30 กันยายน 2569 SOCRadar เปิ […] The post Infostealer มุ่งเป้าบัญชี AI องค์กร เสี่ยงเปิดเผย Session, API Key และข้อมูลสำคัญ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/30/infostealer-%e0%b8%a1%e0%b8%b8%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b8%b2%e0%b8%9a%e0%b8%b1%e0%b8%8d%e0%b8%8a%e0%b8%b5-ai-%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b8%81%e0%b8%a3-%e0%b9%80/",
+      "publishedAt": "2026-09-30T08:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "บริษัทรถไฟญี่ปุ่น Keio ถูกโจมตีด้วยแรนซัมแวร์ และ Tokyo Metro พบข้อมูลอีเมลรั่วไหล",
+      "summary": "535/69 (IT) ประจำวันพุธที่ 30 กันยายน 2569 บริษัท Keio […] The post บริษัทรถไฟญี่ปุ่น Keio ถูกโจมตีด้วยแรนซัมแวร์ และ Tokyo Metro พบข้อมูลอีเมลรั่วไหล first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/09/30/%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%a9%e0%b8%b1%e0%b8%97%e0%b8%a3%e0%b8%96%e0%b9%84%e0%b8%9f%e0%b8%8d%e0%b8%b5%e0%b9%88%e0%b8%9b%e0%b8%b8%e0%b9%88%e0%b8%99-keio-%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b9%82/",
+      "publishedAt": "2026-09-30T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
+      "summary": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL",
+      "summary": "Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries. The post High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
+      "publishedAt": "2026-09-30T06:55:50.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "publishedAt": "2026-09-30T05:30:30.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
       "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
@@ -24,14 +248,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
       "publishedAt": "2026-09-29T20:59:39.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
-      "summary": "Altman made a slew of product announcements and updates, including the company’s new agents, called Dots. The post OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
-      "publishedAt": "2026-09-29T20:14:44.000Z",
-      "category": "ai-security"
     },
     {
       "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
@@ -82,14 +298,6 @@
       "category": "pqc"
     },
     {
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "publishedAt": "2026-09-29T15:39:19.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
       "summary": "Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations.",
       "source": "Dark Reading",
@@ -112,214 +320,6 @@
       "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
       "publishedAt": "2026-09-29T14:13:20.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Reco Raises $55 Million for Agentic Security",
-      "summary": "The company will use the funds to expand its sales, partnerships, channels, and customer support teams. The post Reco Raises $55 Million for Agentic Security appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
-      "publishedAt": "2026-09-29T13:20:53.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
-      "summary": "The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense. The post Pentagon Personnel Agency Data Breach Impacts 3 Million People appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
-      "publishedAt": "2026-09-29T12:25:12.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
-      "summary": "Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents The post Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
-      "publishedAt": "2026-09-29T12:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Four Cyber Threats Harboring Big Plans for the Future",
-      "summary": "- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day operations. The post Four Cyber Threats Harboring Big Plans…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
-      "publishedAt": "2026-09-29T11:30:00.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "publishedAt": "2026-09-29T09:04:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "publishedAt": "2026-09-29T07:33:12.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "publishedAt": "2026-09-29T06:08:25.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "publishedAt": "2026-09-29T05:12:32.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "publishedAt": "2026-09-29T04:45:20.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "เตือนภัยไซเบอร์! พบ 4 ช่องโหว่ใน SharePoint, WSO2, Adobe Commerce และ MikroTik ถูกใช้โจมตีจริง เร่งตรวจสอบและอัปเดตทันที",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือนภัยไซเบอร์! พบ 4 ช่องโหว่ใน SharePoint, WSO2, Adobe Commerce และ MikroTik ถูกใช้โจมตีจริง เร่งตรวจสอบและอัปเดตทันที first appeared on Thailand…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/29/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%9e%e0%b8%9a-4-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87/",
-      "publishedAt": "2026-09-29T02:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
-      "summary": "The Open Agent Safety Platform relies on both hardware and software components to monitor agent activities and quarantine unruly agents before they cause harm.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
-      "publishedAt": "2026-09-28T22:02:46.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "One Packet Can Crash OT Servers in Industrial Sectors",
-      "summary": "A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
-      "publishedAt": "2026-09-28T21:13:04.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "publishedAt": "2026-09-28T20:56:47.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "publishedAt": "2026-09-28T20:31:16.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
-      "summary": "The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
-      "publishedAt": "2026-09-28T20:23:58.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "publishedAt": "2026-09-28T19:18:01.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
-      "summary": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
-      "publishedAt": "2026-09-28T18:44:22.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been seen in a small number of targeted…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "publishedAt": "2026-09-28T18:35:42.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "summary": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "publishedAt": "2026-09-28T18:20:38.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. The attacker exploited…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-      "publishedAt": "2026-09-28T17:42:18.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-      "summary": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100 deployments of that console since April…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-      "publishedAt": "2026-09-28T17:38:33.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
-      "summary": "The \"agentic threat actor\" may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
-      "publishedAt": "2026-09-28T15:33:21.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-      "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-      "publishedAt": "2026-09-28T14:00:53.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "เตือน! “SalesBleed” ช่องโหว่ Salesforce Agentforce เสี่ยง AI พาข้อมูลสำคัญรั่วไหลโดยไม่ต้องคลิกลิงก์",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือน! “SalesBleed” ช่องโหว่ Salesforce Agentforce เสี่ยง AI พาข้อมูลสำคัญรั่วไหลโดยไม่ต้องคลิกลิงก์ first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/09/28/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-salesbleed-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-salesforce-agentforce-%e0%b9%80%e0%b8%aa%e0%b8%b5/",
-      "publishedAt": "2026-09-28T13:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "publishedAt": "2026-09-28T11:58:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "publishedAt": "2026-09-28T11:46:00.000Z",
-      "category": "ai-security"
     }
   ]
 }
