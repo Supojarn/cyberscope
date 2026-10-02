@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-01T01:56:43.671Z",
+  "generatedAt": "2026-10-02T02:04:54.882Z",
   "items": [
+    {
+      "title": "Securing Water and Wastewater Operational Technology Environments",
+      "summary": "Recent cyberattacks on the U.S. water and wastewater systems (WWS) sector are highlighting the escalating threat to our nation’s critical infrastructure and the practical challenges of securing it. These incidents…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/securing-water-and-wastewater-operational-technology-environments",
+      "publishedAt": "2026-10-01T12:00:00.000Z"
+    },
     {
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "summary": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -98,13 +105,6 @@
       "source": "NIST Cybersecurity Insights",
       "url": "https://www.nist.gov/blogs/cybersecurity-insights/stronger-cybersecurity-stronger-business-nist-celebrates-2026-national",
       "publishedAt": "2026-05-04T12:00:00.000Z"
-    },
-    {
-      "title": "From DMV to Wallet: Understanding Verifiable Digital Credential Issuance",
-      "summary": "In our last post in this series, we compared two credential formats that shape the digital identity ecosystem: ISO/IEC 18013-5 and -7 mobile documents (mdocs) and W3C Verifiable Credentials (VCs). Both formats define…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/dmv-wallet-understanding-verifiable-digital-credential-issuance",
-      "publishedAt": "2026-04-28T12:00:00.000Z"
     }
   ]
 }
