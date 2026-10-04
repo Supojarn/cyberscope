@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-03T01:48:47.822Z",
+  "generatedAt": "2026-10-04T02:28:25.896Z",
   "items": [
+    {
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "publishedAt": "2026-10-03T14:36:33.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Danish university DTU breach exposes data of up to 200,000 people",
+      "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data.…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+      "publishedAt": "2026-10-03T14:35:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
+      "summary": "doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority. The post doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
+      "publishedAt": "2026-10-03T11:45:00.000Z",
+      "category": "ai-security"
+    },
     {
       "title": "Frontline Education breach exposes school district employee data",
       "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including…",
@@ -218,27 +242,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass",
-      "summary": "Rob Juncker is chief product and technology officer at Mimecast. Is he a hacker? “Unequivocally yes,” he says. The post Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
-      "publishedAt": "2026-10-01T14:30:00.000Z",
-      "category": "pqc"
-    },
-    {
       "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
       "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged…",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
       "publishedAt": "2026-10-01T14:25:14.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "publishedAt": "2026-10-01T13:51:08.000Z",
       "category": "kill-chain"
     },
     {
@@ -271,14 +279,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
       "publishedAt": "2026-10-01T10:33:16.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "publishedAt": "2026-10-01T09:44:28.000Z",
       "category": "kill-chain"
     },
     {
