@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-10-04T02:28:25.896Z",
+  "generatedAt": "2026-10-05T01:45:40.186Z",
   "items": [
+    {
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "publishedAt": "2026-10-04T21:58:01.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "publishedAt": "2026-10-04T10:53:21.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "แจ้งเตือน! มัลแวร์ SC ฝังตัวใน WordPress ลบไม่สำเร็จอาจสร้าง Backdoor กลับมา",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! มัลแวร์ SC ฝังตัวใน WordPress ลบไม่สำเร็จอาจสร้าง Backdoor กลับมา first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/04/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-sc-%e0%b8%9d%e0%b8%b1%e0%b8%87%e0%b8%95%e0%b8%b1/",
+      "publishedAt": "2026-10-04T09:46:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+      "publishedAt": "2026-10-04T07:20:32.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "แจ้งเตือน ช่องโหว่ Zero-Day ใน Zammad เสี่ยงถูกควบคุมระบบและยกระดับสิทธิ์เป็น Root",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน ช่องโหว่ Zero-Day ใน Zammad เสี่ยงถูกควบคุมระบบและยกระดับสิทธิ์เป็น Root first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/04/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83%e0%b8%99-zammad-%e0%b9%80/",
+      "publishedAt": "2026-10-04T06:00:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
       "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and…",
@@ -130,6 +170,14 @@
       "category": "kill-chain"
     },
     {
+      "title": "เตือน! ช่องโหว่ใน OpenSSL เสี่ยงถูกทำให้ระบบหยุดให้บริการและข้อมูลรั่วไหล",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือน! ช่องโหว่ใน OpenSSL เสี่ยงถูกทำให้ระบบหยุดให้บริการและข้อมูลรั่วไหล first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/02/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-openssl-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87/",
+      "publishedAt": "2026-10-02T11:30:00.000Z",
+      "category": "thailand"
+    },
+    {
       "title": "Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks",
       "summary": "The China-based hacking group has been exploiting SharePoint vulnerabilities since July 2025. The post Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks appeared first on SecurityWeek.",
       "source": "SecurityWeek",
@@ -242,14 +290,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "publishedAt": "2026-10-01T14:25:14.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
       "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
       "source": "Dark Reading",
@@ -279,46 +319,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
       "publishedAt": "2026-10-01T10:33:16.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ช่องโหว่ใน TeamViewer Full Client และ Host เสี่ยงถูกรันคำสั่งและยกระดับสิทธิ์",
-      "summary": "540/69 (IT) ประจำวันพฤหัสบดีที่ 1 ตุลาคม 2569 TeamViewe […] The post ช่องโหว่ใน TeamViewer Full Client และ Host เสี่ยงถูกรันคำสั่งและยกระดับสิทธิ์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/01/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-teamviewer-full-client-%e0%b9%81%e0%b8%a5%e0%b8%b0-host-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2/",
-      "publishedAt": "2026-10-01T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
-      "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-      "publishedAt": "2026-10-01T07:49:36.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-      "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals. The trigger is a…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-      "publishedAt": "2026-10-01T05:54:41.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-      "summary": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-      "publishedAt": "2026-10-01T05:21:10.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-      "publishedAt": "2026-10-01T04:35:34.000Z",
       "category": "kill-chain"
     }
   ]
