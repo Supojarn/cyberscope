@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-05T01:45:41.634Z",
+  "generatedAt": "2026-10-06T02:48:49.221Z",
   "items": [
+    {
+      "title": "Introducing the New Small Business Cybersecurity Support Program Finder",
+      "summary": "For small businesses who are often confronted with limited resources, knowing how to get started and where to find support with planning, implementing, or evaluating a cybersecurity risk management strategy can be…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/introducing-new-small-business-cybersecurity-support-program-finder",
+      "publishedAt": "2026-10-05T12:00:00.000Z"
+    },
     {
       "title": "Securing Water and Wastewater Operational Technology Environments",
       "summary": "Recent cyberattacks on the U.S. water and wastewater systems (WWS) sector are highlighting the escalating threat to our nation’s critical infrastructure and the practical challenges of securing it. These incidents…",
@@ -98,13 +105,6 @@
       "source": "NIST News",
       "url": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update",
       "publishedAt": "2026-06-09T12:00:00.000Z"
-    },
-    {
-      "title": "Stronger Cybersecurity, Stronger Business: NIST Celebrates 2026 National Small Business Week",
-      "summary": "Happy National Small Business Week! For over 60 years, the U.S. Small Business Administration has led this initiative to acknowledge the critical contributions of America’s entrepreneurs and small business owners. Part…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/stronger-cybersecurity-stronger-business-nist-celebrates-2026-national",
-      "publishedAt": "2026-05-04T12:00:00.000Z"
     }
   ]
 }
