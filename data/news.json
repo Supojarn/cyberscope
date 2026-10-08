@@ -1,6 +1,254 @@
 {
-  "generatedAt": "2026-10-07T02:11:06.334Z",
+  "generatedAt": "2026-10-08T02:36:40.242Z",
   "items": [
+    {
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "publishedAt": "2026-10-07T23:04:37.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
+      "summary": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+      "publishedAt": "2026-10-07T21:42:55.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "publishedAt": "2026-10-07T21:28:54.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
+      "summary": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
+      "publishedAt": "2026-10-07T21:25:13.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+      "summary": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+      "publishedAt": "2026-10-07T20:51:25.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "publishedAt": "2026-10-07T20:50:13.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
+      "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
+      "publishedAt": "2026-10-07T19:34:08.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+      "publishedAt": "2026-10-07T18:48:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "publishedAt": "2026-10-07T17:43:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "publishedAt": "2026-10-07T15:34:53.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "publishedAt": "2026-10-07T15:33:51.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "publishedAt": "2026-10-07T15:04:08.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
+      "summary": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
+      "publishedAt": "2026-10-07T14:15:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "publishedAt": "2026-10-07T14:01:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
+      "summary": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
+      "publishedAt": "2026-10-07T13:47:12.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
+      "summary": "Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers. The post Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform appeared first…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
+      "publishedAt": "2026-10-07T13:06:10.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "publishedAt": "2026-10-07T12:49:01.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
+      "summary": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+      "publishedAt": "2026-10-07T12:37:24.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "publishedAt": "2026-10-07T11:56:56.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "publishedAt": "2026-10-07T11:49:26.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "publishedAt": "2026-10-07T11:42:24.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "publishedAt": "2026-10-07T10:27:52.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ASOS Confirms Cyberattack, Data Breach",
+      "summary": "Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users. The post ASOS Confirms Cyberattack, Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
+      "publishedAt": "2026-10-07T09:46:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! พบช่องโหว่ความรุนแรงระดับ Critical บน Dell CSM เสี่ยงถูกยึดสิทธิ์ Admin และ Root บน Kubernetes",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! พบช่องโหว่ความรุนแรงระดับ Critical บน Dell CSM เสี่ยงถูกยึดสิทธิ์ Admin และ Root บน Kubernetes first appeared on Thailand Computer…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/07/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%84%e0%b8%a7%e0%b8%b2/",
+      "publishedAt": "2026-10-07T09:30:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "พบช่องโหว่ใน LibreOffice Calc และ Apache OpenOffice Calc เสี่ยงถูกรันคำสั่งบนเครื่องผู้ใช้",
+      "summary": "552/69 (IT) ประจำวันตุลาคมที่ 7 ตุลาคม 2569 นักวิจัยด้า […] The post พบช่องโหว่ใน LibreOffice Calc และ Apache OpenOffice Calc เสี่ยงถูกรันคำสั่งบนเครื่องผู้ใช้ first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/07/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-libreoffice-calc-%e0%b9%81%e0%b8%a5%e0%b8%b0-apache-openoffice-calc-%e0%b9%80%e0%b8%aa/",
+      "publishedAt": "2026-10-07T08:29:22.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Microsoft ออกอัปเดตความปลอดภัยฉุกเฉินอุดช่องโหว่บน Exchange Server ป้องกันการลักลอบอ่านอีเมลภายในองค์กร",
+      "summary": "550/69 (IT) ประจำวันตุลาคมที่ 7 ตุลาคม 2569 บริษัท Micr […] The post Microsoft ออกอัปเดตความปลอดภัยฉุกเฉินอุดช่องโหว่บน Exchange Server ป้องกันการลักลอบอ่านอีเมลภายในองค์กร first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/07/microsoft-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%9b%e0%b8%a5%e0%b8%ad%e0%b8%94%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%89/",
+      "publishedAt": "2026-10-07T08:26:59.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "publishedAt": "2026-10-07T08:07:38.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies",
+      "summary": "Wikimedia looked into whether its own websites had seen activity like that disclosed by other organizations The post Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/",
+      "publishedAt": "2026-10-07T07:58:22.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "publishedAt": "2026-10-07T06:57:54.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Android’s October 2026 Updates Patch 25 Vulnerabilities",
+      "summary": "The patches resolve a critical vulnerability in Android’s System component that could lead to privilege escalation. The post Android’s October 2026 Updates Patch 25 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/",
+      "publishedAt": "2026-10-07T06:55:52.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
+      "summary": "Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory. The post Atlassian Patches Critical Vulnerability Affecting 8 Products appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
+      "publishedAt": "2026-10-07T06:37:16.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
       "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts.…",
@@ -19,7 +267,7 @@
     },
     {
       "title": "Critical Healthcare Systems Aren't Quantum-Ready",
-      "summary": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+      "summary": "A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
       "publishedAt": "2026-10-06T20:30:27.000Z",
@@ -71,254 +319,6 @@
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
       "publishedAt": "2026-10-06T16:59:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment.…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "publishedAt": "2026-10-06T16:33:54.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "publishedAt": "2026-10-06T15:16:44.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
-      "summary": "The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees. The post FBI Blames Contractor’s Missed Patch for ShinyHunters Breach appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
-      "publishedAt": "2026-10-06T14:15:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware",
-      "summary": "An alleged leader of Tren de Aragua’s ATM jackpotting activities, Canelon Aguirre was on the FBI’s top 10 most wanted list since March 2026. The post FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
-      "publishedAt": "2026-10-06T12:47:57.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks",
-      "summary": "Citing growing risks posed by more capable and autonomous AI agents, Apple will introduce additional controls. The post Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/",
-      "publishedAt": "2026-10-06T11:48:59.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "publishedAt": "2026-10-06T11:31:48.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-      "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool,…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-      "publishedAt": "2026-10-06T11:26:25.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
-      "summary": "Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign. The post Long-Running NPM Malware Campaign Accumulates 40,000 Downloads appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
-      "publishedAt": "2026-10-06T10:34:25.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
-      "summary": "Hackers abused a company’s lawful access to the CPR system to steal the personal information of registered citizens. The post 8.8 Million Impacted by Data Breach at Denmark’s Central Person Register appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
-      "publishedAt": "2026-10-06T09:38:30.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-      "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "publishedAt": "2026-10-06T09:25:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-      "publishedAt": "2026-10-06T09:21:47.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Social Engineering Detection Moves Into the Live Conversation",
-      "summary": "Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engineering. The post Social Engineering Detection Moves Into the Live Conversation…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
-      "publishedAt": "2026-10-06T08:38:14.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack.…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-      "publishedAt": "2026-10-06T08:19:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "พบ ClingSTUN ใช้ช่องโหว่กว่า 24 รายการโจมตีอุปกรณ์ Linux ก่อนเปลี่ยนเครื่องที่ถูกบุกรุกเป็น Proxy",
-      "summary": "549/69 (IT) ประจำวันอังคารที่ 6 ตุลาคม 2569 นักวิจัยจาก […] The post พบ ClingSTUN ใช้ช่องโหว่กว่า 24 รายการโจมตีอุปกรณ์ Linux ก่อนเปลี่ยนเครื่องที่ถูกบุกรุกเป็น Proxy first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/06/%e0%b8%9e%e0%b8%9a-clingstun-%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2-24-%e0%b8%a3%e0%b8%b2%e0%b8%a2/",
-      "publishedAt": "2026-10-06T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แรนซัมแวร์ Warlock ยังคงใช้ช่องโหว่เก่าใน SharePoint โจมตีหน่วยงานโครงสร้างพื้นฐานสำคัญทั่วโลก",
-      "summary": "547/69 (IT) ประจำวันอังคารที่ 6 ตุลาคม 2569 มีรายงานว่า […] The post แรนซัมแวร์ Warlock ยังคงใช้ช่องโหว่เก่าใน SharePoint โจมตีหน่วยงานโครงสร้างพื้นฐานสำคัญทั่วโลก first appeared on Thailand Computer Emergency Response…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/06/%e0%b9%81%e0%b8%a3%e0%b8%99%e0%b8%8b%e0%b8%b1%e0%b8%a1%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-warlock-%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b8%84%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad/",
-      "publishedAt": "2026-10-06T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-      "publishedAt": "2026-10-06T06:56:57.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือนภัย! พบมัลแวร์ CloudSyncD แฝงมากับโปรแกรม Zoom ปลอมบน macOS เสี่ยงถูกเข้าถึงเครื่องโดยไม่ได้รับอนุญาต",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนภัย! พบมัลแวร์ CloudSyncD แฝงมากับโปรแกรม Zoom ปลอมบน macOS เสี่ยงถูกเข้าถึงเครื่องโดยไม่ได้รับอนุญาต first appeared on Thailand Computer…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/06/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-%e0%b8%9e%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-cloudsyn/",
-      "publishedAt": "2026-10-06T03:27:55.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
-      "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
-      "publishedAt": "2026-10-05T21:25:08.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-      "summary": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-      "publishedAt": "2026-10-05T20:20:05.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "publishedAt": "2026-10-05T16:21:52.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "publishedAt": "2026-10-05T15:21:10.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "publishedAt": "2026-10-05T14:53:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
-      "summary": "Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS VRP). The post Google Narrows Open Source Bug Bounty Amid Wave of Invalid…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
-      "publishedAt": "2026-10-05T14:26:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "publishedAt": "2026-10-05T14:22:12.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "publishedAt": "2026-10-05T14:20:43.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
-      "summary": "AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
-      "publishedAt": "2026-10-05T13:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
-      "summary": "ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation. The post Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
-      "publishedAt": "2026-10-05T13:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-      "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-      "publishedAt": "2026-10-05T11:55:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-      "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "publishedAt": "2026-10-05T11:46:25.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "publishedAt": "2026-10-05T10:38:50.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "publishedAt": "2026-10-05T08:09:23.000Z",
       "category": "kill-chain"
     }
   ]
