@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-10-10T02:11:55.903Z",
+  "generatedAt": "2026-10-11T01:43:43.921Z",
   "items": [
     {
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "publishedAt": "2026-10-10T12:30:39.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "publishedAt": "2026-10-10T09:18:45.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved…",
       "source": "Krebs on Security",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
@@ -242,14 +258,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
-      "summary": "Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted. The post Formula Predicts When AI Chatbots Are at Risk of Turning Bad…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
-      "publishedAt": "2026-10-09T04:12:38.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "แจ้งเตือนช่องโหว่ Rejetto HFS ถูกใช้โจมตีด้วยการปลอมแปลง Session ของผู้ดูแลระบบ ควรเร่งดำเนินการอัปเดตเพื่อแก้ไขโดยด่วน",
       "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ Rejetto HFS ถูกใช้โจมตีด้วยการปลอมแปลง Session ของผู้ดูแลระบบ ควรเร่งดำเนินการอัปเดตเพื่อแก้ไขโดยด่วน first appeared on Thailand…",
       "source": "ThaiCERT/ETDA",
@@ -282,14 +290,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Low-cost Android phones ship with residential proxy malware",
-      "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-      "publishedAt": "2026-10-08T19:20:33.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
       "summary": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash.",
       "source": "Dark Reading",
@@ -314,11 +314,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "publishedAt": "2026-10-08T17:10:55.000Z",
+      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "publishedAt": "2026-10-08T15:26:56.000Z",
       "category": "kill-chain"
     }
   ]
