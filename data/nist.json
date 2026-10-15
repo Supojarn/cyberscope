@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-14T01:44:03.986Z",
+  "generatedAt": "2026-10-15T01:18:50.173Z",
   "items": [
+    {
+      "title": "Kicking off Cybersecurity Career Week with NIST!",
+      "summary": "Considering a career in cybersecurity? Cybersecurity Career Week (CCW), a campaign led by the NICE Program at NIST from October 19-24, 2026, aims to raise public awareness and help people find their path to…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/kicking-cybersecurity-career-week-nist",
+      "publishedAt": "2026-10-14T12:00:00.000Z"
+    },
     {
       "title": "Introducing the New Small Business Cybersecurity Support Program Finder",
       "summary": "For small businesses who are often confronted with limited resources, knowing how to get started and where to find support with planning, implementing, or evaluating a cybersecurity risk management strategy can be…",
@@ -98,13 +105,6 @@
       "source": "NIST Cybersecurity Insights",
       "url": "https://www.nist.gov/blogs/cybersecurity-insights/advancing-product-security-new-iot-guidance-and-new-engagement",
       "publishedAt": "2026-06-24T12:00:00.000Z"
-    },
-    {
-      "title": "NIST Mathematical Proof Supports Transition to a Continuous-Monitor-and-Update Security Model for AI Systems",
-      "summary": "The proof extends to AI the logic used by famed mathematician Kurt Gödel, whose incompleteness theorems have had a profound effect on math for nearly a century.",
-      "source": "NIST News",
-      "url": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update",
-      "publishedAt": "2026-06-09T12:00:00.000Z"
     }
   ]
 }
