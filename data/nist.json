@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-16T01:04:30.178Z",
+  "generatedAt": "2026-10-17T01:11:52.317Z",
   "items": [
+    {
+      "title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security",
+      "summary": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
     {
       "title": "Kicking off Cybersecurity Career Week with NIST!",
       "summary": "Considering a career in cybersecurity? Cybersecurity Career Week (CCW), a campaign led by the NICE Program at NIST from October 19-24, 2026, aims to raise public awareness and help people find their path to…",
@@ -98,13 +105,6 @@
       "source": "NIST News",
       "url": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
       "publishedAt": "2026-06-29T12:00:00.000Z"
-    },
-    {
-      "title": "Advancing Product Security: New IoT Guidance and New Engagement",
-      "summary": "It may be summertime, but the NIST Cybersecurity for the Internet of Things (IoT) Program isn’t hitting the hammock! Organizations are managing growing device complexity, evolving threats, and pressure to turn guidance…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/advancing-product-security-new-iot-guidance-and-new-engagement",
-      "publishedAt": "2026-06-24T12:00:00.000Z"
     }
   ]
 }
