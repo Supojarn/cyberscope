@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-10-17T01:11:12.557Z",
+  "generatedAt": "2026-10-18T00:45:32.528Z",
   "items": [
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "publishedAt": "2026-10-17T15:18:51.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "publishedAt": "2026-10-17T14:32:48.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "publishedAt": "2026-10-17T11:11:56.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+      "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "publishedAt": "2026-10-17T11:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ Vghost ใน Linux Kernel เสี่ยงถูกยกระดับสิทธิ์เป็น root และอาจถูกยึดเซิร์ฟแม่ข่ายผ่าน Virtual Machine ได้",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ Vghost ใน Linux Kernel เสี่ยงถูกยกระดับสิทธิ์เป็น root และอาจถูกยึดเซิร์ฟแม่ข่ายผ่าน Virtual Machine ได้ first appeared on…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/17/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-vghost-%e0%b9%83%e0%b8%99-linux-kernel/",
+      "publishedAt": "2026-10-17T08:51:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "publishedAt": "2026-10-17T06:16:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ Zero-day ใน Palo Alto Networks PAN-OS เสี่ยงถูกรันคำสั่งโดยไม่ได้รับอนุญาต",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ Zero-day ใน Palo Alto Networks PAN-OS เสี่ยงถูกรันคำสั่งโดยไม่ได้รับอนุญาต first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/17/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83%e0%b8%99-palo-alto-networ/",
+      "publishedAt": "2026-10-17T04:51:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
       "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
@@ -8,6 +64,14 @@
       "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
       "publishedAt": "2026-10-16T20:34:37.000Z",
       "category": "kill-chain"
+    },
+    {
+      "title": "🛡️เตรียมความพร้อมรับมือภัยคุกคาม AI ในองค์กร ตามกรอบ ISO/IEC 27090:2026 และแนวทางปฏิบัติ AI Security Guidelines ของ สกมช.",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post 🛡️เตรียมความพร้อมรับมือภัยคุกคาม AI ในองค์กร ตามกรอบ ISO/IEC 27090:2026 และแนวทางปฏิบัติ AI Security Guidelines ของ สกมช. first appeared on Thailand…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/17/%f0%9f%9b%a1%ef%b8%8f%e0%b9%80%e0%b8%95%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%a1%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a1/",
+      "publishedAt": "2026-10-16T20:30:00.000Z",
+      "category": "thailand"
     },
     {
       "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
@@ -130,6 +194,14 @@
       "category": "kill-chain"
     },
     {
+      "title": "แจ้งเตือน! พบช่องโหว่ Zero-day ใน Cisco Secure Email Gateway ถูกใช้โจมตีจริง เสี่ยงถูกยึดควบคุมระบบด้วยสิทธิ์ Root เร่งอัปเดตทันที",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! พบช่องโหว่ Zero-day ใน Cisco Secure Email Gateway ถูกใช้โจมตีจริง เสี่ยงถูกยึดควบคุมระบบด้วยสิทธิ์ Root เร่งอัปเดตทันที first appeared on…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/16/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83/",
+      "publishedAt": "2026-10-16T05:31:00.000Z",
+      "category": "thailand"
+    },
+    {
       "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
       "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the…",
       "source": "The Hacker News",
@@ -248,78 +320,6 @@
       "url": "https://www.thaicert.or.th/2026/10/15/%e0%b9%82%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%a5-ai-%e0%b8%82%e0%b8%99%e0%b8%b2%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b9%87%e0%b8%81%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%aa-2/",
       "publishedAt": "2026-10-15T10:30:00.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-      "publishedAt": "2026-10-15T08:45:10.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "publishedAt": "2026-10-15T07:07:05.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "publishedAt": "2026-10-15T06:43:08.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน พบช่องโหว่ระดับ Critical ใน SAP Cloud SDK for Python เสี่ยงข้อมูลรับรอง OAuth2 รั่วไหล",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน พบช่องโหว่ระดับ Critical ใน SAP Cloud SDK for Python เสี่ยงข้อมูลรับรอง OAuth2 รั่วไหล first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/15/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94/",
-      "publishedAt": "2026-10-15T06:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
-      "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-      "publishedAt": "2026-10-14T21:20:13.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Yam Store: The Phishing Network Behind a Billion Messages",
-      "summary": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
-      "publishedAt": "2026-10-14T20:57:16.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
-      "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
-      "publishedAt": "2026-10-14T20:09:42.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "publishedAt": "2026-10-14T18:38:56.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "publishedAt": "2026-10-14T17:38:31.000Z",
-      "category": "pqc"
     }
   ]
 }
