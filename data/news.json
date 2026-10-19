@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-18T00:45:32.528Z",
+  "generatedAt": "2026-10-19T00:58:50.232Z",
   "items": [
+    {
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "publishedAt": "2026-10-18T14:23:16.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+      "summary": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "publishedAt": "2026-10-18T11:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "publishedAt": "2026-10-18T08:23:02.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
       "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
@@ -296,30 +320,6 @@
       "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
       "publishedAt": "2026-10-15T11:46:49.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน พบช่องโหว่ใน Ivanti Connect Secure ถูกใช้โจมตีจริง เสี่ยงถูกควบคุมอุปกรณ์ด้วยสิทธิ์ Root",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน พบช่องโหว่ใน Ivanti Connect Secure ถูกใช้โจมตีจริง เสี่ยงถูกควบคุมอุปกรณ์ด้วยสิทธิ์ Root first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/15/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-ivanti-co/",
-      "publishedAt": "2026-10-15T10:35:20.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "โมเดล AI ขนาดเล็กมีความเสี่ยงที่จะพัฒนากลายเป็น Botnet แพร่กระจายผ่านอุปกรณ์ IoT",
-      "summary": "565/69 (IT) ประจำวันพฤหัสบดีที่ 15 ตุลาคม 2569 บริษัท A […] The post โมเดล AI ขนาดเล็กมีความเสี่ยงที่จะพัฒนากลายเป็น Botnet แพร่กระจายผ่านอุปกรณ์ IoT first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/15/%e0%b9%82%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%a5-ai-%e0%b8%82%e0%b8%99%e0%b8%b2%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b9%87%e0%b8%81%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%aa/",
-      "publishedAt": "2026-10-15T10:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "โมเดล AI ขนาดเล็กมีความเสี่ยงที่จะพัฒนากลายเป็น Botnet แพร่กระจายผ่านอุปกรณ์ IoT",
-      "summary": "567/69 (IT) ประจำวันพฤหัสบดีที่ 15 ตุลาคม 2569 นักวิจัย […] The post โมเดล AI ขนาดเล็กมีความเสี่ยงที่จะพัฒนากลายเป็น Botnet แพร่กระจายผ่านอุปกรณ์ IoT first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/15/%e0%b9%82%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%a5-ai-%e0%b8%82%e0%b8%99%e0%b8%b2%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b9%87%e0%b8%81%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%aa-2/",
-      "publishedAt": "2026-10-15T10:30:00.000Z",
-      "category": "thailand"
     }
   ]
 }
