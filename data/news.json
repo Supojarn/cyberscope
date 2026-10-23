@@ -1,6 +1,222 @@
 {
-  "generatedAt": "2026-10-22T01:22:19.097Z",
+  "generatedAt": "2026-10-23T01:20:52.826Z",
   "items": [
+    {
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "publishedAt": "2026-10-22T21:25:31.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+      "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+      "publishedAt": "2026-10-22T20:42:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+      "publishedAt": "2026-10-22T20:33:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "publishedAt": "2026-10-22T20:22:45.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "publishedAt": "2026-10-22T19:12:51.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "publishedAt": "2026-10-22T19:05:35.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22. The flaw lets…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+      "publishedAt": "2026-10-22T19:05:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+      "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+      "publishedAt": "2026-10-22T18:12:43.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "publishedAt": "2026-10-22T17:45:44.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "publishedAt": "2026-10-22T17:18:22.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "publishedAt": "2026-10-22T17:01:53.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
+      "summary": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
+      "publishedAt": "2026-10-22T14:31:34.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "publishedAt": "2026-10-22T14:02:12.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "publishedAt": "2026-10-22T13:09:12.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
+      "summary": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
+      "publishedAt": "2026-10-22T12:34:31.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "publishedAt": "2026-10-22T11:41:48.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "publishedAt": "2026-10-22T11:15:42.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "PHP2Shell Exploitation Started Days Before Patches",
+      "summary": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started Days Before Patches appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+      "publishedAt": "2026-10-22T09:48:58.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "publishedAt": "2026-10-22T08:28:48.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "publishedAt": "2026-10-22T08:27:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "พบกลุ่ม Bronze Sandcastle ใช้ DLL Sideloading ผ่าน Sandboxie ติดตั้ง Backdoor และขโมยข้อมูล",
+      "summary": "579/69 (IT) ประจำวันพฤหัสบดีที่ 22 ตุลาคม 2569 นักวิจัย […] The post พบกลุ่ม Bronze Sandcastle ใช้ DLL Sideloading ผ่าน Sandboxie ติดตั้ง Backdoor และขโมยข้อมูล first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/22/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%a5%e0%b8%b8%e0%b9%88%e0%b8%a1-bronze-sandcastle-%e0%b9%83%e0%b8%8a%e0%b9%89-dll-sideloading-%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99-sandboxie-%e0%b8%95%e0%b8%b4%e0%b8%94/",
+      "publishedAt": "2026-10-22T08:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "CISA เตือนกลุ่ม SafePay Ransomware โจมตีองค์กรโครงสร้างพื้นฐานสำคัญทั่วโลกกว่า 600 แห่ง",
+      "summary": "578/69 (IT) ประจำวันพฤหัสบดีที่ 22 ตุลาคม 2569 สำนักงาน […] The post CISA เตือนกลุ่ม SafePay Ransomware โจมตีองค์กรโครงสร้างพื้นฐานสำคัญทั่วโลกกว่า 600 แห่ง first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/22/cisa-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%81%e0%b8%a5%e0%b8%b8%e0%b9%88%e0%b8%a1-safepay-ransomware-%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b9%8c/",
+      "publishedAt": "2026-10-22T08:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "OpenAI เผย AI Agent จำนวน 2 รุ่น ปิดระบบตรวจจับความปลอดภัยของตนเอง และปฏิเสธข้อมูลที่ไม่ตรงกับข้อเท็จจริง",
+      "summary": "577/69 (IT) ประจำวันพฤหัสบดีที่ 22 ตุลาคม 2569 OpenAI เ […] The post OpenAI เผย AI Agent จำนวน 2 รุ่น ปิดระบบตรวจจับความปลอดภัยของตนเอง และปฏิเสธข้อมูลที่ไม่ตรงกับข้อเท็จจริง first appeared on Thailand Computer…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/22/openai-%e0%b9%80%e0%b8%9c%e0%b8%a2-ai-agent-%e0%b8%88%e0%b8%b3%e0%b8%99%e0%b8%a7%e0%b8%99-2-%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99-%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a/",
+      "publishedAt": "2026-10-22T08:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "publishedAt": "2026-10-22T06:34:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+      "summary": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
+      "publishedAt": "2026-10-22T05:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "publishedAt": "2026-10-22T04:21:26.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "แจ้งเตือน พบช่องโหว่ PHP2Shell เสี่ยงถูกควบคุมเซิร์ฟเวอร์จากภายนอก",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน พบช่องโหว่ PHP2Shell เสี่ยงถูกควบคุมเซิร์ฟเวอร์จากภายนอก first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/22/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-php2shell-%e0%b9%80/",
+      "publishedAt": "2026-10-22T01:59:30.000Z",
+      "category": "thailand"
+    },
     {
       "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
       "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
@@ -58,14 +274,6 @@
       "category": "ai-security"
     },
     {
-      "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-      "summary": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-      "publishedAt": "2026-10-21T16:50:40.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
       "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.",
       "source": "Dark Reading",
@@ -75,7 +283,7 @@
     },
     {
       "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The…",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
       "publishedAt": "2026-10-21T16:33:47.000Z",
@@ -90,36 +298,12 @@
       "category": "ai-security"
     },
     {
-      "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
-      "summary": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context Bombs’ Cut AI Attack Success by Misleading…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
-      "publishedAt": "2026-10-21T15:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-      "summary": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3:…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
-      "publishedAt": "2026-10-21T14:45:00.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "PHP ships emergency patches for critical PHP2Shell flaws",
       "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "publishedAt": "2026-10-21T14:07:05.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "publishedAt": "2026-10-21T14:00:10.000Z",
-      "category": "ai-security"
     },
     {
       "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
@@ -130,196 +314,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
-      "summary": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
-      "publishedAt": "2026-10-21T13:17:35.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
       "summary": "The attack uses malicious Google search results related to Amazon and leverages the \"finger\" utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
       "publishedAt": "2026-10-21T13:00:00.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
-      "summary": "In two internal incidents, agents read routine coding instructions as permission to weaken monitoring, and one gave a false answer about it. The post OpenAI Agents Silenced Security Team Alerts, Removed Misalignment…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
-      "publishedAt": "2026-10-21T12:34:22.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "publishedAt": "2026-10-21T12:05:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "publishedAt": "2026-10-21T11:53:34.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "publishedAt": "2026-10-21T10:32:40.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "แจ้งเตือนช่องโหว่ใน NGINX เสี่ยงถูกโจมตี DoS และรันคำสั่งบนระบบ",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ใน NGINX เสี่ยงถูกโจมตี DoS และรันคำสั่งบนระบบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/21/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-nginx-%e0%b9%80%e0%b8%aa/",
-      "publishedAt": "2026-10-21T10:31:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "publishedAt": "2026-10-21T09:01:12.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "publishedAt": "2026-10-21T08:36:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "publishedAt": "2026-10-21T07:26:49.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "พบแคมเปญ Romulus ClickFix ใช้ช่องโหว่ Siemens Software Center เพื่อติดตั้ง RAT บน Windows",
-      "summary": "576/69 (IT) ประจำวันพุธที่ 21 ตุลาคม 2569 Siemens ยืนยั […] The post พบแคมเปญ Romulus ClickFix ใช้ช่องโหว่ Siemens Software Center เพื่อติดตั้ง RAT บน Windows first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/21/%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d-romulus-clickfix-%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-siemens-so/",
-      "publishedAt": "2026-10-21T07:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-      "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-      "publishedAt": "2026-10-21T06:05:15.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน! ช่องโหว่ใน MariaDB Server",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ใน MariaDB Server first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/21/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-mariadb-server/",
-      "publishedAt": "2026-10-21T03:31:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "publishedAt": "2026-10-21T01:01:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "publishedAt": "2026-10-20T20:56:43.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Zeabur shutting down after second security breach in two months",
-      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "publishedAt": "2026-10-20T19:33:02.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability,…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "publishedAt": "2026-10-20T15:38:52.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
-      "summary": "Artificial intelligence is complicating security in the software development life cycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
-      "publishedAt": "2026-10-20T15:35:45.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score:…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "publishedAt": "2026-10-20T15:32:27.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-      "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-      "publishedAt": "2026-10-20T14:07:17.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "publishedAt": "2026-10-20T11:41:06.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "พบช่องโหว่ใน Splunk Enterprise เสี่ยงถูกแฮกเกอร์ยกระดับสิทธิ์ และยึดครองระบบ ผู้ใช้งานเร่งอัปเดตทันที!",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post พบช่องโหว่ใน Splunk Enterprise เสี่ยงถูกแฮกเกอร์ยกระดับสิทธิ์ และยึดครองระบบ ผู้ใช้งานเร่งอัปเดตทันที! first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/10/20/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-splunk-enterprise-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%96%e0%b8%b9/",
-      "publishedAt": "2026-10-20T11:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-      "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "publishedAt": "2026-10-20T11:06:25.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-      "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-      "publishedAt": "2026-10-20T10:56:08.000Z",
-      "category": "pqc"
     }
   ]
 }
