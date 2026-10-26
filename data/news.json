@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-25T00:55:45.095Z",
+  "generatedAt": "2026-10-26T01:03:39.833Z",
   "items": [
+    {
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "publishedAt": "2026-10-25T17:19:46.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+      "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+      "publishedAt": "2026-10-25T11:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "publishedAt": "2026-10-25T06:54:29.000Z",
+      "category": "ai-security"
+    },
     {
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
       "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security…",
@@ -296,30 +320,6 @@
       "url": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
       "publishedAt": "2026-10-22T20:33:10.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "publishedAt": "2026-10-22T20:22:45.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "publishedAt": "2026-10-22T19:12:51.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "publishedAt": "2026-10-22T19:05:35.000Z",
-      "category": "ai-security"
     }
   ]
 }
