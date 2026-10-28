@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-27T01:55:22.490Z",
+  "generatedAt": "2026-10-28T02:06:18.306Z",
   "items": [
+    {
+      "title": "Design Tenets for Agent Identity Management Systems",
+      "summary": "This is blog #2 in our series on agentic identity, authentication and authorization. Our other post can be found via Post #1. In our last blog post, we highlighted the essential nature of having fundamentally sound…",
+      "source": "NIST Cybersecurity Insights",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems",
+      "publishedAt": "2026-10-27T12:00:00.000Z"
+    },
+    {
+      "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+      "summary": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+      "publishedAt": "2026-10-27T12:00:00.000Z"
+    },
     {
       "title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security",
       "summary": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
@@ -91,20 +105,6 @@
       "source": "NIST News",
       "url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
       "publishedAt": "2026-08-05T12:00:00.000Z"
-    },
-    {
-      "title": "Verifiable Digital Credential Presentment",
-      "summary": "This blog post is #4 in our series on Verifiable Digital Credentials (VDCs). Our other posts can be found via Post #1, Post #2, and Post #3. In earlier posts, we discussed how verifiable digital credentials (VDCs) are…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/verifiable-digital-credential-presentment",
-      "publishedAt": "2026-06-30T12:00:00.000Z"
-    },
-    {
-      "title": "NIST Launches Center to Drive the Manufacture of Quantum Technologies",
-      "summary": "NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).",
-      "source": "NIST News",
-      "url": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
-      "publishedAt": "2026-06-29T12:00:00.000Z"
     }
   ]
 }
