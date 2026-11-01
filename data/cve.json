@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T02:09:37.320Z",
+  "generatedAt": "2026-11-01T01:59:59.910Z",
   "items": [
     {
       "id": "CVE-2026-118527",
@@ -248,13 +248,24 @@
       "vendorProduct": null
     },
     {
-      "id": "CVE-2026-103780",
-      "description": "Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions 7.13.1.0 through 7.13.1.80, LTS2025 release versions 8.3.1.0 through 8.3.1.40, LTS2026 release versions 8.6.1.0 through 8.6.1.20, contain a Stack-based…",
+      "id": "CVE-2026-99154",
+      "description": "In the Linux kernel, the following vulnerability has been resolved: scsi: libiscsi: Reject a negative task index from parse_pdu_itt A transport that implements parse_pdu_itt hands libiscsi an index taken from the PDU, and both lookups bound it from above…",
       "score": 9.8,
       "severity": "critical",
-      "published": "2026-10-28T11:17:14.113Z",
+      "published": "2026-10-28T11:17:35.577Z",
       "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103780",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-99154",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-99153",
+      "description": "In the Linux kernel, the following vulnerability has been resolved: scsi: libiscsi: Validate the ITT reflected in a Reject PDU A Reject PDU carries a copy of the header it rejects, and iscsi_handle_reject() takes the ITT out of that copy to find the task to…",
+      "score": 9.8,
+      "severity": "critical",
+      "published": "2026-10-28T11:17:35.443Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-99153",
       "kev": false,
       "vendorProduct": null
     },
@@ -277,17 +288,6 @@
       "published": "2026-10-28T11:17:14.390Z",
       "source": "NVD",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103799",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-103792",
-      "description": "Dell PowerProtect Data Domain Management Center, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions 7.13.1.0 through 7.13.1.80, LTS2025 release versions 8.3.1.0 through 8.3.1.40, LTS2026 release versions 8.6.1.0 through 8.6.1.20, contain…",
-      "score": 9.6,
-      "severity": "critical",
-      "published": "2026-10-28T11:17:14.250Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103792",
       "kev": false,
       "vendorProduct": null
     },
@@ -347,112 +347,112 @@
       "vendorProduct": null
     },
     {
-      "id": "CVE-2026-103506",
-      "description": "An authenticated user in Grafana can read SSO client secrets and modify instance-wide SSO settings without the required permissions (missing authorization). This affects Grafana OSS and Enterprise 13.2 installations with the experimental…",
-      "score": 8.9,
-      "severity": "high",
-      "published": "2026-10-28T17:17:28.797Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103506",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-103408",
-      "description": "A Stack Buffer Overflow vulnerability in the DHCP client in Juniper Networks Session Smart Router allows an unauthenticated attacker on the local network to achieve remote code execution via a malicious DHCP reply.",
+      "id": "CVE-2026-118619",
+      "description": "Ultralytics Google Drive Download Path Traversal Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ultralytics. User interaction is required to exploit this vulnerability in…",
       "score": 8.8,
       "severity": "high",
-      "published": "2026-10-28T17:17:26.520Z",
+      "published": "2026-10-28T17:18:29.103Z",
       "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103408",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118619",
       "kev": false,
       "vendorProduct": null
     },
     {
-      "id": "CVE-2026-103407",
-      "description": "An Improper Limitation of a Pathname to a Restricted Directory vulnerability in ConfigDirector in Juniper Networks Session Smart Router and Session Smart Conductor allows an authenticated REST user to read, overwrite, or delete arbitrary certificate and key…",
-      "score": 8.8,
-      "severity": "high",
-      "published": "2026-10-28T17:17:26.240Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103407",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-103403",
-      "description": "An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in AccessManager in Juniper Networks Session Smart Router and Session Smart Conductor allows an attacker to perform arbitrary file deletion and…",
-      "score": 8.8,
-      "severity": "high",
-      "published": "2026-10-28T17:17:24.997Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103403",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-103402",
-      "description": "An Insufficient Verification of Data Authenticity vulnerability in PCLI in Juniper Networks Session Smart Router and Session Smart Conductor allows an attacker with write access to the model cache directory to execute arbitrary code and escalate privileges…",
-      "score": 8.8,
-      "severity": "high",
-      "published": "2026-10-28T17:17:24.433Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103402",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-103401",
-      "description": "An Improper Link Resolution Before File Access ('Link Following') vulnerability in the unauthenticated web server handlers in Juniper Networks Session Smart Router and Session Smart Conductor allows a local unprivileged user to overwrite arbitrary files as…",
-      "score": 8.8,
-      "severity": "high",
-      "published": "2026-10-28T17:17:24.070Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103401",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-93522",
-      "description": "A heap buffer overflow caused by mismatched size usage in CopyArea CPU-to-FBO path in X.Org X Server before 21.1.15 and XWayland before 24.1.14 could be used by authenticated X clients to crash or potentially execute code in the X server context.",
+      "id": "CVE-2026-93523",
+      "description": "A heap buffer overflow caused by a XIPassiveUngrabDevice request with an out-of-range modifier value in X.Org X Server before 21.1.15 and XWayland before 24.1.14 could be used by authenticated X clients to crash or potentially execute code in X server context.",
       "score": 7.8,
       "severity": "high",
-      "published": "2026-10-28T16:17:10.183Z",
+      "published": "2026-10-28T17:18:53.220Z",
       "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93522",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93523",
       "kev": false,
       "vendorProduct": null
     },
     {
-      "id": "CVE-2026-100105",
-      "description": "A user with permission to edit contact points but not their protected fields can change protected settings, such as a contact point's destination URL, by switching an integration to a legacy schema version, which can expose stored credentials and redirect…",
+      "id": "CVE-2026-82961",
+      "description": "The GPIO syscall handlers in drivers/gpio/gpio_handlers.c did not validate the pin argument supplied by a user-mode caller. z_vrfy_gpio_pin_configure(), z_vrfy_gpio_pin_get_config() and z_vrfy_gpio_pin_interrupt_configure() verified only the device object…",
+      "score": 7.8,
+      "severity": "high",
+      "published": "2026-10-28T17:18:43.680Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82961",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-118618",
+      "description": "Ultralytics parse_model Code Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ultralytics. User interaction is required to exploit this vulnerability in that the…",
+      "score": 7.8,
+      "severity": "high",
+      "published": "2026-10-28T17:18:28.990Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118618",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-118617",
+      "description": "Ultralytics load_dataset_cache_file Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ultralytics. User interaction is required to exploit…",
+      "score": 7.8,
+      "severity": "high",
+      "published": "2026-10-28T17:18:28.867Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118617",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-118616",
+      "description": "Ultralytics parse_model Code Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ultralytics. User interaction is required to exploit this vulnerability in that the…",
+      "score": 7.8,
+      "severity": "high",
+      "published": "2026-10-28T17:18:28.730Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118616",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-118615",
+      "description": "Ultralytics torch_safe_load Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ultralytics. User interaction is required to exploit this vulnerability in…",
+      "score": 7.8,
+      "severity": "high",
+      "published": "2026-10-28T17:18:28.597Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118615",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-118614",
+      "description": "Ultralytics check_det_dataset Code Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ultralytics. User interaction is required to exploit this vulnerability in that…",
+      "score": 7.8,
+      "severity": "high",
+      "published": "2026-10-28T17:18:28.483Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118614",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-118613",
+      "description": "Ultralytics torch_load Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ultralytics. User interaction is required to exploit this…",
+      "score": 7.8,
+      "severity": "high",
+      "published": "2026-10-28T17:18:28.363Z",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118613",
+      "kev": false,
+      "vendorProduct": null
+    },
+    {
+      "id": "CVE-2026-88967",
+      "description": "A user with query access to an Azure Monitor data source in Grafana can cause server-side requests to an attacker-controlled endpoint that disclose the data source's Azure access token (server-side request forgery).",
       "score": 7.7,
       "severity": "high",
-      "published": "2026-10-28T17:17:21.797Z",
+      "published": "2026-10-28T17:18:46.090Z",
       "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-100105",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-103410",
-      "description": "An Integer Overflow vulnerability in the DPI certificate scanner in Juniper Networks Session Smart Router allows an unauthenticated remote attacker to cause a denial of service via a specially crafted TLS server certificate.",
-      "score": 7.5,
-      "severity": "high",
-      "published": "2026-10-28T17:17:28.177Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103410",
-      "kev": false,
-      "vendorProduct": null
-    },
-    {
-      "id": "CVE-2026-103411",
-      "description": "An Integer Underflow vulnerability in DhcpMessageDecoder in Juniper Networks Session Smart Router allows an attacker with local network access to cause information disclosure and a denial of service via a malicious DHCP reply.",
-      "score": 7.1,
-      "severity": "high",
-      "published": "2026-10-28T17:17:28.397Z",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103411",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88967",
       "kev": false,
       "vendorProduct": null
     }
