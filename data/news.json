@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-01T01:59:57.827Z",
+  "generatedAt": "2026-11-02T02:13:59.834Z",
   "items": [
+    {
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "publishedAt": "2026-11-01T15:11:21.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! Veeam ออกอัปเดตแก้ไขช่องโหว่ Critical เสี่ยงข้ามการตรวจสอบสิทธิ์และแก้ไขข้อมูล",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! Veeam ออกอัปเดตแก้ไขช่องโหว่ Critical เสี่ยงข้ามการตรวจสอบสิทธิ์และแก้ไขข้อมูล first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/01/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-veeam-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%81%e0%b8%81%e0%b9%89/",
+      "publishedAt": "2026-11-01T14:53:10.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+      "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+      "publishedAt": "2026-11-01T11:15:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "publishedAt": "2026-11-01T07:02:58.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือนช่องโหว่ความปลอดภัยผลิตภัณฑ์ TeamViewer",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ความปลอดภัยผลิตภัณฑ์ TeamViewer first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/01/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%9b-3/",
+      "publishedAt": "2026-11-01T04:39:43.000Z",
+      "category": "thailand"
+    },
     {
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
       "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
@@ -64,6 +104,14 @@
       "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
       "publishedAt": "2026-10-31T04:56:12.000Z",
       "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ระดับ Critical ใน Linux Kernel เสี่ยงถูกควบคุมเซิร์ฟเวอร์",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ระดับ Critical ใน Linux Kernel เสี่ยงถูกควบคุมเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/31/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-8/",
+      "publishedAt": "2026-10-31T03:45:42.000Z",
+      "category": "thailand"
     },
     {
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -154,6 +202,14 @@
       "category": "kill-chain"
     },
     {
+      "title": "แจ้งเตือน! ช่องโหว่ Zero-day ใน Cisco ASA และ FTD เสี่ยงทำให้ Firewall และ SSL VPN หยุดให้บริการ",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ Zero-day ใน Cisco ASA และ FTD เสี่ยงทำให้ Firewall และ SSL VPN หยุดให้บริการ first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/10/30/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83%e0%b8%99-cisco-asa/",
+      "publishedAt": "2026-10-30T10:45:00.000Z",
+      "category": "thailand"
+    },
+    {
       "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
       "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
       "source": "BleepingComputer",
@@ -178,27 +234,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-      "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-      "publishedAt": "2026-10-30T09:18:13.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
       "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
       "publishedAt": "2026-10-30T08:55:47.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
-      "summary": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
-      "publishedAt": "2026-10-30T08:44:49.000Z",
       "category": "kill-chain"
     },
     {
@@ -250,14 +290,6 @@
       "category": "thailand"
     },
     {
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "publishedAt": "2026-10-29T22:45:23.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
       "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
       "source": "Dark Reading",
@@ -288,38 +320,6 @@
       "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
       "publishedAt": "2026-10-29T19:11:58.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
-      "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-      "publishedAt": "2026-10-29T18:15:59.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "publishedAt": "2026-10-29T15:57:05.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "publishedAt": "2026-10-29T15:20:29.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "publishedAt": "2026-10-29T13:42:40.000Z",
-      "category": "ai-security"
     }
   ]
 }
