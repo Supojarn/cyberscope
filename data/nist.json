@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-02T02:14:45.729Z",
+  "generatedAt": "2026-11-03T03:52:45.626Z",
   "items": [
+    {
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "summary": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "publishedAt": "2026-11-02T12:00:00.000Z"
+    },
     {
       "title": "Design Tenets for Agent Identity Management Systems",
       "summary": "This is blog #2 in our series on agentic identity, authentication and authorization. Our other post can be found via Post #1. In our last blog post, we highlighted the essential nature of having fundamentally sound…",
@@ -98,13 +105,6 @@
       "source": "NIST Cybersecurity Insights",
       "url": "https://www.nist.gov/blogs/cybersecurity-insights/shaping-nvd-future-we-need-your-feedback-ai-enabled-vulnerability",
       "publishedAt": "2026-08-12T12:00:00.000Z"
-    },
-    {
-      "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
-      "summary": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
-      "source": "NIST News",
-      "url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
-      "publishedAt": "2026-08-05T12:00:00.000Z"
     }
   ]
 }
