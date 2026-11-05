@@ -1,12 +1,236 @@
 {
-  "generatedAt": "2026-11-04T02:57:18.409Z",
+  "generatedAt": "2026-11-05T03:20:07.564Z",
   "items": [
+    {
+      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+      "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+      "publishedAt": "2026-11-04T21:48:18.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "publishedAt": "2026-11-04T21:31:18.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "publishedAt": "2026-11-04T20:58:19.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "publishedAt": "2026-11-04T19:05:19.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "publishedAt": "2026-11-04T17:00:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "publishedAt": "2026-11-04T16:58:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
+      "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
+      "publishedAt": "2026-11-04T16:24:08.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "publishedAt": "2026-11-04T16:06:43.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "publishedAt": "2026-11-04T15:00:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
+      "summary": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
+      "publishedAt": "2026-11-04T14:34:44.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "publishedAt": "2026-11-04T14:27:52.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Agentic Data Security Firm Sentra Raises $150 Million",
+      "summary": "The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
+      "publishedAt": "2026-11-04T14:09:20.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
+      "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
+      "publishedAt": "2026-11-04T12:43:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "publishedAt": "2026-11-04T12:11:05.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "publishedAt": "2026-11-04T11:24:31.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
+      "summary": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions. The post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
+      "publishedAt": "2026-11-04T10:54:48.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "publishedAt": "2026-11-04T09:39:54.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือนช่องโหว่ Remote Code Execution (RCE) ใน WordPress Core",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ Remote Code Execution (RCE) ใน WordPress Core first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/04/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-remote-code-execution-rce-%e0%b9%83%e0%b8%99/",
+      "publishedAt": "2026-11-04T09:13:40.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+      "summary": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
+      "publishedAt": "2026-11-04T08:27:05.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+      "publishedAt": "2026-11-04T08:17:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "publishedAt": "2026-11-04T07:46:15.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! พบมัลแวร์แฝงในส่วนขยาย Claude Code บน Cursor Marketplace เสี่ยงเปิดช่องให้แฮกเกอร์ควบคุมเครื่อง",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! พบมัลแวร์แฝงในส่วนขยาย Claude Code บน Cursor Marketplace เสี่ยงเปิดช่องให้แฮกเกอร์ควบคุมเครื่อง first appeared on Thailand Computer…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/04/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b9%81%e0%b8%9d%e0%b8%87%e0%b9%83/",
+      "publishedAt": "2026-11-04T07:03:55.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "เตือนช่องโหว่ใน CryptoPayment Gateway บน WordPress เสี่ยงข้อมูลกระเป๋าเงินคริปโตรั่วไหล",
+      "summary": "604/69 (IT) ประจำวันพุธที่ 4 พฤศจิกายน 2569 นักวิจัยจาก […] The post เตือนช่องโหว่ใน CryptoPayment Gateway บน WordPress เสี่ยงข้อมูลกระเป๋าเงินคริปโตรั่วไหล first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/04/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-cryptopayment-gateway-%e0%b8%9a%e0%b8%99-wordpress-%e0%b9%80/",
+      "publishedAt": "2026-11-04T07:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "พบกลุ่ม 3AM Ransomware โจมตีระบบโรงเรียนในสหราชอาณาจักร คาดใช้ AI ช่วยดำเนินการโจมตี",
+      "summary": "603/69 (IT) ประจำวันพุธที่ 4 พฤศจิกายน 2569 บริษัท Bitd […] The post พบกลุ่ม 3AM Ransomware โจมตีระบบโรงเรียนในสหราชอาณาจักร คาดใช้ AI ช่วยดำเนินการโจมตี first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/04/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%a5%e0%b8%b8%e0%b9%88%e0%b8%a1-3am-ransomware-%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b9%80/",
+      "publishedAt": "2026-11-04T07:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แฮกเกอร์เจาะระบบอัปเดต cPGuard แอบติดตั้งโปรแกรมดักขโมยข้อมูล กระทบเซิร์ฟเวอร์เกือบ 3,000 เครื่อง",
+      "summary": "602/69 (IT) ประจำวันพุธที่ 4 พฤศจิกายน 2569 OpsShield ผ […] The post แฮกเกอร์เจาะระบบอัปเดต cPGuard แอบติดตั้งโปรแกรมดักขโมยข้อมูล กระทบเซิร์ฟเวอร์เกือบ 3,000 เครื่อง first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/04/%e0%b9%81%e0%b8%ae%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%88%e0%b8%b2%e0%b8%b0%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95-c/",
+      "publishedAt": "2026-11-04T07:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "publishedAt": "2026-11-04T05:43:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือนตรวจพบช่องโหว่ความปลอดภัยใน Oracle Application Object Library",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนตรวจพบช่องโหว่ความปลอดภัยใน Oracle Application Object Library first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/04/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7/",
+      "publishedAt": "2026-11-04T03:06:35.000Z",
+      "category": "thailand"
+    },
     {
       "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
       "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
       "publishedAt": "2026-11-04T02:00:00.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
+      "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
+      "publishedAt": "2026-11-04T01:05:40.000Z",
       "category": "pqc"
     },
     {
@@ -74,59 +298,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "publishedAt": "2026-11-03T15:00:10.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
-      "summary": "Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students. The post Frontline Education Data Breach Impacts Over 1.3 Million appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/",
-      "publishedAt": "2026-11-03T14:32:38.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
-      "summary": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform. The post CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler,…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
-      "publishedAt": "2026-11-03T14:12:44.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "publishedAt": "2026-11-03T14:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
       "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
       "publishedAt": "2026-11-03T14:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical Node-RED Flaw Exploited in Attacks",
-      "summary": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
-      "publishedAt": "2026-11-03T12:10:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "publishedAt": "2026-11-03T12:05:52.000Z",
       "category": "kill-chain"
     },
     {
@@ -144,182 +320,6 @@
       "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
       "publishedAt": "2026-11-03T11:18:20.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "publishedAt": "2026-11-03T11:00:45.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "publishedAt": "2026-11-03T10:53:25.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
-      "summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
-      "publishedAt": "2026-11-03T09:22:09.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
-      "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
-      "publishedAt": "2026-11-03T08:49:03.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "publishedAt": "2026-11-03T08:31:48.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Synology เตือนแรนซัมแวร์ C3RB3R โจมตีอุปกรณ์ NAS ที่ยังไม่ได้ติดตั้งอัปเดตความปลอดภัย",
-      "summary": "601/69 (IT) ประจำวันอังคารที่ 3 พฤศจิกายน 2569 Synology […] The post Synology เตือนแรนซัมแวร์ C3RB3R โจมตีอุปกรณ์ NAS ที่ยังไม่ได้ติดตั้งอัปเดตความปลอดภัย first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/03/synology-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b9%81%e0%b8%a3%e0%b8%99%e0%b8%8b%e0%b8%b1%e0%b8%a1%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-c3rb3r-%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5/",
-      "publishedAt": "2026-11-03T08:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ค้นพบ VOLTA มัลแวร์ขโมยข้อมูลบน Windows ที่นำ AI มาใช้ในการประเมินมูลค่าของเหยื่อ",
-      "summary": "599/69 (IT) ประจำวันอังคารที่ 3 พฤศจิกายน 2569 นักวิจัย […] The post ค้นพบ VOLTA มัลแวร์ขโมยข้อมูลบน Windows ที่นำ AI มาใช้ในการประเมินมูลค่าของเหยื่อ first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/03/%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%9a-volta-%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b8%82%e0%b9%82%e0%b8%a1%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9/",
-      "publishedAt": "2026-11-03T08:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-      "publishedAt": "2026-11-03T07:43:07.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "publishedAt": "2026-11-03T05:34:41.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "publishedAt": "2026-11-03T05:34:37.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection…",
-      "source": "Krebs on Security",
-      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "publishedAt": "2026-11-03T02:24:31.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
-      "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
-      "publishedAt": "2026-11-02T22:27:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-      "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-      "publishedAt": "2026-11-02T18:16:34.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "publishedAt": "2026-11-02T16:57:56.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-      "publishedAt": "2026-11-02T15:50:26.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
-      "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
-      "publishedAt": "2026-11-02T15:01:11.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft's AI Risk Report Misses This Key Detail",
-      "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
-      "publishedAt": "2026-11-02T15:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "publishedAt": "2026-11-02T14:46:05.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
-      "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
-      "publishedAt": "2026-11-02T14:44:18.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "publishedAt": "2026-11-02T11:50:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "publishedAt": "2026-11-02T11:30:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "ช่องโหว่ Android “SMS of Death” เสี่ยงถูกส่งข้อความทำระบบโทรศัพท์หยุดทำงาน",
-      "summary": "598/69 (IT) ประจำวันจันทร์ที่ 2 พฤศจิกายน 2569 นักวิจัย […] The post ช่องโหว่ Android “SMS of Death” เสี่ยงถูกส่งข้อความทำระบบโทรศัพท์หยุดทำงาน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/02/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-android-sms-of-death-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%96%e0%b8%b9%e0%b8%81/",
-      "publishedAt": "2026-11-02T08:02:00.000Z",
-      "category": "thailand"
     }
   ]
 }
