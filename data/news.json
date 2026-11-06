@@ -1,6 +1,214 @@
 {
-  "generatedAt": "2026-11-05T03:20:07.564Z",
+  "generatedAt": "2026-11-06T03:17:59.745Z",
   "items": [
+    {
+      "title": "Google ออกแพทช์แก้ไขช่องโหว่ใน Android ที่อาจทำให้สามารถเข้าถึงอุปกรณ์ได้โดยไม่ต้องมีการโต้ตอบจากผู้ใช้",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post Google ออกแพทช์แก้ไขช่องโหว่ใน Android ที่อาจทำให้สามารถเข้าถึงอุปกรณ์ได้โดยไม่ต้องมีการโต้ตอบจากผู้ใช้ first appeared on Thailand Computer Emergency…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/06/google-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%8a%e0%b9%8c%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88/",
+      "publishedAt": "2026-11-06T02:24:16.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "publishedAt": "2026-11-05T21:30:30.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+      "publishedAt": "2026-11-05T21:00:47.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+      "publishedAt": "2026-11-05T20:05:39.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "publishedAt": "2026-11-05T17:45:29.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+      "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+      "publishedAt": "2026-11-05T17:32:37.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+      "summary": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+      "publishedAt": "2026-11-05T16:48:36.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "publishedAt": "2026-11-05T16:42:32.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "publishedAt": "2026-11-05T16:24:26.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "publishedAt": "2026-11-05T16:12:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "publishedAt": "2026-11-05T14:41:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
+      "summary": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+      "publishedAt": "2026-11-05T13:22:12.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "publishedAt": "2026-11-05T12:25:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "publishedAt": "2026-11-05T12:08:54.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+      "summary": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+      "publishedAt": "2026-11-05T11:15:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
+      "summary": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+      "summary": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+      "publishedAt": "2026-11-05T10:56:41.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
+      "summary": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
+      "publishedAt": "2026-11-05T10:37:13.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "publishedAt": "2026-11-05T10:06:19.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+      "summary": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+      "publishedAt": "2026-11-05T10:02:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "publishedAt": "2026-11-05T08:42:03.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "publishedAt": "2026-11-05T07:06:33.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "พบช่องโหว่ใน Android เวอร์ชัน 14–17 เสี่ยงถูกโจมตีโดยไม่ต้องโต้ตอบจากผู้ใช้",
+      "summary": "608/69 Thursday, November 5, 2026 Google เผยแพร่อัปเดตค […] The post พบช่องโหว่ใน Android เวอร์ชัน 14–17 เสี่ยงถูกโจมตีโดยไม่ต้องโต้ตอบจากผู้ใช้ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/05/%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-android-%e0%b9%80%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%8a%e0%b8%b1%e0%b8%99-14/",
+      "publishedAt": "2026-11-05T07:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "SonicWall เตือน 2 ช่องโหว่ใน GMS ที่สิ้นสุดการสนับสนุนแล้ว ยืนยันไม่มีแพตช์แก้ไข",
+      "summary": "607/69 Thursday, November 5, 2026 SonicWall ออกประกาศแจ […] The post SonicWall เตือน 2 ช่องโหว่ใน GMS ที่สิ้นสุดการสนับสนุนแล้ว ยืนยันไม่มีแพตช์แก้ไข first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/05/sonicwall-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-2-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-gms-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b4/",
+      "publishedAt": "2026-11-05T07:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Barracuda ออกแพตช์อุดช่องโหว่บน Email Security Gateway ป้องกันการยึดสิทธิ์ระดับ Root",
+      "summary": "609/69 Thursday, November 5, 2026 Barracuda ได้ออกแพตช์ […] The post Barracuda ออกแพตช์อุดช่องโหว่บน Email Security Gateway ป้องกันการยึดสิทธิ์ระดับ Root first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/05/barracuda-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b8%ad%e0%b8%b8%e0%b8%94%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%9a%e0%b8%99/",
+      "publishedAt": "2026-11-05T07:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog,…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "publishedAt": "2026-11-05T05:17:04.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
       "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
@@ -66,51 +274,11 @@
       "category": "ai-security"
     },
     {
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "publishedAt": "2026-11-04T15:00:10.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-      "summary": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-      "publishedAt": "2026-11-04T14:34:44.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a…",
+      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
       "publishedAt": "2026-11-04T14:27:52.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Agentic Data Security Firm Sentra Raises $150 Million",
-      "summary": "The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
-      "publishedAt": "2026-11-04T14:09:20.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
-      "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-      "publishedAt": "2026-11-04T12:43:20.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-      "publishedAt": "2026-11-04T12:11:05.000Z",
       "category": "kill-chain"
     },
     {
@@ -122,36 +290,12 @@
       "category": "kill-chain"
     },
     {
-      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
-      "summary": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions. The post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
-      "publishedAt": "2026-11-04T10:54:48.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "publishedAt": "2026-11-04T09:39:54.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "แจ้งเตือนช่องโหว่ Remote Code Execution (RCE) ใน WordPress Core",
       "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ Remote Code Execution (RCE) ใน WordPress Core first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
       "source": "ThaiCERT/ETDA",
       "url": "https://www.thaicert.or.th/2026/11/04/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-remote-code-execution-rce-%e0%b9%83%e0%b8%99/",
       "publishedAt": "2026-11-04T09:13:40.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
-      "summary": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
-      "publishedAt": "2026-11-04T08:27:05.000Z",
-      "category": "pqc"
     },
     {
       "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
@@ -176,150 +320,6 @@
       "url": "https://www.thaicert.or.th/2026/11/04/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b9%81%e0%b8%9d%e0%b8%87%e0%b9%83/",
       "publishedAt": "2026-11-04T07:03:55.000Z",
       "category": "thailand"
-    },
-    {
-      "title": "เตือนช่องโหว่ใน CryptoPayment Gateway บน WordPress เสี่ยงข้อมูลกระเป๋าเงินคริปโตรั่วไหล",
-      "summary": "604/69 (IT) ประจำวันพุธที่ 4 พฤศจิกายน 2569 นักวิจัยจาก […] The post เตือนช่องโหว่ใน CryptoPayment Gateway บน WordPress เสี่ยงข้อมูลกระเป๋าเงินคริปโตรั่วไหล first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/04/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-cryptopayment-gateway-%e0%b8%9a%e0%b8%99-wordpress-%e0%b9%80/",
-      "publishedAt": "2026-11-04T07:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "พบกลุ่ม 3AM Ransomware โจมตีระบบโรงเรียนในสหราชอาณาจักร คาดใช้ AI ช่วยดำเนินการโจมตี",
-      "summary": "603/69 (IT) ประจำวันพุธที่ 4 พฤศจิกายน 2569 บริษัท Bitd […] The post พบกลุ่ม 3AM Ransomware โจมตีระบบโรงเรียนในสหราชอาณาจักร คาดใช้ AI ช่วยดำเนินการโจมตี first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/04/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%a5%e0%b8%b8%e0%b9%88%e0%b8%a1-3am-ransomware-%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b9%80/",
-      "publishedAt": "2026-11-04T07:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แฮกเกอร์เจาะระบบอัปเดต cPGuard แอบติดตั้งโปรแกรมดักขโมยข้อมูล กระทบเซิร์ฟเวอร์เกือบ 3,000 เครื่อง",
-      "summary": "602/69 (IT) ประจำวันพุธที่ 4 พฤศจิกายน 2569 OpsShield ผ […] The post แฮกเกอร์เจาะระบบอัปเดต cPGuard แอบติดตั้งโปรแกรมดักขโมยข้อมูล กระทบเซิร์ฟเวอร์เกือบ 3,000 เครื่อง first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/04/%e0%b9%81%e0%b8%ae%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%88%e0%b8%b2%e0%b8%b0%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95-c/",
-      "publishedAt": "2026-11-04T07:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-      "publishedAt": "2026-11-04T05:43:11.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือนตรวจพบช่องโหว่ความปลอดภัยใน Oracle Application Object Library",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนตรวจพบช่องโหว่ความปลอดภัยใน Oracle Application Object Library first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/04/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7/",
-      "publishedAt": "2026-11-04T03:06:35.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
-      "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
-      "publishedAt": "2026-11-04T02:00:00.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
-      "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-      "publishedAt": "2026-11-04T01:05:40.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "publishedAt": "2026-11-03T22:18:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "publishedAt": "2026-11-03T21:28:44.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-      "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "publishedAt": "2026-11-03T20:05:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "publishedAt": "2026-11-03T18:51:04.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-      "publishedAt": "2026-11-03T18:16:19.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "publishedAt": "2026-11-03T15:41:53.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
-      "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
-      "publishedAt": "2026-11-03T15:35:50.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "publishedAt": "2026-11-03T15:16:32.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
-      "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
-      "publishedAt": "2026-11-03T14:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "publishedAt": "2026-11-03T11:23:53.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit,…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "publishedAt": "2026-11-03T11:18:20.000Z",
-      "category": "kill-chain"
     }
   ]
 }
