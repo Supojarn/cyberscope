@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-11-15T02:28:48.197Z",
+  "generatedAt": "2026-11-16T02:38:40.790Z",
   "items": [
+    {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "publishedAt": "2026-11-15T18:29:53.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "publishedAt": "2026-11-15T15:23:48.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+      "summary": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "publishedAt": "2026-11-15T12:51:33.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "publishedAt": "2026-11-15T08:22:04.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
       "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
@@ -138,14 +170,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
-      "summary": "Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame. The post Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure appeared first…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
-      "publishedAt": "2026-11-13T10:48:40.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "แจ้งเตือนช่องโหว่ Node2Shell ในผลิตภัณฑ์ Siemens รุนแรงระดับ Critical เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE ผู้ดูแลระบบควรเร่งตรวจสอบทันที",
       "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ Node2Shell ในผลิตภัณฑ์ Siemens รุนแรงระดับ Critical เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE ผู้ดูแลระบบควรเร่งตรวจสอบทันที first appeared on…",
       "source": "ThaiCERT/ETDA",
@@ -159,14 +183,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
       "publishedAt": "2026-11-13T10:44:22.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
-      "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
-      "publishedAt": "2026-11-13T09:36:56.000Z",
       "category": "kill-chain"
     },
     {
@@ -224,22 +240,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
       "publishedAt": "2026-11-12T21:18:52.000Z",
       "category": "ai-security"
-    },
-    {
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "publishedAt": "2026-11-12T19:51:16.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "publishedAt": "2026-11-12T19:12:55.000Z",
-      "category": "kill-chain"
     },
     {
       "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
