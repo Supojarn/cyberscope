@@ -1,6 +1,246 @@
 {
-  "generatedAt": "2026-11-17T04:59:30.547Z",
+  "generatedAt": "2026-11-18T04:04:54.906Z",
   "items": [
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize…",
+      "source": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "publishedAt": "2026-11-18T02:52:04.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins,…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "publishedAt": "2026-11-17T23:04:21.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+      "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+      "publishedAt": "2026-11-17T22:34:22.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "publishedAt": "2026-11-17T21:27:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "publishedAt": "2026-11-17T20:58:13.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "publishedAt": "2026-11-17T20:51:21.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "publishedAt": "2026-11-17T19:34:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+      "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+      "publishedAt": "2026-11-17T18:38:37.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+      "summary": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+      "publishedAt": "2026-11-17T18:16:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "publishedAt": "2026-11-17T15:17:36.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "publishedAt": "2026-11-17T15:17:28.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "publishedAt": "2026-11-17T15:01:11.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+      "summary": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+      "publishedAt": "2026-11-17T14:55:30.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+      "summary": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
+      "publishedAt": "2026-11-17T14:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+      "summary": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
+      "publishedAt": "2026-11-17T13:24:43.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+      "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+      "publishedAt": "2026-11-17T13:12:56.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Access Dental Management Data Breach Impacts Over 340,000",
+      "summary": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
+      "publishedAt": "2026-11-17T12:59:04.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+      "summary": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
+      "publishedAt": "2026-11-17T12:28:45.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "publishedAt": "2026-11-17T12:25:06.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+      "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+      "publishedAt": "2026-11-17T11:20:18.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "publishedAt": "2026-11-17T11:19:51.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+      "publishedAt": "2026-11-17T11:07:31.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "publishedAt": "2026-11-17T09:44:22.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ในผลิตภัณฑ์ Barracuda Networks ถูกใช้โจมตีจริง เสี่ยงข้ามการยืนยันตัวตนและเข้าควบคุมระบบด้วยสิทธิ์ root",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ในผลิตภัณฑ์ Barracuda Networks ถูกใช้โจมตีจริง เสี่ยงข้ามการยืนยันตัวตนและเข้าควบคุมระบบด้วยสิทธิ์ root first appeared on Thailand…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/17/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-5/",
+      "publishedAt": "2026-11-17T08:55:43.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+      "publishedAt": "2026-11-17T08:35:42.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "publishedAt": "2026-11-17T07:25:44.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+      "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+      "publishedAt": "2026-11-17T07:12:13.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "มัลแวร์ Retadup กลับมาแพร่กระจายผ่าน USB มุ่งติดตั้งมัลแวร์เพิ่มเติมบน Windows",
+      "summary": "633/69 (IT) ประจำวันอังคารที่ 17 พฤศจิกายน 2569 นักวิจั […] The post มัลแวร์ Retadup กลับมาแพร่กระจายผ่าน USB มุ่งติดตั้งมัลแวร์เพิ่มเติมบน Windows first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/17/%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-retadup-%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b2%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b9%88%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%88/",
+      "publishedAt": "2026-11-17T06:15:19.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แจ้งเตือนช่องโหว่ระดับ Critical ใน SAP NetWeaver AS ABAP และ ABAP Platform เสี่ยงถูกข้ามการยืนยันตัวตนและสวมรอยบัญชีผู้ใช้งานสิทธิ์สูง",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ระดับ Critical ใน SAP NetWeaver AS ABAP และ ABAP Platform เสี่ยงถูกข้ามการยืนยันตัวตนและสวมรอยบัญชีผู้ใช้งานสิทธิ์สูง first appeared…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/17/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-4/",
+      "publishedAt": "2026-11-17T06:10:01.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "publishedAt": "2026-11-17T05:00:34.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
       "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts…",
@@ -26,31 +266,7 @@
       "category": "ai-security"
     },
     {
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "publishedAt": "2026-11-16T20:59:44.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
-      "summary": "Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users. The post Trump Administration Moves to Block China From…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
-      "publishedAt": "2026-11-16T20:00:00.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "publishedAt": "2026-11-16T19:57:13.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+      "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
       "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
@@ -74,36 +290,12 @@
       "category": "ai-security"
     },
     {
-      "title": "Cursor Supply Chain Attack Started at Fireworks AI",
-      "summary": "The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies. The post Cursor Supply Chain Attack Started at Fireworks AI…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
-      "publishedAt": "2026-11-16T15:45:43.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "publishedAt": "2026-11-16T15:44:21.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
-      "summary": "It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028. The post Google Project Zero Sets Course for 30-Day Disclosure Deadline appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
-      "publishedAt": "2026-11-16T15:31:25.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
-      "summary": "Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks. The post Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
-      "publishedAt": "2026-11-16T15:07:32.000Z",
-      "category": "ai-security"
+      "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
+      "summary": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
+      "publishedAt": "2026-11-16T14:22:15.000Z",
+      "category": "pqc"
     },
     {
       "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
@@ -114,27 +306,11 @@
       "category": "pqc"
     },
     {
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "publishedAt": "2026-11-16T14:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
       "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
       "publishedAt": "2026-11-16T13:27:20.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
-      "summary": "Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
-      "publishedAt": "2026-11-16T12:48:03.000Z",
       "category": "kill-chain"
     },
     {
@@ -144,182 +320,6 @@
       "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
       "publishedAt": "2026-11-16T12:33:18.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
-      "summary": "Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
-      "publishedAt": "2026-11-16T11:15:48.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
-      "summary": "Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted. The post Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
-      "publishedAt": "2026-11-16T11:05:42.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Uber Data Breach Impacts 150,000 People",
-      "summary": "Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers. The post Uber Data Breach Impacts 150,000 People appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
-      "publishedAt": "2026-11-16T11:02:48.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "publishedAt": "2026-11-16T09:32:57.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-      "publishedAt": "2026-11-16T09:30:04.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน! PostgreSQL ออกอัปเดตแก้ไข 52 ช่องโหว่ เสี่ยงถูกสั่งรันคำสั่งบนเซิร์ฟเวอร์",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! PostgreSQL ออกอัปเดตแก้ไข 52 ช่องโหว่ เสี่ยงถูกสั่งรันคำสั่งบนเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response Team…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/16/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-postgresql-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%81%e0%b8%81/",
-      "publishedAt": "2026-11-16T09:05:56.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
-      "summary": "Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
-      "publishedAt": "2026-11-16T08:15:12.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "publishedAt": "2026-11-16T07:34:21.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity,…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "publishedAt": "2026-11-16T06:53:34.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISA เพิ่มช่องโหว่ Check Point และ UnrealIRCd ในบัญชี KEV หลังพบถูกใช้โจมตีจริง",
-      "summary": "630/69 (IT) ประจำวันจันทร์ที่ 16 พฤศจิกายน 2569 CISA เพ […] The post CISA เพิ่มช่องโหว่ Check Point และ UnrealIRCd ในบัญชี KEV หลังพบถูกใช้โจมตีจริง first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/16/cisa-%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-check-point-%e0%b9%81%e0%b8%a5%e0%b8%b0-unrealircd-%e0%b9%83%e0%b8%99/",
-      "publishedAt": "2026-11-16T06:14:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "publishedAt": "2026-11-15T18:29:53.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "publishedAt": "2026-11-15T08:22:04.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน! ช่องโหว่บน MongoDB อาจเปิดช่องให้แฮกเกอร์โจมตีเซิร์ฟเวอร์ได้",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่บน MongoDB อาจเปิดช่องให้แฮกเกอร์โจมตีเซิร์ฟเวอร์ได้ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/14/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%9a%e0%b8%99-mongodb-%e0%b8%ad%e0%b8%b2/",
-      "publishedAt": "2026-11-14T14:58:17.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "publishedAt": "2026-11-14T12:38:35.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "เตือนภัย! PTC ออกแพตช์ด่วนอุดช่องโหว่บนซอฟต์แวร์ Windchill และ FlexPLM เสี่ยงถูกแฮกเกอร์เรียกใช้คำสั่งอันตราย",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือนภัย! PTC ออกแพตช์ด่วนอุดช่องโหว่บนซอฟต์แวร์ Windchill และ FlexPLM เสี่ยงถูกแฮกเกอร์เรียกใช้คำสั่งอันตราย first appeared on Thailand Computer…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/14/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-ptc-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b8%94%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%ad/",
-      "publishedAt": "2026-11-14T11:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "เตือน! พบช่องโหว่ใน Red Hat Quay เสี่ยงข้อมูล Container Images รั่วไหลและถูกแก้ไขโดยไม่ได้รับอนุญาต",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือน! พบช่องโหว่ใน Red Hat Quay เสี่ยงข้อมูล Container Images รั่วไหลและถูกแก้ไขโดยไม่ได้รับอนุญาต first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/14/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-red-hat-quay-%e0%b9%80%e0%b8%aa%e0%b8%b5/",
-      "publishedAt": "2026-11-14T07:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "เตือนภัย! ช่องโหว่ PHP2Shell ใน Check Point Security Gateway ถูกใช้โจมตีจริง เสี่ยงถูกเข้าควบคุมและกระทบระบบสำคัญขององค์กร",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือนภัย! ช่องโหว่ PHP2Shell ใน Check Point Security Gateway ถูกใช้โจมตีจริง เสี่ยงถูกเข้าควบคุมและกระทบระบบสำคัญขององค์กร first appeared on Thailand…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/14/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-php2shell-%e0%b9%83%e0%b8%99-check-point-security-gat/",
-      "publishedAt": "2026-11-14T01:45:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
-      "summary": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-      "publishedAt": "2026-11-13T20:20:27.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือนช่องโหว่ระดับ Critical ใน N-able N-central เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE และเข้าควบคุมระบบโดยไม่ได้รับอนุญาต",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ระดับ Critical ใน N-able N-central เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE และเข้าควบคุมระบบโดยไม่ได้รับอนุญาต first appeared on Thailand…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/13/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-3/",
-      "publishedAt": "2026-11-13T16:50:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "publishedAt": "2026-11-13T14:28:58.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
-      "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
-      "publishedAt": "2026-11-13T13:00:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "publishedAt": "2026-11-13T11:52:31.000Z",
-      "category": "ai-security"
     }
   ]
 }
