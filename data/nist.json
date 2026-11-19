@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-18T04:06:27.912Z",
+  "generatedAt": "2026-11-19T04:02:28.664Z",
   "items": [
+    {
+      "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+      "summary": "The technique offers the potential to protect infrastructure, safeguard financial institutions and prevent phishing.",
+      "source": "NIST News",
+      "url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+      "publishedAt": "2026-11-18T12:00:00.000Z"
+    },
     {
       "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
       "summary": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses.",
@@ -98,13 +105,6 @@
       "source": "NIST Cybersecurity Insights",
       "url": "https://www.nist.gov/blogs/cybersecurity-insights/stronger-cybersecurity-programs-start-people-nist-wants-your-input-path",
       "publishedAt": "2026-08-17T12:00:00.000Z"
-    },
-    {
-      "title": "Shaping the NVD for the Future: We Need Your Feedback on AI-Enabled Vulnerability Management",
-      "summary": "For over two decades, the NIST National Vulnerability Database (NVD) has served as the U.S. government repository for standards-based vulnerability management data and as a foundational resource for cybersecurity risk…",
-      "source": "NIST Cybersecurity Insights",
-      "url": "https://www.nist.gov/blogs/cybersecurity-insights/shaping-nvd-future-we-need-your-feedback-ai-enabled-vulnerability",
-      "publishedAt": "2026-08-12T12:00:00.000Z"
     }
   ]
 }
