@@ -1,6 +1,198 @@
 {
-  "generatedAt": "2026-11-20T03:54:49.004Z",
+  "generatedAt": "2026-11-21T03:51:13.512Z",
   "items": [
+    {
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire…",
+      "source": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "publishedAt": "2026-11-21T00:36:39.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "publishedAt": "2026-11-20T21:03:27.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "publishedAt": "2026-11-20T18:51:43.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "publishedAt": "2026-11-20T17:57:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "publishedAt": "2026-11-20T17:30:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "publishedAt": "2026-11-20T16:58:16.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+      "summary": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+      "publishedAt": "2026-11-20T16:01:02.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "publishedAt": "2026-11-20T15:58:06.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "publishedAt": "2026-11-20T15:00:10.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+      "summary": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News:…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+      "publishedAt": "2026-11-20T14:56:23.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "N-able says recent security breach led to major service outage",
+      "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "publishedAt": "2026-11-20T13:18:36.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "publishedAt": "2026-11-20T12:20:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "The Path to AI Autonomy in the SOC",
+      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+      "summary": "Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+      "publishedAt": "2026-11-20T11:36:51.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "publishedAt": "2026-11-20T10:57:43.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+      "summary": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+      "publishedAt": "2026-11-20T10:51:42.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+      "summary": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+      "publishedAt": "2026-11-20T10:34:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+      "publishedAt": "2026-11-20T10:32:50.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "publishedAt": "2026-11-20T09:38:15.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "N-able Blames Service Disruption on Cyberattack",
+      "summary": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+      "publishedAt": "2026-11-20T09:08:35.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "ช่องโหว่ระดับ Critical ใน Drupal เสี่ยงถูกติดตั้งระบบใหม่และเข้าควบคุมเว็บไซต์",
+      "summary": "642/69 (IT) ประจำวันศุกร์ที่ 20 พฤศจิกายน 2569 Drupal เ […] The post ช่องโหว่ระดับ Critical ใน Drupal เสี่ยงถูกติดตั้งระบบใหม่และเข้าควบคุมเว็บไซต์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/20/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-critical-%e0%b9%83%e0%b8%99-drupal-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2/",
+      "publishedAt": "2026-11-20T08:34:55.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "PHP ออกอัปเดตเพื่อแก้ไข 7 ช่องโหว่ระดับวิกฤต ผู้ดูแลระบบควรเร่งตรวจสอบและอัปเดต",
+      "summary": "640/69 (IT) ประจำวันศุกร์ที่ 20 พฤศจิกายน 2569 ทีมพัฒนา […] The post PHP ออกอัปเดตเพื่อแก้ไข 7 ช่องโหว่ระดับวิกฤต ผู้ดูแลระบบควรเร่งตรวจสอบและอัปเดต first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/20/php-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82-7-%e0%b8%8a%e0%b9%88/",
+      "publishedAt": "2026-11-20T08:32:29.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+      "publishedAt": "2026-11-20T07:11:39.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "publishedAt": "2026-11-20T05:30:01.000Z",
+      "category": "kill-chain"
+    },
     {
       "title": "แจ้งเตือนพบแพ็กเกจ Microsoft Agent Framework บน PyPI ถูกฝังมัลแวร์ เสี่ยงถูกขโมยข้อมูลรับรองและ Token สำหรับเข้าถึงระบบ Cloud",
       "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนพบแพ็กเกจ Microsoft Agent Framework บน PyPI ถูกฝังมัลแวร์ เสี่ยงถูกขโมยข้อมูลรับรองและ Token สำหรับเข้าถึงระบบ Cloud first appeared on…",
@@ -58,7 +250,7 @@
       "category": "pqc"
     },
     {
-      "title": "Second Norwegian Energy Company Breached in Two Days",
+      "title": "Second Norwegian Energy Company Breached in 2 Days",
       "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
@@ -66,7 +258,7 @@
       "category": "kill-chain"
     },
     {
-      "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+      "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
       "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
@@ -127,198 +319,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
       "publishedAt": "2026-11-19T15:11:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "publishedAt": "2026-11-19T15:00:10.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "publishedAt": "2026-11-19T14:33:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Nvidia Responds to Gentlemen Ransomware Claim",
-      "summary": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
-      "publishedAt": "2026-11-19T14:17:32.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
-      "summary": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
-      "publishedAt": "2026-11-19T13:12:20.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "publishedAt": "2026-11-19T13:08:08.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
-      "summary": "Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-      "publishedAt": "2026-11-19T12:13:24.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "publishedAt": "2026-11-19T11:52:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
-      "summary": "The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code. The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
-      "publishedAt": "2026-11-19T10:26:51.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "publishedAt": "2026-11-19T09:31:26.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "publishedAt": "2026-11-19T09:23:21.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
-      "summary": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
-      "publishedAt": "2026-11-19T09:10:58.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "publishedAt": "2026-11-19T08:42:11.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "publishedAt": "2026-11-19T08:14:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "publishedAt": "2026-11-19T08:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Google อัปเดต Chrome 158 แก้ไขช่องโหว่ 204 รายการ เสี่ยงถูกโจมตีผ่านเบราว์เซอร์",
-      "summary": "639/69 (IT) ประจำวันพฤหัสบดีที่ 19 พฤศจิกายน 2569 Googl […] The post Google อัปเดต Chrome 158 แก้ไขช่องโหว่ 204 รายการ เสี่ยงถูกโจมตีผ่านเบราว์เซอร์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/19/google-%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95-chrome-158-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-204/",
-      "publishedAt": "2026-11-19T07:49:47.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "CISA เพิ่มช่องโหว่ระดับ Critical ใน Perforce Puppet Enterprise ลงบัญชี KEV เสี่ยงถูกสั่งให้ระบบทำงานโดยไม่ได้รับอนุญาตและเข้าควบคุมเซิร์ฟเวอร์",
-      "summary": "638/69 (IT) ประจำวันพฤหัสบดีที่ 19 พฤศจิกายน 2569 สำนัก […] The post CISA เพิ่มช่องโหว่ระดับ Critical ใน Perforce Puppet Enterprise ลงบัญชี KEV เสี่ยงถูกสั่งให้ระบบทำงานโดยไม่ได้รับอนุญาตและเข้าควบคุมเซิร์ฟเวอร์ first…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/19/cisa-%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-critical-%e0%b9%83%e0%b8%99-perf/",
-      "publishedAt": "2026-11-19T07:47:50.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ช่องโหว่ Java4Shell ใน OpenJDK แนะนำให้องค์กรเร่งอัปเดตแพตช์ทันที",
-      "summary": "637/69 (IT) ประจำวันพฤหัสบดีที่ 19 พฤศจิกายน 2569 นักวิ […] The post ช่องโหว่ Java4Shell ใน OpenJDK แนะนำให้องค์กรเร่งอัปเดตแพตช์ทันที first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/19/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-java4shell-%e0%b9%83%e0%b8%99-openjdk-%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%99%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ad/",
-      "publishedAt": "2026-11-19T07:46:39.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือนช่องโหว่ระดับ Critical ใน Apache Roller เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE โดยไม่ต้องผ่านการยืนยันตัวตน",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ระดับ Critical ใน Apache Roller เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE โดยไม่ต้องผ่านการยืนยันตัวตน first appeared on Thailand Computer…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/19/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-6/",
-      "publishedAt": "2026-11-19T04:36:03.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-      "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide.…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-      "publishedAt": "2026-11-18T23:08:33.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-      "summary": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-      "publishedAt": "2026-11-18T21:59:46.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-      "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers.…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-      "publishedAt": "2026-11-18T20:49:32.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
-      "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
-      "publishedAt": "2026-11-18T20:45:49.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
-      "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
-      "publishedAt": "2026-11-18T20:38:42.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-      "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-      "publishedAt": "2026-11-18T19:39:33.000Z",
       "category": "kill-chain"
     }
   ]
