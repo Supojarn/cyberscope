@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-22T02:54:55.589Z",
+  "generatedAt": "2026-11-23T03:36:53.675Z",
   "items": [
+    {
+      "title": "แจ้งเตือน พบช่องโหว่ Zero-Day บน Windows (FastUnlock) เปิดโอกาสให้ข้ามหน้าล็อกจอเพื่อเรียกใช้โปรแกรมได้โดยไม่ต้องลงชื่อเข้าใช้งาน",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน พบช่องโหว่ Zero-Day บน Windows (FastUnlock) เปิดโอกาสให้ข้ามหน้าล็อกจอเพื่อเรียกใช้โปรแกรมได้โดยไม่ต้องลงชื่อเข้าใช้งาน first appeared on…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/23/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b8%9a%e0%b8%99/",
+      "publishedAt": "2026-11-23T01:40:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "publishedAt": "2026-11-22T18:45:37.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "publishedAt": "2026-11-22T15:43:04.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "publishedAt": "2026-11-22T15:15:25.000Z",
+      "category": "pqc"
+    },
+    {
+      "title": "แจ้งเตือนพบการโจมตีจริงผ่านช่องโหว่ระดับ Critical ใน Cisco Expressway เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE ด้วยสิทธิ์ root",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนพบการโจมตีจริงผ่านช่องโหว่ระดับ Critical ใน Cisco Expressway เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE ด้วยสิทธิ์ root first appeared on Thailand…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/22/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%88%e0%b8%a3%e0%b8%b4/",
+      "publishedAt": "2026-11-22T10:31:46.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "แจ้งเตือน! Splunk แก้ไขช่องโหว่จำนวน 139 รายการ พบช่องโหว่ระดับ Critical เสี่ยงถูกข้ามการยืนยันตัวตนและโจมตีผ่านช่องโหว่ RCE",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! Splunk แก้ไขช่องโหว่จำนวน 139 รายการ พบช่องโหว่ระดับ Critical เสี่ยงถูกข้ามการยืนยันตัวตนและโจมตีผ่านช่องโหว่ RCE first appeared on…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/22/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-splunk-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7/",
+      "publishedAt": "2026-11-22T07:27:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
       "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
@@ -154,6 +202,14 @@
       "category": "kill-chain"
     },
     {
+      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+      "summary": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+      "publishedAt": "2026-11-20T13:51:30.000Z",
+      "category": "ai-security"
+    },
+    {
       "title": "N-able says recent security breach led to major service outage",
       "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
       "source": "BleepingComputer",
@@ -264,62 +320,6 @@
       "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
       "publishedAt": "2026-11-20T05:30:01.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือนพบแพ็กเกจ Microsoft Agent Framework บน PyPI ถูกฝังมัลแวร์ เสี่ยงถูกขโมยข้อมูลรับรองและ Token สำหรับเข้าถึงระบบ Cloud",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนพบแพ็กเกจ Microsoft Agent Framework บน PyPI ถูกฝังมัลแวร์ เสี่ยงถูกขโมยข้อมูลรับรองและ Token สำหรับเข้าถึงระบบ Cloud first appeared on…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/20/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%9e%e0%b9%87%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%88-microsoft-agent-framework-%e0%b8%9a/",
-      "publishedAt": "2026-11-20T03:25:43.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือน PHP เผยแพร่อัปเดตแก้ไขช่องโหว่ระดับ Critical หลายรายการ เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน PHP เผยแพร่อัปเดตแก้ไขช่องโหว่ระดับ Critical หลายรายการ เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/20/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-php-%e0%b9%80%e0%b8%9c%e0%b8%a2%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b9%88%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94/",
-      "publishedAt": "2026-11-20T02:30:13.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "แจ้งเตือน พบช่องโหว่ใน NGINX ที่เปิดใช้งาน HTTP/2 เสี่ยงถูกสั่งประมวลผลคำสั่งโดยไม่ต้องเข้าสู่ระบบ",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน พบช่องโหว่ใน NGINX ที่เปิดใช้งาน HTTP/2 เสี่ยงถูกสั่งประมวลผลคำสั่งโดยไม่ต้องเข้าสู่ระบบ first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/20/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-nginx/",
-      "publishedAt": "2026-11-20T02:28:50.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "F5 เตือนภัยด่วน! พบช่องโหว่ใน BIG-IP เสี่ยงทำทราฟฟิกระบบล่มและอาจถูกยึดเครื่อง",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post F5 เตือนภัยด่วน! พบช่องโหว่ใน BIG-IP เสี่ยงทำทราฟฟิกระบบล่มและอาจถูกยึดเครื่อง first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/20/f5-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%94%e0%b9%88%e0%b8%a7%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7/",
-      "publishedAt": "2026-11-20T02:27:34.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "publishedAt": "2026-11-20T00:26:25.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
-      "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
-      "publishedAt": "2026-11-19T22:40:03.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-      "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-      "publishedAt": "2026-11-19T21:15:59.000Z",
-      "category": "pqc"
     }
   ]
 }
