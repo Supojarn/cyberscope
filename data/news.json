@@ -1,6 +1,230 @@
 {
-  "generatedAt": "2026-11-23T03:36:53.675Z",
+  "generatedAt": "2026-11-24T06:51:31.996Z",
   "items": [
+    {
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "publishedAt": "2026-11-24T06:02:57.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "publishedAt": "2026-11-24T06:02:45.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
+      "summary": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+      "publishedAt": "2026-11-23T21:21:42.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "publishedAt": "2026-11-23T20:54:51.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "publishedAt": "2026-11-23T19:42:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "publishedAt": "2026-11-23T18:38:40.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+      "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+      "publishedAt": "2026-11-23T17:45:52.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "publishedAt": "2026-11-23T17:45:15.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
+      "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+      "publishedAt": "2026-11-23T16:17:21.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
+      "summary": "Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+      "publishedAt": "2026-11-23T15:47:40.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI Agents Are Creating a Shared Responsibility Gap",
+      "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+      "publishedAt": "2026-11-23T15:00:10.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
+      "summary": "If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE. The post phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path appeared first on…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
+      "publishedAt": "2026-11-23T13:58:07.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "เตือนภัย! ช่องโหว่ Linux KVM บน AMD เสี่ยงถูกเข้าถึงหน่วยความจำ Host ผ่าน VM",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post เตือนภัย! ช่องโหว่ Linux KVM บน AMD เสี่ยงถูกเข้าถึงหน่วยความจำ Host ผ่าน VM first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/23/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-linux-kvm-%e0%b8%9a%e0%b8%99-amd-%e0%b9%80%e0%b8%aa/",
+      "publishedAt": "2026-11-23T13:52:54.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
+      "summary": "Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware. The post GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
+      "publishedAt": "2026-11-23T13:26:22.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+      "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+      "publishedAt": "2026-11-23T13:22:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+      "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+      "publishedAt": "2026-11-23T12:41:04.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+      "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+      "publishedAt": "2026-11-23T12:28:09.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
+      "summary": "Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services. The post AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
+      "publishedAt": "2026-11-23T12:16:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
+      "summary": "Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies. The post BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
+      "publishedAt": "2026-11-23T11:44:18.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
+      "summary": "Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
+      "publishedAt": "2026-11-23T11:35:15.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+      "publishedAt": "2026-11-23T09:11:56.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+      "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+      "publishedAt": "2026-11-23T09:04:08.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+      "publishedAt": "2026-11-23T08:24:15.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "publishedAt": "2026-11-23T07:44:19.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "นักวิจัยพบช่องโหว่ Ghostscript เสี่ยงถูกข้ามระบบป้องกันและรันคำสั่งบนเซิร์ฟเวอร์ผ่านไฟล์อันตราย",
+      "summary": "645/69 (IT) ประจำวันจันทร์ที่ 23 พฤศจิกายน 2569 นักวิจั […] The post นักวิจัยพบช่องโหว่ Ghostscript เสี่ยงถูกข้ามระบบป้องกันและรันคำสั่งบนเซิร์ฟเวอร์ผ่านไฟล์อันตราย first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/23/%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a7%e0%b8%b4%e0%b8%88%e0%b8%b1%e0%b8%a2%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-ghostscript-%e0%b9%80%e0%b8%aa/",
+      "publishedAt": "2026-11-23T07:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Amazon พบผู้โจมตีใช้ AI Agents ค้นพบและโจมตีช่องโหว่ Zero-Day โดยอัตโนมัติ จนสามารถเข้าควบคุมเซิร์ฟเวอร์ด้วยสิทธิ์สูงสุด",
+      "summary": "644/69 (IT) ประจำวันจันทร์ที่ 23 พฤศจิกายน 2569 ทีม Thr […] The post Amazon พบผู้โจมตีใช้ AI Agents ค้นพบและโจมตีช่องโหว่ Zero-Day โดยอัตโนมัติ จนสามารถเข้าควบคุมเซิร์ฟเวอร์ด้วยสิทธิ์สูงสุด first appeared on Thailand…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/23/amazon-%e0%b8%9e%e0%b8%9a%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-ai-agents-%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%a5/",
+      "publishedAt": "2026-11-23T07:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "พบการโจมตีช่องโหว่ระบบคลาวด์ของ GL.iNet เพื่อติดตั้งมัลแวร์บนเราเตอร์และอุปกรณ์ KVM",
+      "summary": "643/69 (IT) ประจำวันจันทร์ที่ 23 พฤศจิกายน 2569 บริษัท […] The post พบการโจมตีช่องโหว่ระบบคลาวด์ของ GL.iNet เพื่อติดตั้งมัลแวร์บนเราเตอร์และอุปกรณ์ KVM first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/23/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a/",
+      "publishedAt": "2026-11-23T07:00:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "CISA เพิ่ม 4 ช่องโหว่ใน VMware, Cisco, Apache และ SAP ลงบัญชี KEV หลังพบหลักฐานการโจมตีจริง เสี่ยงถูกเข้าควบคุมระบบและเข้าถึงข้อมูลสำคัญ",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post CISA เพิ่ม 4 ช่องโหว่ใน VMware, Cisco, Apache และ SAP ลงบัญชี KEV หลังพบหลักฐานการโจมตีจริง เสี่ยงถูกเข้าควบคุมระบบและเข้าถึงข้อมูลสำคัญ first…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/23/cisa-%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%a1-4-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-vmware-cisco-apache-%e0%b9%81%e0%b8%a5%e0%b8%b0-sap/",
+      "publishedAt": "2026-11-23T02:50:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "แจ้งเตือน พบช่องโหว่ Zero-Day บน Windows (FastUnlock) เปิดโอกาสให้ข้ามหน้าล็อกจอเพื่อเรียกใช้โปรแกรมได้โดยไม่ต้องลงชื่อเข้าใช้งาน",
       "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน พบช่องโหว่ Zero-Day บน Windows (FastUnlock) เปิดโอกาสให้ข้ามหน้าล็อกจอเพื่อเรียกใช้โปรแกรมได้โดยไม่ต้องลงชื่อเข้าใช้งาน first appeared on…",
@@ -66,30 +290,6 @@
       "category": "pqc"
     },
     {
-      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-      "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-      "publishedAt": "2026-11-21T15:17:27.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-      "publishedAt": "2026-11-21T14:26:04.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-      "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
-      "publishedAt": "2026-11-21T12:08:50.000Z",
-      "category": "ai-security"
-    },
-    {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
       "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to…",
       "source": "The Hacker News",
@@ -119,206 +319,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
       "publishedAt": "2026-11-21T08:49:13.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
-      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire…",
-      "source": "Krebs on Security",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "publishedAt": "2026-11-21T00:36:39.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
-      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-      "publishedAt": "2026-11-20T21:03:27.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "publishedAt": "2026-11-20T18:51:43.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "publishedAt": "2026-11-20T17:57:20.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "publishedAt": "2026-11-20T17:30:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "publishedAt": "2026-11-20T16:58:16.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
-      "summary": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
-      "publishedAt": "2026-11-20T16:01:02.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "publishedAt": "2026-11-20T15:58:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-      "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-      "publishedAt": "2026-11-20T15:00:10.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
-      "summary": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News:…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
-      "publishedAt": "2026-11-20T14:56:23.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
-      "summary": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
-      "publishedAt": "2026-11-20T13:51:30.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "N-able says recent security breach led to major service outage",
-      "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-      "publishedAt": "2026-11-20T13:18:36.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "publishedAt": "2026-11-20T12:20:00.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "The Path to AI Autonomy in the SOC",
-      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
-      "summary": "Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
-      "publishedAt": "2026-11-20T11:36:51.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-      "publishedAt": "2026-11-20T10:57:43.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
-      "summary": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
-      "publishedAt": "2026-11-20T10:51:42.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
-      "summary": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
-      "publishedAt": "2026-11-20T10:34:10.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "publishedAt": "2026-11-20T10:32:50.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "publishedAt": "2026-11-20T09:38:15.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "N-able Blames Service Disruption on Cyberattack",
-      "summary": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
-      "publishedAt": "2026-11-20T09:08:35.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "ช่องโหว่ระดับ Critical ใน Drupal เสี่ยงถูกติดตั้งระบบใหม่และเข้าควบคุมเว็บไซต์",
-      "summary": "642/69 (IT) ประจำวันศุกร์ที่ 20 พฤศจิกายน 2569 Drupal เ […] The post ช่องโหว่ระดับ Critical ใน Drupal เสี่ยงถูกติดตั้งระบบใหม่และเข้าควบคุมเว็บไซต์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/20/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-critical-%e0%b9%83%e0%b8%99-drupal-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2/",
-      "publishedAt": "2026-11-20T08:34:55.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "PHP ออกอัปเดตเพื่อแก้ไข 7 ช่องโหว่ระดับวิกฤต ผู้ดูแลระบบควรเร่งตรวจสอบและอัปเดต",
-      "summary": "640/69 (IT) ประจำวันศุกร์ที่ 20 พฤศจิกายน 2569 ทีมพัฒนา […] The post PHP ออกอัปเดตเพื่อแก้ไข 7 ช่องโหว่ระดับวิกฤต ผู้ดูแลระบบควรเร่งตรวจสอบและอัปเดต first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/20/php-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82-7-%e0%b8%8a%e0%b9%88/",
-      "publishedAt": "2026-11-20T08:32:29.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-      "publishedAt": "2026-11-20T07:11:39.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "publishedAt": "2026-11-20T05:30:01.000Z",
       "category": "kill-chain"
     }
   ]
