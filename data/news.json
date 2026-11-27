@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-11-26T04:48:20.332Z",
+  "generatedAt": "2026-11-27T04:52:29.900Z",
   "items": [
+    {
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "publishedAt": "2026-11-26T17:15:27.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "publishedAt": "2026-11-26T15:23:28.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "publishedAt": "2026-11-26T15:13:41.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+      "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+      "publishedAt": "2026-11-26T13:04:06.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "publishedAt": "2026-11-26T11:50:17.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+      "summary": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+      "publishedAt": "2026-11-26T11:35:25.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "publishedAt": "2026-11-26T10:57:55.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "publishedAt": "2026-11-26T10:57:25.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+      "summary": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+      "publishedAt": "2026-11-26T09:12:26.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+      "summary": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+      "publishedAt": "2026-11-26T08:32:10.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "publishedAt": "2026-11-26T07:02:34.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Palo Alto Networks แก้ช่องโหว่ Fragnesia ใน PAN-OS หลังพบถูกใช้โจมตีเพื่อยกระดับสิทธิ์เป็น Root",
+      "summary": "654/69 (IT) ประจำวันพฤหัสบดีที่ 26 พฤศจิกายน 2569 Palo […] The post Palo Alto Networks แก้ช่องโหว่ Fragnesia ใน PAN-OS หลังพบถูกใช้โจมตีเพื่อยกระดับสิทธิ์เป็น Root first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/26/palo-alto-networks-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-fragnesia-%e0%b9%83%e0%b8%99-pan-os-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b8%9e/",
+      "publishedAt": "2026-11-26T07:02:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "ภัยคุกคามทางไซเบอร์ในอุตสาหกรรมการเดินเรือเพิ่มสูงขึ้น คาดเรือพาณิชย์ตกเป็นเป้าหมายถึง 50 ลำ",
+      "summary": "653/69 (IT) ประจำวันพฤหัสบดีที่ 26 พฤศจิกายน 2569 ทางกา […] The post ภัยคุกคามทางไซเบอร์ในอุตสาหกรรมการเดินเรือเพิ่มสูงขึ้น คาดเรือพาณิชย์ตกเป็นเป้าหมายถึง 50 ลำ first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/26/%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b8%81%e0%b8%84%e0%b8%b2%e0%b8%a1%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%83%e0%b8%99%e0%b8%ad/",
+      "publishedAt": "2026-11-26T07:01:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "publishedAt": "2026-11-26T06:44:46.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน! ช่องโหว่ระดับ Critical ใน VMware vCenter และ ESX เสี่ยงถูกสั่งรันคำสั่งและเข้าควบคุมระบบโดยไม่ต้องยืนยันตัวตน…",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ระดับ Critical ใน VMware vCenter และ ESX เสี่ยงถูกสั่งรันคำสั่งและเข้าควบคุมระบบโดยไม่ต้องยืนยันตัวตน…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/26/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-10/",
+      "publishedAt": "2026-11-26T04:30:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
       "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF…",
@@ -122,27 +242,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
-      "summary": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared…",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
-      "publishedAt": "2026-11-25T09:05:13.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Microsoft confirms authentication issues after November updates",
       "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
       "publishedAt": "2026-11-25T09:02:57.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
-      "summary": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
-      "publishedAt": "2026-11-25T08:01:06.000Z",
       "category": "kill-chain"
     },
     {
@@ -194,51 +298,11 @@
       "category": "thailand"
     },
     {
-      "title": "อัปเดตด่วน! Google Chrome แก้ไขช่องโหว่ CVE-2026-134401 แนะนำผู้ใช้งานเร่งอัปเดตเว็บเบราว์เซอร์ทันที",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post อัปเดตด่วน! Google Chrome แก้ไขช่องโหว่ CVE-2026-134401 แนะนำผู้ใช้งานเร่งอัปเดตเว็บเบราว์เซอร์ทันที first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/25/%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b8%94%e0%b9%88%e0%b8%a7%e0%b8%99-google-chrome-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82/",
-      "publishedAt": "2026-11-25T01:30:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
-      "summary": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
-      "publishedAt": "2026-11-24T22:41:58.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
       "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
       "publishedAt": "2026-11-24T21:48:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Rackspace shuts down Spot cloud platform after security breach",
-      "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-      "publishedAt": "2026-11-24T21:37:30.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "New Inception extortion gang launches large-scale vishing campaign",
-      "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "publishedAt": "2026-11-24T20:21:20.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Radware discloses breach exposing customer cloud access keys",
-      "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "publishedAt": "2026-11-24T17:49:05.000Z",
       "category": "kill-chain"
     },
     {
@@ -256,70 +320,6 @@
       "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
       "publishedAt": "2026-11-24T13:28:26.000Z",
       "category": "kill-chain"
-    },
-    {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "publishedAt": "2026-11-24T12:42:09.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
-      "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
-      "publishedAt": "2026-11-24T10:44:49.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือนช่องโหว่ในไลบรารี ASP.NET Anti-CSRF ถูกใช้โจมตีจริง เสี่ยงถูกควบคุมเครื่องแม่ข่ายได้โดยไม่ต้องยืนยันตัวตน",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ในไลบรารี ASP.NET Anti-CSRF ถูกใช้โจมตีจริง เสี่ยงถูกควบคุมเครื่องแม่ข่ายได้โดยไม่ต้องยืนยันตัวตน first appeared on Thailand Computer…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/24/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%9a-2/",
-      "publishedAt": "2026-11-24T09:39:59.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
-      "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
-      "publishedAt": "2026-11-24T08:34:20.000Z",
-      "category": "pqc"
-    },
-    {
-      "title": "Cleverbridge แจ้งเหตุข้อมูลรั่วไหล กระทบข้อมูลบัตรชำระเงินของผู้ใช้งาน",
-      "summary": "648/69 (IT) ประจำวันอังคารที่ 24 พฤศจิกายน 2569 Cleverb […] The post Cleverbridge แจ้งเหตุข้อมูลรั่วไหล กระทบข้อมูลบัตรชำระเงินของผู้ใช้งาน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/24/cleverbridge-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%ab/",
-      "publishedAt": "2026-11-24T07:02:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "พบการโจมตีช่องโหว่ระดับ Critical ใน ASP.NET Anti-CSRF Library เสี่ยงถูกเข้าควบคุมเว็บเซิร์ฟเวอร์โดยไม่ต้องยืนยันตัวตน",
-      "summary": "647/69 (IT) ประจำวันอังคารที่ 24 พฤศจิกายน 2569 ักวิจัย […] The post พบการโจมตีช่องโหว่ระดับ Critical ใน ASP.NET Anti-CSRF Library เสี่ยงถูกเข้าควบคุมเว็บเซิร์ฟเวอร์โดยไม่ต้องยืนยันตัวตน first appeared on Thailand…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/24/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-2/",
-      "publishedAt": "2026-11-24T07:01:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
-      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
-      "publishedAt": "2026-11-24T06:02:57.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
-      "publishedAt": "2026-11-24T06:02:45.000Z",
-      "category": "ai-security"
     }
   ]
 }
