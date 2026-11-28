@@ -1,6 +1,166 @@
 {
-  "generatedAt": "2026-11-27T04:52:29.900Z",
+  "generatedAt": "2026-11-28T04:37:33.989Z",
   "items": [
+    {
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "publishedAt": "2026-11-27T18:57:42.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "publishedAt": "2026-11-27T17:06:13.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "summary": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "publishedAt": "2026-11-27T15:09:40.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน พบช่องโหว่ใน Hex.pm เสี่ยงถูกสั่งประมวลผลคำสั่งและเข้าถึงข้อมูลบัญชีผู้ใช้งาน",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน พบช่องโหว่ใน Hex.pm เสี่ยงถูกสั่งประมวลผลคำสั่งและเข้าถึงข้อมูลบัญชีผู้ใช้งาน first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-hex-pm/",
+      "publishedAt": "2026-11-27T14:35:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "publishedAt": "2026-11-27T14:22:06.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือนช่องโหว่ใน MONAI Label (CVE-2026-133968 ) เสี่ยงถูกเข้าถึงและแก้ไขไฟล์ภายในระบบโดยไม่ได้รับอนุญาต",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ใน MONAI Label (CVE-2026-133968 ) เสี่ยงถูกเข้าถึงและแก้ไขไฟล์ภายในระบบโดยไม่ได้รับอนุญาต first appeared on Thailand Computer…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-monai-label-cve-2026-133968/",
+      "publishedAt": "2026-11-27T12:30:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "publishedAt": "2026-11-27T11:49:34.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+      "summary": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. The post In Other News: Tanker…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+      "publishedAt": "2026-11-27T11:00:00.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "publishedAt": "2026-11-27T10:10:15.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "100,000 Potentially Impacted by Colorado Data Breach",
+      "summary": "Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data. The post 100,000 Potentially Impacted by Colorado Data Breach appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+      "publishedAt": "2026-11-27T09:30:54.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือน พบช่องโหว่ใน Drupal เสี่ยงถูกควบคุมเว็บไซต์และสั่งประมวลผลคำสั่งโดยไม่ต้องยืนยันตัวตน",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน พบช่องโหว่ใน Drupal เสี่ยงถูกควบคุมเว็บไซต์และสั่งประมวลผลคำสั่งโดยไม่ต้องยืนยันตัวตน first appeared on Thailand Computer Emergency Response…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-drupal/",
+      "publishedAt": "2026-11-27T09:30:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "publishedAt": "2026-11-27T09:29:30.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "summary": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "publishedAt": "2026-11-27T08:06:58.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "Hex Package Manager Warns of Potential Data Breach",
+      "summary": "A vulnerability in hex.pm allowed hackers to run commands on web servers. No evidence of data modification was found, but database reads are not logged. The post Hex Package Manager Warns of Potential Data Breach…",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+      "publishedAt": "2026-11-27T07:44:49.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "เตือนภัยมัลแวร์ SYS010 แพร่ผ่านโฆษณาปลอม เสี่ยงถูกขโมยบัญชีและข้อมูลอีเมล",
+      "summary": "657/69 (IT) ประจำวันศุกร์ที่ 27 พฤศจิกายน 2569 นักวิจัย […] The post เตือนภัยมัลแวร์ SYS010 แพร่ผ่านโฆษณาปลอม เสี่ยงถูกขโมยบัญชีและข้อมูลอีเมล first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/27/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-sys010-%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b9%88%e0%b8%9c%e0%b9%88/",
+      "publishedAt": "2026-11-27T07:12:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "พบแคมเปญ Phishing แอบอ้างบริษัทชั้นนำ หลอกสัมภาษณ์ผู้เชี่ยวชาญพร้อมเสนอค่าตอบแทน เพื่อขโมยข้อมูลบัญชี Google และ Okta",
+      "summary": "656/69 (IT) ประจำวันศุกร์ที่ 27 พฤศจิกายน 2569 บริษัทด้ […] The post พบแคมเปญ Phishing แอบอ้างบริษัทชั้นนำ หลอกสัมภาษณ์ผู้เชี่ยวชาญพร้อมเสนอค่าตอบแทน เพื่อขโมยข้อมูลบัญชี Google และ Okta first appeared on Thailand…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/27/%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d-phishing-%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b8%ad%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%a9%e0%b8%b1%e0%b8%97/",
+      "publishedAt": "2026-11-27T07:11:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "ระวังมัลแวร์ขโมยข้อมูล Remus แฝงตัวเป็นส่วนขยาย Google Sheets ปลอมบนเบราว์เซอร์ Chrome",
+      "summary": "655/69 (IT) ประจำวันศุกร์ที่ 27 พฤศจิกายน 2569 นักวิจัย […] The post ระวังมัลแวร์ขโมยข้อมูล Remus แฝงตัวเป็นส่วนขยาย Google Sheets ปลอมบนเบราว์เซอร์ Chrome first appeared on Thailand Computer Emergency Response Team…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/27/%e0%b8%a3%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%87%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b8%82%e0%b9%82%e0%b8%a1%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5-r/",
+      "publishedAt": "2026-11-27T07:10:00.000Z",
+      "category": "thailand"
+    },
+    {
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "publishedAt": "2026-11-27T06:04:20.000Z",
+      "category": "ai-security"
+    },
+    {
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be…",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "publishedAt": "2026-11-27T05:48:20.000Z",
+      "category": "kill-chain"
+    },
+    {
+      "title": "แจ้งเตือนช่องโหว่ SQL Injection ใน WHMCS อาจทำให้ผู้โจมตีเข้าถึงข้อมูลลูกค้าและแฮชรหัสผ่านผู้ดูแลระบบโดยไม่ต้องยืนยันตัวตน…",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือนช่องโหว่ SQL Injection ใน WHMCS อาจทำให้ผู้โจมตีเข้าถึงข้อมูลลูกค้าและแฮชรหัสผ่านผู้ดูแลระบบโดยไม่ต้องยืนยันตัวตน…",
+      "source": "ThaiCERT/ETDA",
+      "url": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-sql-injection-%e0%b9%83%e0%b8%99-whmcs/",
+      "publishedAt": "2026-11-27T04:30:00.000Z",
+      "category": "thailand"
+    },
     {
       "title": "Fake paid expert interviews impersonate brands to steal Google logins",
       "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews…",
@@ -19,7 +179,7 @@
     },
     {
       "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides…",
+      "summary": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity…",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
       "publishedAt": "2026-11-26T15:13:41.000Z",
@@ -31,14 +191,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
       "publishedAt": "2026-11-26T13:04:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-      "publishedAt": "2026-11-26T11:50:17.000Z",
       "category": "kill-chain"
     },
     {
@@ -114,14 +266,6 @@
       "category": "kill-chain"
     },
     {
-      "title": "แจ้งเตือน! ช่องโหว่ระดับ Critical ใน VMware vCenter และ ESX เสี่ยงถูกสั่งรันคำสั่งและเข้าควบคุมระบบโดยไม่ต้องยืนยันตัวตน…",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ระดับ Critical ใน VMware vCenter และ ESX เสี่ยงถูกสั่งรันคำสั่งและเข้าควบคุมระบบโดยไม่ต้องยืนยันตัวตน…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/26/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-10/",
-      "publishedAt": "2026-11-26T04:30:00.000Z",
-      "category": "thailand"
-    },
-    {
       "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
       "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF…",
       "source": "The Hacker News",
@@ -130,59 +274,11 @@
       "category": "kill-chain"
     },
     {
-      "title": "แจ้งเตือน! ช่องโหว่ระดับ Critical N-able Mail Assure เสี่ยงถูกใช้โจมตีแบบ SSRF เข้าถึงระบบและบริการภายใน",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน! ช่องโหว่ระดับ Critical N-able Mail Assure เสี่ยงถูกใช้โจมตีแบบ SSRF เข้าถึงระบบและบริการภายใน first appeared on Thailand Computer Emergency…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/26/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-9/",
-      "publishedAt": "2026-11-26T01:29:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-      "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-      "publishedAt": "2026-11-25T22:05:09.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "1Password customer data stolen after employee GitHub account breach",
-      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-      "publishedAt": "2026-11-25T21:33:33.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-      "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-      "publishedAt": "2026-11-25T19:39:31.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-      "publishedAt": "2026-11-25T16:13:40.000Z",
-      "category": "kill-chain"
-    },
-    {
       "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
       "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
       "publishedAt": "2026-11-25T15:48:04.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than…",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "publishedAt": "2026-11-25T15:00:00.000Z",
       "category": "kill-chain"
     },
     {
@@ -223,102 +319,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
       "publishedAt": "2026-11-25T11:23:26.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "publishedAt": "2026-11-25T10:10:20.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-      "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-      "publishedAt": "2026-11-25T09:06:59.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Microsoft confirms authentication issues after November updates",
-      "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "publishedAt": "2026-11-25T09:02:57.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "publishedAt": "2026-11-25T07:45:03.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Broadcom ออกอัปเดตแก้ไขช่องโหว่ 23 รายการในผลิตภัณฑ์ VMware แนะผู้ดูแลระบบเร่งอัปเดต vCenter และ ESX ทันที",
-      "summary": "649/69 (IT) ประจำวันพุธที่ 25 พฤศจิกายน 2569 Broadcom อ […] The post Broadcom ออกอัปเดตแก้ไขช่องโหว่ 23 รายการในผลิตภัณฑ์ VMware แนะผู้ดูแลระบบเร่งอัปเดต vCenter และ ESX ทันที first appeared on Thailand Computer…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/25/broadcom-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7-2/",
-      "publishedAt": "2026-11-25T07:00:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-      "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-      "publishedAt": "2026-11-25T06:50:19.000Z",
-      "category": "ai-security"
-    },
-    {
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-      "summary": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "publishedAt": "2026-11-25T06:37:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-      "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-      "publishedAt": "2026-11-25T06:21:12.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "แจ้งเตือน พบช่องโหว่ในไลบรารี binary-parser เสี่ยงถูกโจมตีผ่าน Code Injection และรัน JavaScript บนระบบ Node.js ในเวอร์ชันก่อน 2.3.1",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […] The post แจ้งเตือน พบช่องโหว่ในไลบรารี binary-parser เสี่ยงถูกโจมตีผ่าน Code Injection และรัน JavaScript บนระบบ Node.js ในเวอร์ชันก่อน 2.3.1 first appeared on…",
-      "source": "ThaiCERT/ETDA",
-      "url": "https://www.thaicert.or.th/2026/11/25/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99%e0%b9%84/",
-      "publishedAt": "2026-11-25T02:40:00.000Z",
-      "category": "thailand"
-    },
-    {
-      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
-      "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
-      "publishedAt": "2026-11-24T21:48:06.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "publishedAt": "2026-11-24T16:54:07.000Z",
-      "category": "kill-chain"
-    },
-    {
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The…",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "publishedAt": "2026-11-24T13:28:26.000Z",
       "category": "kill-chain"
     }
   ]
